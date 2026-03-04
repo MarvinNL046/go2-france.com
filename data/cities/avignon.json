@@ -1,0 +1,88 @@
+{
+  "slug": "avignon",
+  "name": {
+    "en": "Avignon"
+  },
+  "image": "/images/cities/avignon.webp",
+  "region": "Provence-Cote d'Azur",
+  "highlights": [
+    "Palais des Papes (Palace of the Popes)",
+    "Pont d'Avignon",
+    "Festival d'Avignon (Theater Festival)",
+    "Provencal Markets"
+  ],
+  "description": {
+    "en": "A medieval walled city on the banks of the Rhone, Avignon was the seat of the Catholic papacy for nearly a century and retains the monumental Palais des Papes — the largest Gothic palace in Europe — as proof of that extraordinary era. The famous half-bridge, the cobblestone streets of the walled center, the world-renowned Festival d'Avignon every July, and its position as a gateway to the lavender fields and hilltop villages of Provence make Avignon one of the most atmospheric small cities in France."
+  },
+  "overview": "Avignon is a city of 92,000 people in the Vaucluse department of Provence, known worldwide for the Palais des Papes and the Festival d'Avignon. From 1309 to 1377, seven successive popes resided in Avignon rather than Rome during the period known as the Avignon Papacy, and the city remained under papal control until the French Revolution in 1791. The Palais des Papes, built over this period, is the largest Gothic palace ever constructed and a UNESCO World Heritage Site, along with the historic center, the Pont d'Avignon (Pont Saint-Benezet), and the Rocher des Doms garden above the river. The Festival d'Avignon, founded by Jean Vilar in 1947, is one of the world's most important performing arts festivals, transforming the city every July with theater, dance, and performance in dozens of venues including the spectacular courtyard of the Palais des Papes. Beyond the festival, Avignon is an ideal base for exploring Provence — the lavender fields of the Luberon, the wine villages of Chateauneuf-du-Pape, the Roman aqueduct of the Pont du Gard, and the hilltop villages of Gordes and Roussillon are all within easy reach.",
+  "neighborhoods": [
+    {
+      "name": "Palais des Papes & Rocher des Doms",
+      "description": "The monumental quarter around the Palais des Papes is the historic and spiritual heart of Avignon. The palace itself is vast — 15,000 square meters of Gothic architecture with frescoed chapels, grand audience halls, and the Great Courtyard used for festival performances. Above, the Rocher des Doms garden offers panoramic views of the Rhone, Pont d'Avignon, Mont Ventoux, and the surrounding countryside.",
+      "highlights": [
+        "Palais des Papes",
+        "Rocher des Doms viewpoint",
+        "Cathedrale Notre-Dame des Doms",
+        "Petit Palais museum"
+      ]
+    },
+    {
+      "name": "Intra-Muros (Within the Walls)",
+      "description": "Avignon's remarkably well-preserved medieval walls encircle a compact old town of cobblestone streets, Renaissance mansions, shaded squares with fountains, and vibrant cafe terraces. The Place de l'Horloge is the main social square, while the quieter streets around Place des Corps-Saints and Rue des Teinturiers (the old dyers' street, with its waterwheels still turning) are the most atmospheric.",
+      "highlights": [
+        "Rue des Teinturiers",
+        "Place de l'Horloge",
+        "Place des Corps-Saints",
+        "Medieval ramparts walk"
+      ]
+    },
+    {
+      "name": "Pont d'Avignon & Riverside",
+      "description": "The Pont Saint-Benezet, known worldwide from the children's song 'Sur le Pont d'Avignon,' is a half-ruined 12th-century bridge that once spanned the Rhone. Only four of the original 22 arches survive, ending dramatically in mid-river. The Rhone riverbank offers walking and cycling paths with views of the bridge and the palace above.",
+      "highlights": [
+        "Pont d'Avignon (Pont Saint-Benezet)",
+        "Rhone riverbank walks",
+        "Ile de la Barthelasse (river island)",
+        "Views from Villeneuve-les-Avignon across the river"
+      ]
+    },
+    {
+      "name": "Les Halles & Market Quarter",
+      "description": "Les Halles d'Avignon is the city's central covered market, open every morning, with a remarkable living green wall on its facade and 40 stalls selling the finest Provencal produce — melons, tomatoes, olives, goat cheese, lavender honey, and charcuterie. Saturday mornings see the entire surrounding area alive with market stalls.",
+      "highlights": [
+        "Les Halles covered market",
+        "Saturday morning markets",
+        "Provencal produce and tastings",
+        "Patrick Blanc's living wall"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Avignon does not have a commercial airport. The nearest airports are Marseille Provence (MRS, 80 km south, 1 hour by TGV shuttle) and Nimes-Ales-Camargue-Cevennes (FNI, 40 km, shuttle bus available).",
+    "byTrain": "Avignon has two stations: Avignon TGV (5 km south of the center, served by TGV from Paris in 2h40, Lyon in 1h, Marseille in 30 min) and Avignon Centre (within the walls, served by regional trains). A shuttle bus connects the TGV station to the city center.",
+    "byBus": "FlixBus connects Avignon to major French cities. Regional buses connect to Arles, Nimes, Pont du Gard, and Luberon villages."
+  },
+  "gettingAround": "The walled city is compact and best explored on foot — you can walk from one end to the other in 20 minutes. Velopop bikeshare is available for longer distances. TCRA buses connect to surrounding areas. A car is useful for exploring Provence day trips to the Luberon, Chateauneuf-du-Pape, and the Pont du Gard, though organized tours are also widely available.",
+  "bestTimeToVisit": {
+    "best": "April to June, September to October; July for the Festival",
+    "description": "Avignon has a Mediterranean climate with hot summers and mild winters, heavily influenced by the Mistral wind. The Festival d'Avignon in July is the city's most exciting time but also its most crowded and expensive. Spring and early autumn offer lavender season, pleasant weather, and fewer crowds.",
+    "seasons": {
+      "spring": "April-June: 12-28°C (54-82°F). Lavender begins blooming in mid-June. Cherry season. Ideal for Provence day trips.",
+      "summer": "July-August: 20-34°C (68-93°F). Very hot. Festival d'Avignon in July transforms the city. Lavender at full bloom in early July.",
+      "autumn": "September-October: 14-24°C (57-75°F). Grape harvest season in Chateauneuf-du-Pape. Warm and golden. Fewer tourists.",
+      "winter": "November-March: 2-12°C (36-54°F). Mild but the Mistral wind can be biting. Christmas market. Truffle season in the Vaucluse."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 40-65/day",
+    "midRange": "EUR 90-200/day",
+    "luxury": "EUR 250-800+/day",
+    "details": "Avignon is moderate in price except during the Festival in July when hotel rates double or triple. Hostel dorms from EUR 20-30/night. Budget hotels EUR 60-90/night. Palais des Papes entry EUR 12. A Provencal lunch at Les Halles EUR 10-15. Wine tasting in Chateauneuf-du-Pape EUR 5-10 per domaine."
+  },
+  "tags": ["history", "theater", "provence", "medieval", "culture", "wine", "festivals"],
+  "seo": {
+    "metaTitle": "Avignon Travel Guide 2026 — Palace of the Popes, Festival & Provence Gateway",
+    "metaDescription": "Complete guide to visiting Avignon, France. Explore the Palais des Papes, the famous bridge, the theater festival, and Provencal markets. Tips on Provence day trips, wine tasting, and the best time to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

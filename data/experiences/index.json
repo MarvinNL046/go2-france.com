@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "wine-tasting-bordeaux",
+    "name": { "en": "Wine Tasting in Bordeaux" },
+    "city": "bordeaux",
+    "region": "nouvelle-aquitaine",
+    "type": "food-drink",
+    "duration": "3 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/wine-tasting-bordeaux.webp",
+    "description": {
+      "en": "Discover the world-renowned wines of Bordeaux on a guided tasting experience through the region's most prestigious appellations. Bordeaux is home to more than 7,000 chateaux and produces approximately 700 million bottles of wine annually, ranging from everyday table wines to some of the most sought-after and expensive bottles on Earth. A typical tasting session begins with an introduction to the Bordeaux classification system, including the legendary 1855 Classification that established the hierarchy of Grand Cru Classe estates. You will learn to distinguish between Left Bank wines, dominated by Cabernet Sauvignon and known for their structure and aging potential, and Right Bank wines from Saint-Emilion and Pomerol, which favor Merlot for a softer, more approachable style. Expert sommeliers guide you through tasting techniques, helping you identify aromas of blackcurrant, cedar, tobacco, and violet that characterize great Bordeaux. Most experiences include visits to chateau cellars where barrels of wine age for 12 to 24 months, paired with local cheeses and charcuterie."
+    },
+    "highlights": [
+      "Visit prestigious wine chateaux and their historic cellars",
+      "Learn professional tasting techniques from expert sommeliers",
+      "Sample wines from both Left Bank and Right Bank appellations",
+      "Enjoy artisanal cheese and charcuterie pairings"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Viator"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["bordeaux", "wine", "tasting", "gastronomy", "culture"]
+  },
+  {
+    "slug": "cooking-class-paris",
+    "name": { "en": "Cooking Class in Paris" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "food-drink",
+    "duration": "3-4 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/cooking-class-paris.webp",
+    "description": {
+      "en": "Immerse yourself in the art of French cuisine with a hands-on cooking class in the culinary capital of the world. Paris is the birthplace of haute cuisine, and a cooking class here connects you to centuries of gastronomic tradition that earned French cuisine UNESCO Intangible Cultural Heritage status in 2010. Classes typically begin with a visit to a local market such as the Marche d'Aligre or Rue Mouffetard, where your chef instructor helps you select the freshest seasonal ingredients while explaining how to judge quality produce. Back in a professional kitchen, you will learn fundamental French techniques like making a proper roux, mastering vinaigrette, perfecting a souffle, or creating delicate puff pastry from scratch. Most classes focus on preparing a full three-course French meal: a starter such as French onion soup or a goat cheese tart, a main course like coq au vin or duck confit, and a classic dessert such as tarte Tatin or chocolate fondant. You then sit down to enjoy the fruits of your labor with a glass of French wine. Classes cater to all skill levels and are taught by professional chefs who share insider tips and culinary stories."
+    },
+    "highlights": [
+      "Shop for fresh ingredients at a traditional Parisian market",
+      "Master fundamental French cooking techniques",
+      "Prepare a full three-course French meal from scratch",
+      "Enjoy your creation with wine in a convivial atmosphere"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "La Cuisine Paris"],
+      "advance_booking": "required"
+    },
+    "tags": ["paris", "cooking", "gastronomy", "hands-on", "market"]
+  },
+  {
+    "slug": "seine-river-cruise",
+    "name": { "en": "Seine River Cruise" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "culture",
+    "duration": "1-2 hours",
+    "price_range": "budget",
+    "image": "/images/experiences/seine-river-cruise.webp",
+    "description": {
+      "en": "Glide along the Seine River and experience Paris from its most enchanting vantage point on a river cruise that passes beneath 37 bridges and alongside the city's most iconic monuments. The Seine has been the lifeblood of Paris for over 2,000 years, and the riverbanks were designated a UNESCO World Heritage Site in 1991. A typical one-hour cruise departs from the foot of the Eiffel Tower or near Notre-Dame and floats past a succession of architectural masterpieces: the Musee d'Orsay housed in a former Beaux-Arts railway station, the medieval turrets of the Conciergerie, the golden dome of Les Invalides containing Napoleon's tomb, and the massive facade of the Louvre. Audio commentary in multiple languages provides historical context for each landmark. For a more indulgent experience, dinner cruises offer multi-course French cuisine as the city transforms into a glittering spectacle of lights. The Bateaux Mouches and Bateaux Parisiens are the most established operators, while smaller operators offer more intimate experiences. An evening cruise timed to see the Eiffel Tower's sparkling light show is particularly magical."
+    },
+    "highlights": [
+      "Pass beneath 37 bridges and view iconic Parisian landmarks from the water",
+      "See the Eiffel Tower, Louvre, Notre-Dame, and Musee d'Orsay from a unique perspective",
+      "Enjoy multilingual audio commentary about the history of each site",
+      "Choose from daytime, sunset, or dinner cruise options"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Bateaux Mouches"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["paris", "cruise", "scenic", "romantic", "sightseeing"]
+  },
+  {
+    "slug": "lavender-tour-provence",
+    "name": { "en": "Lavender Fields Tour in Provence" },
+    "city": "aix-en-provence",
+    "region": "provence-alpes-cote-dazur",
+    "type": "nature",
+    "duration": "Full day (8-10 hours)",
+    "price_range": "mid-range",
+    "image": "/images/experiences/lavender-tour-provence.webp",
+    "description": {
+      "en": "Journey through the heart of Provence to witness the breathtaking lavender fields that have come to symbolize the south of France. From mid-June to mid-August, the Valensole Plateau, the Luberon hills, and the Sault region transform into an endless sea of fragrant violet-blue, creating one of Europe's most photographed landscapes. A guided lavender tour typically departs from Aix-en-Provence, Avignon, or Marseille and follows scenic routes through picturesque Provencal villages with their honey-colored stone houses and terracotta roofs. The itinerary often includes stops at the Senanque Abbey near Gordes, where Cistercian monks have cultivated lavender since the 12th century, and at a traditional lavender distillery where you can observe the steam distillation process that extracts essential oil from the flowers. Guides explain the difference between true lavender (lavande fine) that grows above 600 meters and lavandin, a hybrid variety cultivated on the lower plains for commercial use. You will have ample time to walk among the rows, take photographs, and purchase authentic products including essential oils, sachets, honey, and soaps directly from producers."
+    },
+    "highlights": [
+      "Walk through endless fields of fragrant purple lavender",
+      "Visit the photogenic Senanque Abbey with lavender rows",
+      "Tour a traditional lavender distillery and learn about oil production",
+      "Explore charming Provencal villages like Gordes and Roussillon"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Viator", "Klook"],
+      "advance_booking": "required"
+    },
+    "tags": ["provence", "lavender", "nature", "photography", "scenic", "seasonal"]
+  },
+  {
+    "slug": "champagne-house-tour",
+    "name": { "en": "Champagne House Tour and Tasting" },
+    "city": "reims",
+    "region": "grand-est",
+    "type": "food-drink",
+    "duration": "2-4 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/champagne-house-tour.webp",
+    "description": {
+      "en": "Visit the prestigious Champagne houses of Reims and Epernay to discover the secrets behind the world's most celebrated sparkling wine. The Champagne region, a UNESCO World Heritage Site since 2015, is the only place in the world where true Champagne can be produced, governed by strict appellation rules that date back to the early 20th century. A typical tour takes you deep underground into the chalk cellars (crayeres) carved from ancient limestone, where millions of bottles rest at a constant temperature of 10-12 degrees Celsius during their secondary fermentation. In Reims, you can visit legendary maisons like Veuve Clicquot, Taittinger, and Mumm, whose cellars extend for kilometers beneath the city. In Epernay, the Avenue de Champagne—dubbed the most expensive street in the world—is lined with the grand facades of Moet et Chandon, Perrier-Jouet, and Pol Roger. Expert guides explain the methode champenoise, from hand-harvesting and gentle pressing to riddling (remuage) and disgorgement (degorgement). Tastings range from non-vintage cuvees to prestigious vintages and rose Champagnes, allowing you to appreciate the nuances between different houses and terroirs."
+    },
+    "highlights": [
+      "Explore underground chalk cellars holding millions of aging bottles",
+      "Visit prestigious houses like Veuve Clicquot, Taittinger, or Moet et Chandon",
+      "Learn the methode champenoise from grape to glass",
+      "Taste several Champagnes including vintage and prestige cuvees"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Viator"],
+      "advance_booking": "required"
+    },
+    "tags": ["champagne", "wine", "tasting", "luxury", "cellar", "heritage"]
+  },
+  {
+    "slug": "mont-blanc-hiking",
+    "name": { "en": "Mont Blanc Hiking Experience" },
+    "city": "chamonix",
+    "region": "auvergne-rhone-alpes",
+    "type": "adventure",
+    "duration": "Full day (6-8 hours)",
+    "price_range": "mid-range",
+    "image": "/images/experiences/mont-blanc-hiking.webp",
+    "description": {
+      "en": "Lace up your hiking boots and explore the spectacular trails around Mont Blanc, Western Europe's highest peak at 4,808 meters. The Chamonix valley offers hiking routes for every level, from gentle valley walks to challenging high-altitude paths with glacier views. For a memorable day hike, the Lac Blanc trail (6 hours round trip) rewards hikers with one of the most famous views in the Alps: the emerald lake reflecting the entire Mont Blanc massif, the Aiguilles de Chamonix, and the Mer de Glace glacier. The Grand Balcon Sud trail offers a gentler option with continuous panoramic views across the valley to the Aiguille du Midi and surrounding peaks. More ambitious hikers can tackle stages of the Tour du Mont Blanc, a legendary 170-kilometer circuit through France, Italy, and Switzerland that typically takes 10-12 days to complete. Guided day hikes are available with certified mountain guides from the Compagnie des Guides de Chamonix, founded in 1821 as the world's oldest mountaineering guide company. Guides share their knowledge of Alpine flora, fauna, geology, and mountaineering history while ensuring safety on exposed trails. Cable cars and gondolas provide access to higher starting points, allowing hikers to reach spectacular viewpoints without extreme effort."
+    },
+    "highlights": [
+      "Hike to Lac Blanc for iconic reflections of the Mont Blanc massif",
+      "Walk the panoramic Grand Balcon Sud trail",
+      "Trek with guides from the world's oldest mountaineering company",
+      "Use cable cars to access high-altitude starting points"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Compagnie des Guides de Chamonix"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["chamonix", "hiking", "alps", "mountain", "adventure", "nature"]
+  },
+  {
+    "slug": "french-pastry-workshop",
+    "name": { "en": "French Pastry Workshop" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "food-drink",
+    "duration": "2-3 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/french-pastry-workshop.webp",
+    "description": {
+      "en": "Master the art of French patisserie in a hands-on workshop where professional pastry chefs reveal the techniques behind France's most beloved sweet creations. French pastry is considered the pinnacle of the confectionery arts, and Paris is home to some of the world's finest patisseries, from the historic Laduree and Angelina to modern innovators like Cedric Grolet and Pierre Herme. Workshops typically focus on creating two to three signature items, and you can choose from classes dedicated to macarons, croissants, eclairs, tarte Tatin, mille-feuille, or the iconic opera cake. A macaron workshop, for example, teaches the precise technique of macaronnage—the careful folding of Italian meringue with almond flour—to achieve the perfect smooth shell and characteristic ruffled foot. Croissant classes begin at the very foundation, preparing laminated dough through repeated folding and resting cycles that create the 27 layers responsible for the pastry's flaky texture. Chefs explain the science behind each technique, from tempering chocolate to achieving the perfect creme patissiere consistency. All ingredients and equipment are provided, and you take home your creations along with recipe cards to recreate the magic in your own kitchen."
+    },
+    "highlights": [
+      "Learn macaron, croissant, or eclair techniques from professional pastry chefs",
+      "Understand the science behind perfect laminated dough and meringue",
+      "Take home your handmade pastries and recipe cards",
+      "Experience a professional Parisian patisserie kitchen"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Le Foodist"],
+      "advance_booking": "required"
+    },
+    "tags": ["paris", "pastry", "baking", "hands-on", "gastronomy", "dessert"]
+  },
+  {
+    "slug": "loire-valley-chateau-tour",
+    "name": { "en": "Loire Valley Chateau Tour" },
+    "city": "tours",
+    "region": "centre-val-de-loire",
+    "type": "culture",
+    "duration": "Full day (9-10 hours)",
+    "price_range": "mid-range",
+    "image": "/images/experiences/loire-valley-chateau-tour.webp",
+    "description": {
+      "en": "Explore the magnificent chateaux of the Loire Valley, the Garden of France, where over 300 Renaissance and medieval castles line the banks of France's longest river. The Loire Valley was designated a UNESCO World Heritage Site in 2000, recognized for its exceptional cultural landscape shaped by centuries of royal ambition and artistic patronage. A full-day guided tour typically visits three to four of the most spectacular chateaux, each offering a distinct character and story. Chambord, the largest of all Loire castles, mesmerizes with its Renaissance grandeur and Leonardo da Vinci's double-helix staircase. Chenonceau, the most visited chateau after Versailles, spans the Cher River in an elegant arch and is known as the Ladies' Chateau for the remarkable women who shaped its history. Amboise, perched above the Loire, was a favorite of King Francis I and houses the supposed tomb of Leonardo da Vinci. Smaller gems like Azay-le-Rideau, reflected perfectly in its moat, and Villandry, famous for its extraordinary Renaissance gardens, offer a more intimate experience. Tours include transport through rolling countryside, vineyard-dotted hills, and charming villages, often with a wine tasting or lunch featuring local specialties like rillettes de Tours and Vouvray wine."
+    },
+    "highlights": [
+      "Visit three to four of the Loire's most impressive chateaux in one day",
+      "Explore Chambord, Chenonceau, and Amboise with expert guides",
+      "Drive through the UNESCO-listed Loire Valley countryside",
+      "Enjoy local wine tasting and regional cuisine"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Viator", "Klook"],
+      "advance_booking": "required"
+    },
+    "tags": ["loire-valley", "castle", "culture", "history", "renaissance", "unesco"]
+  },
+  {
+    "slug": "surf-lessons-biarritz",
+    "name": { "en": "Surf Lessons in Biarritz" },
+    "city": "biarritz",
+    "region": "nouvelle-aquitaine",
+    "type": "adventure",
+    "duration": "2 hours",
+    "price_range": "budget",
+    "image": "/images/experiences/surf-lessons-biarritz.webp",
+    "description": {
+      "en": "Catch your first wave in Biarritz, the birthplace of European surfing and one of the continent's premier wave-riding destinations. Surfing arrived in Biarritz in 1957 when American screenwriter Peter Viertel, who was in town filming The Sun Also Rises, had a surfboard shipped from California and hit the waves at the Cote des Basques beach. Since then, Biarritz has become the undisputed surfing capital of Europe, hosting international competitions and nurturing generations of talented surfers. The town's beaches offer conditions suitable for all levels: the Grande Plage and Cote des Basques provide gentle, rolling waves ideal for beginners, while more experienced surfers head to the powerful reef breaks at La Milady and the north coast. Group surf lessons, typically lasting two hours, begin with a beach warm-up and land-based instruction on pop-up technique, board positioning, and wave reading. Qualified instructors then guide you into the whitewater, offering personalized tips as you practice standing up and riding your first waves. Equipment including wetsuits and soft-top beginner boards is provided. The Basque Country setting adds a cultural dimension, with Biarritz's elegant Belle Epoque architecture, vibrant tapas bars, and the dramatic rocky coastline providing a stunning backdrop to your surf session."
+    },
+    "highlights": [
+      "Learn to surf at the birthplace of European surfing",
+      "Ride beginner-friendly waves at Cote des Basques or Grande Plage",
+      "All equipment including wetsuit and board provided",
+      "Explore the Basque Country culture and cuisine after your session"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "local surf schools"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["biarritz", "surfing", "adventure", "beach", "sport", "basque-country"]
+  },
+  {
+    "slug": "truffle-hunting-perigord",
+    "name": { "en": "Truffle Hunting in Perigord" },
+    "city": "sarlat-la-caneda",
+    "region": "nouvelle-aquitaine",
+    "type": "food-drink",
+    "duration": "3-4 hours",
+    "price_range": "premium",
+    "image": "/images/experiences/truffle-hunting-perigord.webp",
+    "description": {
+      "en": "Join a truffle hunter and their specially trained dog on an unforgettable foray through the oak forests of Perigord, France's most celebrated truffle region. The Perigord Noir area of the Dordogne has been synonymous with black truffles (Tuber melanosporum) for centuries, and the winter truffle season from December to March transforms the region into a culinary pilgrimage destination. Your experience begins at a family-run truffiere (truffle orchard) where the owner explains the fascinating biology of truffles—subterranean fungi that form symbiotic relationships with the roots of oak and hazelnut trees. You then follow the truffle dog, usually a trained Lagotto Romagnolo or cross-breed, as it uses its extraordinary sense of smell to locate truffles buried 5 to 30 centimeters underground. Watching the dog zero in on a spot, pawing eagerly at the earth while the handler carefully extracts the aromatic nugget, is a thrilling experience. After the hunt, you participate in a tasting session where freshly found truffles are shaved over warm dishes like truffle omelette, truffle butter on toast, or truffle-infused risotto, releasing the intoxicating earthy aroma that makes these fungi so prized. Many experiences include a visit to a truffle market such as the famous one in Sarlat."
+    },
+    "highlights": [
+      "Hunt for black truffles with a trained truffle dog in oak forests",
+      "Learn about truffle biology and the art of truffle cultivation",
+      "Taste freshly found truffles in dishes prepared on-site",
+      "Visit the traditional truffle markets of Perigord"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Viator"],
+      "advance_booking": "required"
+    },
+    "tags": ["dordogne", "truffle", "gastronomy", "nature", "luxury", "seasonal"]
+  },
+  {
+    "slug": "perfume-making-grasse",
+    "name": { "en": "Perfume Making Workshop in Grasse" },
+    "city": "grasse",
+    "region": "provence-alpes-cote-dazur",
+    "type": "culture",
+    "duration": "2-3 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/perfume-making-grasse.webp",
+    "description": {
+      "en": "Create your own signature fragrance in Grasse, the world capital of perfumery, where the art of scent-making has flourished for over 400 years. Grasse's unique microclimate and fertile soil have made it the center of France's flower cultivation industry since the 16th century, producing the jasmine, rose, tuberose, and orange blossom that form the foundation of the world's finest perfumes. The town's perfumery tradition was recognized by UNESCO as Intangible Cultural Heritage in 2018. A typical workshop begins at one of the historic perfume houses—Fragonard, Molinard, or Galimard—where a master perfumer (known as a nez, or nose) introduces you to the three-tier structure of fragrance composition: top notes (the initial scent), heart notes (the body of the perfume), and base notes (the lasting foundation). You will smell and select from dozens of essential oils and absolutes, learning to distinguish between ingredients like bergamot, ylang-ylang, vetiver, and patchouli. Under expert guidance, you blend your chosen essences using precision pipettes, adjusting proportions until you achieve a harmonious composition that reflects your personal taste. You leave with a bottle of your unique creation and a deeper understanding of why Grasse is called the nose of the world."
+    },
+    "highlights": [
+      "Create a unique personal fragrance guided by a master perfumer",
+      "Learn about the three-tier structure of perfume composition",
+      "Smell and select from dozens of essential oils and absolutes",
+      "Take home a bottle of your custom-made perfume"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Fragonard", "Molinard", "Galimard"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["grasse", "perfume", "workshop", "culture", "luxury", "artisan"]
+  },
+  {
+    "slug": "hot-air-balloon-loire",
+    "name": { "en": "Hot Air Balloon Ride over the Loire Valley" },
+    "city": "amboise",
+    "region": "centre-val-de-loire",
+    "type": "adventure",
+    "duration": "3 hours (1 hour flight)",
+    "price_range": "premium",
+    "image": "/images/experiences/hot-air-balloon-loire.webp",
+    "description": {
+      "en": "Soar above the enchanting Loire Valley in a hot air balloon and witness its magnificent chateaux, vineyards, and meandering river from a breathtaking aerial perspective. This unforgettable experience begins in the early morning or late afternoon when wind conditions are calmest and the light most beautiful. You will watch the inflation of the balloon before climbing into the basket for a gentle ascent over the Garden of France. As you drift silently at altitudes of 150 to 300 meters, the landscape below unfolds like a living tapestry: the Renaissance turrets of Amboise and Chenonceau, the vast formal gardens of Villandry, the golden limestone of medieval villages, patchworks of sunflower and wheat fields, and the silvery Loire River with its sandbars and islands. The near-total silence of balloon flight, broken only by occasional bursts from the burner, creates an extraordinarily peaceful and contemplative experience. Your pilot provides commentary on the landmarks below and the history of ballooning, which has deep French roots—the Montgolfier brothers launched the first manned balloon flight from Annonay in 1783. After landing, a traditional Champagne toast celebrates your flight, a custom that dates back to the earliest days of ballooning when pilots offered Champagne to reassure startled farmers on whose land they had come to rest."
+    },
+    "highlights": [
+      "Float silently over Loire Valley chateaux and vineyards",
+      "Enjoy aerial views of Amboise, Chenonceau, and Villandry",
+      "Experience the magic of hot air ballooning at sunrise or sunset",
+      "Celebrate with a traditional post-flight Champagne toast"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Viator"],
+      "advance_booking": "required"
+    },
+    "tags": ["loire-valley", "balloon", "adventure", "scenic", "romantic", "luxury"]
+  },
+  {
+    "slug": "cheese-tasting-normandy",
+    "name": { "en": "Cheese Tasting in Normandy" },
+    "city": "camembert",
+    "region": "normandy",
+    "type": "food-drink",
+    "duration": "3-4 hours",
+    "price_range": "budget",
+    "image": "/images/experiences/cheese-tasting-normandy.webp",
+    "description": {
+      "en": "Explore the rich dairy heritage of Normandy through a guided cheese tasting experience in the lush green countryside that produces some of France's most beloved fromages. Normandy's mild, rainy climate and rich pastures produce exceptionally creamy milk that forms the basis of four world-famous cheeses, all bearing Appellation d'Origine Protegee (AOP) certification: Camembert de Normandie, Livarot, Pont-l'Eveque, and Neufchatel. A typical experience includes a visit to a working fromagerie (cheese dairy) where artisan producers demonstrate the traditional methods of cheesemaking, from curdling fresh raw milk to the careful hand-ladling of curds into molds, a technique essential for authentic Camembert. You will learn how the characteristic bloomy white rind of Camembert develops over its 21-day minimum aging period, and how the washed-rind Livarot, nicknamed the colonel for the five strips of sedge grass wrapped around it, develops its pungent orange exterior. The tasting itself features multiple cheeses at different stages of maturation, paired with local cider and Calvados (apple brandy), Normandy's other great artisanal products. Many tours also include a visit to the village of Camembert itself, where a museum tells the story of Marie Harel, who is traditionally credited with creating the cheese in 1791."
+    },
+    "highlights": [
+      "Visit a traditional Normandy fromagerie and watch artisan cheesemaking",
+      "Taste four famous Norman cheeses: Camembert, Livarot, Pont-l'Eveque, and Neufchatel",
+      "Pair cheeses with local cider and Calvados apple brandy",
+      "Explore the charming village of Camembert"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Viator"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["normandy", "cheese", "gastronomy", "artisan", "countryside"]
+  },
+  {
+    "slug": "kayaking-gorges-du-verdon",
+    "name": { "en": "Kayaking in the Gorges du Verdon" },
+    "city": "castellane",
+    "region": "provence-alpes-cote-dazur",
+    "type": "adventure",
+    "duration": "Half day (4-5 hours)",
+    "price_range": "mid-range",
+    "image": "/images/experiences/kayaking-gorges-du-verdon.webp",
+    "description": {
+      "en": "Paddle through the dramatic turquoise waters of the Gorges du Verdon, Europe's answer to the Grand Canyon, with limestone cliffs towering up to 700 meters on either side. Often called the most beautiful canyon in Europe, the Gorges du Verdon offers a kayaking experience unlike any other on the continent. The most popular paddling route begins at the Pont de Galetas where the Verdon River flows into the Lac de Sainte-Croix, and heads upstream into the narrowing canyon. As you paddle deeper into the gorge, the walls close in dramatically, the turquoise water becomes even more vivid, and the sense of wilderness intensifies. The milky turquoise color of the water, caused by glacial flour—fine particles of rock suspended from upstream—creates an almost tropical appearance that contrasts beautifully with the white and grey limestone. Stops along the way allow for swimming in crystal-clear side pools and exploring small caves and rock formations. No previous kayaking experience is required for the lake and lower gorge sections, as guided tours provide stable two-person kayaks and all necessary equipment including paddles, life jackets, and waterproof bags. More experienced paddlers can tackle the whitewater sections of the upper gorge with specialized guides. The combination of physical activity, natural beauty, and refreshing water makes this one of the best outdoor experiences in southern France."
+    },
+    "highlights": [
+      "Paddle through turquoise waters between 700-meter limestone cliffs",
+      "Swim in crystal-clear pools and explore riverside caves",
+      "Suitable for beginners on the lake and lower gorge sections",
+      "All equipment provided including kayaks, paddles, and life jackets"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook"],
+      "advance_booking": "required"
+    },
+    "tags": ["verdon", "kayaking", "adventure", "nature", "canyon", "water-sports"]
+  },
+  {
+    "slug": "markets-of-nice",
+    "name": { "en": "Market Tour of Nice" },
+    "city": "nice",
+    "region": "provence-alpes-cote-dazur",
+    "type": "food-drink",
+    "duration": "3 hours",
+    "price_range": "budget",
+    "image": "/images/experiences/markets-of-nice.webp",
+    "description": {
+      "en": "Discover the vibrant culinary culture of the French Riviera on a guided tour of Nice's legendary markets, where the flavors of Provence and the Mediterranean converge in a riot of color, aroma, and taste. The centerpiece is the Cours Saleya market in the heart of Vieux Nice, which has operated since 1861 and is widely considered one of the finest outdoor markets in France. The market sprawls along a long rectangular square lined with colorful Baroque buildings, offering separate sections for flowers, fruits and vegetables, spices, olives, and prepared foods. A local guide leads you through the stalls, introducing you to vendors and the stories behind their products. You will sample socca, the iconic chickpea crepe cooked on massive copper plates over wood fire, along with pissaladiere (an onion, anchovy, and olive tart), tapenade, and local olive oils from the Nicois hills. The flower section dazzles with seasonal displays of roses, mimosa, lavender, and exotic blooms. Your guide also takes you to the nearby Place du Palais de Justice for a taste of freshly made pasta and regional charcuterie. The tour provides essential context about Nicois cuisine, which blends French, Italian, and Provencal influences, reflecting the city's history as part of the Kingdom of Sardinia until 1860."
+    },
+    "highlights": [
+      "Explore the historic Cours Saleya flower and food market",
+      "Taste authentic socca, pissaladiere, tapenade, and local olive oils",
+      "Meet local vendors and learn the stories behind their products",
+      "Discover the unique blend of French, Italian, and Provencal flavors"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Viator"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["nice", "market", "food", "gastronomy", "riviera", "local"]
+  },
+  {
+    "slug": "catamaran-calanques",
+    "name": { "en": "Catamaran Cruise of the Calanques" },
+    "city": "marseille",
+    "region": "provence-alpes-cote-dazur",
+    "type": "nature",
+    "duration": "Half day (4-5 hours)",
+    "price_range": "mid-range",
+    "image": "/images/experiences/catamaran-calanques.webp",
+    "description": {
+      "en": "Sail along the stunning Mediterranean coastline of the Calanques National Park aboard a catamaran, discovering hidden coves and dramatic limestone fjords that are inaccessible by road. Departing from the Vieux Port of Marseille or from Cassis, the catamaran glides past the rugged coastline where white limestone cliffs plunge into crystalline turquoise waters. The Calanques—narrow, steep-walled inlets carved by ancient rivers—create a landscape of extraordinary natural beauty, and approaching them from the sea reveals perspectives that hikers on the clifftop trails never see. The boat navigates into several calanques, including the narrow Calanque de Port-Pin, the dramatic En-Vau with its towering walls, and the broad bay of Sormiou with its small fishing settlement. Multiple swimming stops allow you to plunge into the remarkably clear Mediterranean waters, where visibility often exceeds 20 meters. Snorkeling equipment is typically provided, and the seabed reveals a colorful world of sea fans, rainbow wrasse, and swaying seagrass meadows. The catamaran's shallow draft and twin hulls provide a stable, comfortable ride, and the spacious deck offers sunbathing areas and shaded seating. A light lunch or aperitif with Provencal appetizers and chilled rose wine is often included, making this a wonderfully relaxed way to experience one of France's most spectacular natural areas."
+    },
+    "highlights": [
+      "Sail into hidden calanques inaccessible by road",
+      "Swim and snorkel in crystal-clear Mediterranean waters",
+      "Enjoy Provencal appetizers and rose wine on deck",
+      "See dramatic limestone cliffs from a unique sea-level perspective"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Viator"],
+      "advance_booking": "required"
+    },
+    "tags": ["marseille", "catamaran", "calanques", "sailing", "swimming", "nature"]
+  },
+  {
+    "slug": "paris-food-tour",
+    "name": { "en": "Paris Food Tour" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "food-drink",
+    "duration": "3-4 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/paris-food-tour.webp",
+    "description": {
+      "en": "Eat your way through Paris on a guided food tour that reveals the artisan traditions behind the city's legendary culinary scene. Paris is home to approximately 40,000 restaurants and thousands of specialty food shops, and a guided tour with a local expert helps you discover the hidden gems that most visitors walk right past. Tours typically focus on a specific neighborhood rich in gastronomic heritage—the Marais, Saint-Germain-des-Pres, Montmartre, or the Latin Quarter—each offering a distinct culinary personality. Your guide leads you to carefully selected stops where you meet passionate artisans: a boulanger pulling perfect baguettes from a wood-fired oven, a fromager affineur aging wheels of Comte in a subterranean cave, a chocolatier hand-dipping truffles in dark couverture, and a charcutier slicing silky rosette de Lyon. Between tastings, your guide shares the stories and traditions behind French gastronomy, explaining why the baguette must contain only four ingredients by law, how a fromagerie differs from a cremerie, and why the croissant is not actually a French invention. You will sample eight to twelve items across six to eight stops, typically including artisan bread, aged cheese, charcuterie, chocolate, pastries, and often a glass of wine or cider. The generous portions amount to a full lunch, so come hungry."
+    },
+    "highlights": [
+      "Visit artisan boulangeries, fromageries, chocolateries, and charcuteries",
+      "Sample eight to twelve items across six to eight stops",
+      "Meet passionate food artisans and learn their craft",
+      "Discover neighborhood gems that most tourists miss"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Viator", "Context Travel"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["paris", "food", "gastronomy", "walking-tour", "artisan", "local"]
+  },
+  {
+    "slug": "ski-chamonix",
+    "name": { "en": "Skiing in Chamonix" },
+    "city": "chamonix",
+    "region": "auvergne-rhone-alpes",
+    "type": "adventure",
+    "duration": "Full day",
+    "price_range": "premium",
+    "image": "/images/experiences/ski-chamonix.webp",
+    "description": {
+      "en": "Experience world-class skiing in Chamonix-Mont-Blanc, the legendary alpine resort that hosted the first Winter Olympics in 1924 and remains one of the most exhilarating ski destinations on the planet. Chamonix offers five interconnected ski areas—Grands Montets, Brevent-Flegere, Les Houches, Balme-Le Tour, and the Aiguille du Midi—providing over 150 kilometers of marked runs across all difficulty levels, from gentle nursery slopes to extreme off-piste terrain. The crown jewel is the Vallee Blanche, a 20-kilometer off-piste descent from the Aiguille du Midi at 3,842 meters down through a spectacular glacier landscape to the village of Chamonix, widely regarded as one of the world's greatest ski runs. The Grands Montets area rises to 3,275 meters, offering steep, challenging terrain with reliable snow conditions and stunning views. For intermediate skiers, the Brevent-Flegere area provides excellent groomed runs with unbeatable panoramas of the Mont Blanc massif. Equipment rental shops line the main street, and the Ecole du Ski Francais and independent schools offer group and private lessons for all levels. A Mont Blanc Unlimited ski pass covers all five areas plus the Aiguille du Midi cable car and the Montenvers railway, providing extraordinary value and variety."
+    },
+    "highlights": [
+      "Ski the legendary Vallee Blanche, a 20-km glacier descent from the Aiguille du Midi",
+      "Access five ski areas with 150+ km of runs across all levels",
+      "Enjoy reliable snow conditions at altitudes up to 3,275 meters",
+      "Experience the resort that hosted the first Winter Olympics in 1924"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Chamonix.com"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["chamonix", "skiing", "winter-sports", "alps", "adventure", "mountain"]
+  },
+  {
+    "slug": "art-tour-paris-museums",
+    "name": { "en": "Art Tour of Paris Museums" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "culture",
+    "duration": "4-5 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/art-tour-paris-museums.webp",
+    "description": {
+      "en": "Discover the world's greatest art collection with a guided tour of Paris's legendary museums, where masterworks spanning millennia are displayed in some of the most beautiful buildings in the city. Paris is home to over 130 museums, and an expert art historian guide helps you navigate the collections and understand the stories behind the world's most famous works. A typical tour combines the Louvre and the Musee d'Orsay, two complementary institutions that together provide a comprehensive journey through Western art. At the Louvre, your guide leads you directly to the highlights—the Mona Lisa, the Winged Victory of Samothrace, the Venus de Milo—while providing art historical context and the fascinating stories of how these works arrived in Paris. The Musee d'Orsay, housed in a magnificent Beaux-Arts railway station, picks up where the Louvre leaves off, focusing on Impressionist and Post-Impressionist art from 1848 to 1914. Here you stand before Monet's water lilies, Renoir's dancing couples, Van Gogh's Starry Night Over the Rhone, and Degas's ballerinas. Some tours also include the Musee de l'Orangerie with Monet's monumental Water Lilies murals, or the Centre Pompidou for modern and contemporary art. Skip-the-line access is typically included, saving significant time at these popular venues."
+    },
+    "highlights": [
+      "Skip-the-line access to the Louvre and Musee d'Orsay",
+      "Learn from expert art historian guides about masterworks in context",
+      "See the Mona Lisa, Winged Victory, and Impressionist masterpieces",
+      "Understand the evolution of Western art from antiquity to Post-Impressionism"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Context Travel", "Viator"],
+      "advance_booking": "required"
+    },
+    "tags": ["paris", "art", "museum", "culture", "guided-tour", "impressionism"]
+  },
+  {
+    "slug": "cycling-alsace-wine-route",
+    "name": { "en": "Cycling the Alsace Wine Route" },
+    "city": "colmar",
+    "region": "grand-est",
+    "type": "adventure",
+    "duration": "Full day (6-8 hours)",
+    "price_range": "mid-range",
+    "image": "/images/experiences/cycling-alsace-wine-route.webp",
+    "description": {
+      "en": "Pedal through one of Europe's most enchanting landscapes on a cycling tour along the Alsace Wine Route, a 170-kilometer trail that winds through vineyard-covered hills, fairy-tale villages, and rolling countryside at the foot of the Vosges mountains. The Route des Vins d'Alsace, established in 1953, is the oldest wine route in France and passes through more than 70 wine-producing villages, each more picturesque than the last. A typical guided cycling day covers 30 to 50 kilometers along flat to gently rolling dedicated cycle paths, making it accessible to cyclists of all fitness levels, especially with the option of e-bikes. The route passes through villages that look as if they have been lifted from a storybook: half-timbered houses painted in pastel colors, window boxes overflowing with geraniums, cobblestone lanes, and church steeples rising above the rooftops. Riquewihr, Eguisheim, Kaysersberg, and Ribeauville are among the most beautiful, each offering opportunities to stop for wine tastings at local wineries (domaines). Alsace is famous for its aromatic white wines—Riesling, Gewurztraminer, Pinot Gris, and Muscat—and winemakers welcome cyclists to their tasting rooms. Lunch at a traditional winstub (wine tavern) features Alsatian specialties like tarte flambee, choucroute garnie, and baeckeoffe, washed down with local wines."
+    },
+    "highlights": [
+      "Cycle through fairy-tale villages like Riquewihr, Eguisheim, and Kaysersberg",
+      "Taste award-winning Riesling, Gewurztraminer, and Pinot Gris at local domaines",
+      "Ride on dedicated cycle paths through vineyard-covered hills",
+      "Lunch at a traditional Alsatian winstub with regional specialties"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Viator"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["alsace", "cycling", "wine", "villages", "nature", "gastronomy"]
+  },
+  {
+    "slug": "opera-paris",
+    "name": { "en": "Opera Performance at Palais Garnier" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "culture",
+    "duration": "2-3 hours",
+    "price_range": "premium",
+    "image": "/images/experiences/opera-paris.webp",
+    "description": {
+      "en": "Attend a world-class performance at the Palais Garnier, one of the most opulent opera houses on Earth and an architectural masterpiece that inspired Gaston Leroux's Phantom of the Opera. Commissioned by Napoleon III and designed by architect Charles Garnier, the opera house was built between 1861 and 1875 in an exuberant Neo-Baroque style that made it the largest opera house in the world at the time of its completion, with a total area of 11,237 square meters. The building's exterior dazzles with classical columns, gilt statues, and a polychrome marble facade, while the interior is a breathtaking symphony of gilded ornament, velvet, and crystal. The Grand Staircase, made from white Carrara marble with a balustrade of red and green marble, is one of the most photographed interiors in Paris. The auditorium, seating 1,979 spectators beneath a ceiling painted by Marc Chagall in 1964, hosts performances by the Paris Opera Ballet—one of the world's oldest and most prestigious ballet companies—as well as chamber opera productions and symphony concerts. Attending a performance here is not merely a cultural outing but a full sensory immersion in the grandeur of Second Empire Paris. Dress code tends toward smart-casual to formal, and intervals allow you to stroll through the public foyers admiring the paintings, mosaics, and sculptures."
+    },
+    "highlights": [
+      "Experience a performance in one of the world's most beautiful opera houses",
+      "Admire the Grand Staircase, Grand Foyer, and Chagall's painted ceiling",
+      "See the Paris Opera Ballet or chamber opera productions",
+      "Explore the building that inspired The Phantom of the Opera"
+    ],
+    "booking_info": {
+      "platforms": ["Opera de Paris official website", "GetYourGuide"],
+      "advance_booking": "required"
+    },
+    "tags": ["paris", "opera", "ballet", "culture", "architecture", "performing-arts"]
+  },
+  {
+    "slug": "canal-du-midi-cruise",
+    "name": { "en": "Canal du Midi Cruise" },
+    "city": "toulouse",
+    "region": "occitanie",
+    "type": "nature",
+    "duration": "Half day to multi-day",
+    "price_range": "mid-range",
+    "image": "/images/experiences/canal-du-midi-cruise.webp",
+    "description": {
+      "en": "Cruise along the Canal du Midi, a 240-kilometer UNESCO World Heritage waterway that winds through the sun-drenched landscapes of southern France, connecting Toulouse to the Mediterranean Sea at Sete. Built between 1667 and 1681 by Pierre-Paul Riquet under the reign of Louis XIV, this engineering marvel was designed to provide a navigable route between the Atlantic and Mediterranean without the dangerous voyage around the Iberian Peninsula. The canal features 91 locks, over 300 engineering structures including aqueducts and tunnels, and is lined with 42,000 plane trees that form a magnificent green tunnel along much of its length. A cruise along the canal offers a supremely relaxing way to experience the Languedoc countryside, passing through medieval villages, vineyards, sunflower fields, and under ancient stone bridges. Popular sections include the stretch between Carcassonne and Beziers, which passes through the remarkable Fonserannes staircase locks—a series of eight locks that lower boats 21 meters in a dramatic cascade. You can choose from guided half-day excursions aboard traditional barges, self-drive houseboats for multi-day adventures (no license required), or luxury hotel barges with gourmet dining and curated excursions. The canal's gentle pace, typically 6-8 kilometers per hour, encourages a relaxed appreciation of the passing scenery."
+    },
+    "highlights": [
+      "Cruise through a 17th-century UNESCO World Heritage canal",
+      "Navigate the impressive Fonserannes staircase locks near Beziers",
+      "Glide beneath canopies of centuries-old plane trees",
+      "Choose from guided cruises, self-drive houseboats, or luxury barges"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "LeBoat", "Viator"],
+      "advance_booking": "required"
+    },
+    "tags": ["canal-du-midi", "cruise", "nature", "unesco", "relaxation", "languedoc"]
+  },
+  {
+    "slug": "d-day-beaches-tour",
+    "name": { "en": "D-Day Beaches Tour" },
+    "city": "bayeux",
+    "region": "normandy",
+    "type": "culture",
+    "duration": "Full day (8-10 hours)",
+    "price_range": "mid-range",
+    "image": "/images/experiences/d-day-beaches-tour.webp",
+    "description": {
+      "en": "Walk in the footsteps of the Allied soldiers who changed the course of history on a guided tour of the Normandy D-Day landing beaches. On June 6, 1944, more than 156,000 American, British, Canadian, and other Allied troops stormed five beaches along an 80-kilometer stretch of the Normandy coast in the largest amphibious invasion in history, marking the beginning of the liberation of Western Europe from Nazi occupation. A full-day guided tour covers the most significant sites, beginning with the haunting American Cemetery at Colleville-sur-Mer, where 9,387 white marble crosses and Stars of David stand in perfect rows above Omaha Beach, the bloodiest of the five landing zones where approximately 2,000 Americans were killed on D-Day alone. The tour continues to the preserved remains of the Mulberry harbor at Arromanches, an artificial port that supplied the Allied forces after the invasion, and to Pointe du Hoc, where US Army Rangers scaled 30-meter cliffs under heavy fire to disable German gun emplacements. The cratered landscape at Pointe du Hoc remains largely as it was in 1944, providing a visceral sense of the battle's intensity. Other stops include Utah Beach, Juno Beach (the Canadian sector), the Airborne Museum at Sainte-Mere-Eglise commemorating the paratroopers who landed behind enemy lines, and the historic town of Bayeux with its famous medieval tapestry."
+    },
+    "highlights": [
+      "Visit the American Cemetery overlooking Omaha Beach",
+      "Stand at Pointe du Hoc where Rangers scaled the cliffs",
+      "See the remains of the Mulberry artificial harbor at Arromanches",
+      "Explore the Airborne Museum at Sainte-Mere-Eglise"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Viator", "Klook"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["normandy", "history", "ww2", "d-day", "memorial", "culture"]
+  },
+  {
+    "slug": "camargue-horse-riding",
+    "name": { "en": "Horse Riding in the Camargue" },
+    "city": "saintes-maries-de-la-mer",
+    "region": "provence-alpes-cote-dazur",
+    "type": "nature",
+    "duration": "2-3 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/camargue-horse-riding.webp",
+    "description": {
+      "en": "Ride the famous white horses of the Camargue through the wild, untamed wetlands of the Rhone River delta, one of the most unique and biodiverse landscapes in Europe. The Camargue, a vast area of salt marshes, lagoons, rice paddies, and sand dunes stretching between Arles and the Mediterranean, has been home to the semi-wild Camargue horse breed for thousands of years. These sturdy, compact horses are born dark and gradually turn white by age four, and they are perfectly adapted to the marshy terrain, walking sure-footedly through shallow lagoons and across sandy beaches. A guided horseback ride takes you into the heart of this extraordinary landscape, following ancient paths used by the gardians—the Camargue cowboys who have tended the region's famous black bulls for centuries. As you ride, you may encounter herds of black Camargue bulls, flocks of the region's most celebrated inhabitants—greater flamingos, which number over 10,000 in the Camargue—and a stunning diversity of birdlife including herons, egrets, and avocets. The experience is suitable for beginners and experienced riders alike, with gentle Camargue horses well-accustomed to carrying visitors. Rides along the beach with waves lapping at the horses' hooves are particularly memorable, especially at sunset when the sky turns pink over the flat, endless horizon."
+    },
+    "highlights": [
+      "Ride the iconic white Camargue horses through wild wetlands",
+      "Spot flamingos, black bulls, and diverse birdlife",
+      "Gallop along empty Mediterranean beaches at sunset",
+      "Experience the traditional gardian (Camargue cowboy) way of life"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Viator"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["camargue", "horse-riding", "nature", "wildlife", "beach", "adventure"]
+  },
+  {
+    "slug": "lyon-food-tour",
+    "name": { "en": "Lyon Food Tour" },
+    "city": "lyon",
+    "region": "auvergne-rhone-alpes",
+    "type": "food-drink",
+    "duration": "3-4 hours",
+    "price_range": "mid-range",
+    "image": "/images/experiences/lyon-food-tour.webp",
+    "description": {
+      "en": "Explore the gastronomic capital of France on a guided food tour through Lyon, a city that has earned its culinary reputation through centuries of tradition and the influence of legendary chefs like Paul Bocuse. Lyon sits at the crossroads of some of France's finest food-producing regions—Burgundy's wines to the north, the Rhone Valley's fruits and vegetables, Bresse's prized chickens, and the Alpine cheeses of Savoie—giving its chefs access to exceptional ingredients. A food tour takes you into the heart of Lyon's culinary culture, beginning at the covered market Les Halles de Lyon Paul Bocuse, where over 60 vendors sell the finest products in the region: Saint-Marcellin cheese at Mere Richard, artisanal charcuterie from the Sibilia family, and praline tarts from Pralus. The tour continues through the traboules (hidden passageways) of Vieux Lyon and the Presqu'ile, stopping at traditional bouchons—the small, family-run restaurants unique to Lyon that serve hearty local specialties. You will taste signature Lyonnais dishes including quenelles de brochet (pike dumplings in creamy sauce), salade lyonnaise (frisee lettuce with lardons and poached egg), saucisson brioché (sausage baked in brioche), and the city's beloved praline tart, a sweet creation made with pink sugar-coated almonds. Each dish reflects the Lyonnais philosophy of generous, soulful cooking rooted in tradition."
+    },
+    "highlights": [
+      "Visit Les Halles de Lyon Paul Bocuse, the famous covered market",
+      "Taste quenelles, salade lyonnaise, and saucisson brioché at traditional bouchons",
+      "Walk the secret traboules of Vieux Lyon between tastings",
+      "Discover why Lyon is considered the gastronomic capital of France"
+    ],
+    "booking_info": {
+      "platforms": ["GetYourGuide", "Klook", "Viator"],
+      "advance_booking": "recommended"
+    },
+    "tags": ["lyon", "food", "gastronomy", "bouchon", "market", "culture"]
+  }
+]

@@ -1,0 +1,165 @@
+{
+  "id": 13,
+  "slug": "foie-gras",
+  "name": {
+    "en": "Foie Gras",
+    "fr": "Foie Gras"
+  },
+  "category": "appetizer",
+  "region": "southwest",
+  "description": {
+    "en": "Fattened duck or goose liver, served as a luxurious pate or pan-seared delicacy",
+    "fr": "Foie de canard ou d'oie engraisse, servi en terrine ou poele"
+  },
+  "ingredients": [
+    "duck liver (or goose liver)",
+    "salt",
+    "pepper",
+    "Sauternes wine",
+    "Armagnac or Cognac",
+    "sugar"
+  ],
+  "allergens": [],
+  "dietary": [
+    "gluten-free"
+  ],
+  "image": "/images/food/foie-gras.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "48 hours (for terrine, including curing)",
+  "difficulty": "hard",
+  "price_range": "expensive",
+  "seo": {
+    "metaTitle": {
+      "en": "Foie Gras | French Duck & Goose Liver Delicacy Guide"
+    },
+    "metaDescription": {
+      "en": "Discover foie gras, France's most luxurious culinary tradition — fattened duck or goose liver served as terrine or pan-seared, a cornerstone of French gastronomic heritage."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "appetizer",
+    "southwest",
+    "luxury",
+    "duck",
+    "goose",
+    "delicacy",
+    "christmas",
+    "perigord"
+  ],
+  "enhanced_description": "Foie gras is the most controversial and arguably the most luxurious product in French gastronomy — the fattened liver of a duck or goose, prized for its extraordinarily rich, buttery, and unctuous texture that dissolves on the tongue like no other food. The practice of fattening waterfowl dates back to ancient Egypt, where geese were force-fed figs, and was adopted by the Romans before taking root in the duck- and goose-raising regions of southwestern France, particularly the Perigord, Gers, and Landes. France produces approximately 75% of the world's foie gras, and the product was officially declared part of France's protected cultural and gastronomic heritage by the French National Assembly in 2005. Foie gras is prepared in several forms: foie gras entier (whole liver, the premium product), bloc de foie gras (reconstituted from multiple livers), foie gras mi-cuit (semi-cooked, served as a terrine), and foie gras poele (pan-seared, served hot). The terrine preparation involves deveining the raw liver, seasoning it with salt, pepper, and a splash of Sauternes or Armagnac, pressing it into a terrine mold, and cooking it at a low temperature before chilling for 24-48 hours. Pan-seared foie gras — thick slices quickly seared in a dry, screaming-hot pan until caramelized on the outside and molten within — is one of the great taste experiences in French dining, typically paired with a sweet counterpoint like caramelized apples, fig compote, or a Sauternes reduction. The ethical debate surrounding foie gras production (specifically the gavage, or force-feeding process) has led to bans in several countries, though it remains deeply embedded in French culinary culture and is consumed enthusiastically during the Christmas and New Year season, when approximately 80% of annual production is sold.",
+  "detailed_ingredients": [
+    {
+      "name": "Foie Gras de Canard (Duck Liver) or Foie Gras d'Oie (Goose Liver)",
+      "purpose": "The product itself — duck foie gras is more common and has a more assertive flavor; goose foie gras is milder, silkier, and more expensive",
+      "substitutes": [
+        "No true substitute exists for the unique texture and flavor of foie gras"
+      ]
+    },
+    {
+      "name": "Fleur de Sel",
+      "purpose": "Enhances the natural richness and provides a mineral counterpoint to the fattiness",
+      "substitutes": [
+        "Fine sea salt",
+        "Sel rose (pink salt)"
+      ]
+    },
+    {
+      "name": "Sauternes or Sweet Wine",
+      "purpose": "Used in the curing marinade for terrine foie gras — adds subtle sweetness and aromatic complexity",
+      "substitutes": [
+        "Muscat de Beaumes-de-Venise",
+        "Late-harvest Gewurztraminer",
+        "Armagnac or Cognac"
+      ]
+    },
+    {
+      "name": "White Pepper",
+      "purpose": "Provides gentle heat without the visual speckling of black pepper — traditional in foie gras preparation",
+      "substitutes": [
+        "Espelette pepper for a southwestern touch",
+        "Sichuan pepper for a modern twist"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Low-temperature terrine or high-heat pan-searing",
+    "steps_overview": "For terrine: The raw liver is tempered at room temperature, deveined carefully (the large central vein and tributaries are removed by hand), seasoned with salt, pepper, and a splash of Sauternes or Armagnac, then pressed into a terrine mold. It cooks in a bain-marie at 85°C (185°F) for 40-50 minutes until the internal temperature reaches 45°C (113°F). The terrine is weighted, cooled, and refrigerated for 24-48 hours to allow flavors to develop. For pan-seared: Thick slices (1.5 cm) of raw foie gras are scored lightly, seasoned with salt and pepper, and seared in a dry, extremely hot pan for 60-90 seconds per side until deeply caramelized outside and barely warm through. It is served immediately.",
+    "cooking_tips": [
+      "Devein carefully but do not obsess — small vein fragments disappear during cooking",
+      "For terrine, the liver must be at room temperature before preparation for even cooking",
+      "For pan-searing, the pan must be smoking hot and dry — no oil or butter needed",
+      "Seared foie gras cooks in seconds — it goes from perfect to overcooked in moments",
+      "Season the terrine and refrigerate 24-48 hours before eating — the flavor deepens enormously"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "The practice of fattening waterfowl began in ancient Egypt around 2500 BC, where geese were fed figs to enlarge their livers. The Romans adopted the practice (Pliny the Elder wrote about it), and it migrated to southwestern France where Jewish communities, prohibited from using lard, raised geese and ducks for their fat. The Perigord and Gascony regions became the heartland of French foie gras production.",
+    "cultural_importance": "Foie gras was declared part of France's 'protected cultural and gastronomic heritage' by the French National Assembly in 2005. It is the centerpiece of French holiday dining — Christmas and New Year's Eve (reveillon) are virtually unimaginable without foie gras on the table. Annual French consumption exceeds 20,000 tons.",
+    "traditional_occasions": [
+      "Christmas Eve dinner (reveillon de Noel)",
+      "New Year's Eve (reveillon du Nouvel An)",
+      "Wedding banquets",
+      "Gastronomic tasting menus"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Foie Gras Mi-Cuit en Terrine",
+      "description": "Semi-cooked in a terrine, sliced cold — the most traditional and popular preparation, served with toast"
+    },
+    {
+      "name": "Foie Gras Poele",
+      "description": "Pan-seared to order, served hot with fruit accompaniments — the restaurant preparation"
+    },
+    {
+      "name": "Foie Gras Entier en Conserve",
+      "description": "Whole liver preserved in a jar or tin — can be kept for years and develops complex flavors over time"
+    },
+    {
+      "name": "Foie Gras Torchon",
+      "description": "Rolled in a cloth (torchon) and gently poached — produces a smooth, uniform cylinder"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Toasted brioche or pain de campagne",
+      "Fig or onion compote (confit d'oignons)",
+      "Fleur de sel",
+      "A glass of Sauternes, Monbazillac, or late-harvest Alsatian wine"
+    ],
+    "presentation": "Terrine: sliced thickly (1-2 cm) with a hot, wet knife and placed on the plate with a quenelle of compote and toasted bread. Poele: served immediately on a warm plate with its accompaniment (caramelized fruit, reduction).",
+    "eating_etiquette": "Spread terrine foie gras on toast with a knife — do not mash it. Take small bites and let it melt on the tongue. Pair each bite with a sip of sweet wine. For poele, eat immediately while hot."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "200-300 kcal per 50g serving",
+    "health_benefits": [
+      "Rich in monounsaturated fats (similar to olive oil)",
+      "High in iron and vitamin A",
+      "Contains vitamin B12"
+    ],
+    "dietary_notes": [
+      "Extremely high in fat (but predominantly monounsaturated)",
+      "Rich in vitamin A and iron",
+      "Naturally gluten-free"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "L'Ambroisie (Paris) — three Michelin stars, foie gras is a signature",
+      "Au Trou Gascon (Paris) — Gascon specialties including exceptional foie gras",
+      "Le Vieux Logis (Tremolat, Dordogne) — in the heart of Perigord foie gras country"
+    ],
+    "street_food_areas": [
+      "Christmas markets throughout France (served on toast)",
+      "Markets in Sarlat, Perigueux, and Auch (Perigord and Gascony)",
+      "Marche de Samatan (Gers) — the largest foie gras market in France"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 6-10 (market tasting portion on toast)",
+      "restaurant": "EUR 20-35 (starter course)",
+      "upscale": "EUR 45-80+ (tasting menu course at fine dining restaurants)"
+    }
+  }
+}

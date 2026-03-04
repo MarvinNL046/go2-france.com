@@ -1,0 +1,167 @@
+{
+  "id": 4,
+  "slug": "ratatouille",
+  "name": {
+    "en": "Ratatouille",
+    "fr": "Ratatouille"
+  },
+  "category": "main-dish",
+  "region": "provence",
+  "description": {
+    "en": "Provencal vegetable stew with eggplant, zucchini, bell peppers, tomatoes, and herbs",
+    "fr": "Ragout de legumes provencal aux aubergines, courgettes, poivrons, tomates et herbes"
+  },
+  "ingredients": [
+    "eggplant",
+    "zucchini",
+    "bell peppers",
+    "tomatoes",
+    "onion",
+    "garlic",
+    "olive oil",
+    "thyme",
+    "basil",
+    "bay leaf"
+  ],
+  "allergens": [],
+  "dietary": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "image": "/images/food/ratatouille.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "1.5 hours",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Ratatouille | Provencal Vegetable Stew Guide"
+    },
+    "metaDescription": {
+      "en": "Discover ratatouille, the iconic Provencal vegetable stew of eggplant, zucchini, peppers, and tomatoes — a celebration of summer produce and Mediterranean simplicity."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "provence",
+    "vegetarian",
+    "vegan",
+    "vegetables",
+    "summer",
+    "mediterranean"
+  ],
+  "enhanced_description": "Ratatouille is Provence distilled into a single dish — a glorious celebration of summer vegetables, olive oil, garlic, and herbs that captures the sun-drenched essence of the French Mediterranean. At its simplest, ratatouille is a stew of eggplant, zucchini, bell peppers, tomatoes, onions, and garlic, simmered slowly in olive oil with thyme, basil, and bay leaf until the vegetables meld into a harmonious, silky whole while retaining their individual identities. The name derives from the Occitan word 'ratatolha,' meaning to stir up, and the dish originated as a peasant meal in Nice and the surrounding Provencal countryside, made from whatever vegetables were abundant in the summer garden. There are two schools of thought on preparation: the traditional method of sauteing each vegetable separately before combining them (preserving distinct textures and preventing the stew from becoming mushy), and the more rustic approach of layering everything in a pot and letting time do the work. Thomas Keller's famous confit byaldi — thinly sliced vegetables arranged in overlapping circles atop a piperade sauce, featured in the Pixar film 'Ratatouille' — represents a contemporary haute cuisine interpretation that bears little resemblance to the homey original but has introduced the dish to a global audience. A properly made ratatouille should taste of summer itself: sweet tomatoes, smoky eggplant, tender zucchini, and the fragrance of Provencal herbs. It is equally delicious hot, warm, or cold, making it one of the most versatile dishes in the French repertoire.",
+  "detailed_ingredients": [
+    {
+      "name": "Eggplant (Aubergine)",
+      "purpose": "Provides a creamy, almost meaty texture when cooked and absorbs the flavors of the olive oil and herbs",
+      "substitutes": [
+        "Japanese eggplant (thinner skin, fewer seeds)",
+        "Graffiti eggplant"
+      ]
+    },
+    {
+      "name": "Zucchini (Courgette)",
+      "purpose": "Adds moisture and a mild, slightly sweet flavor that balances the richer vegetables",
+      "substitutes": [
+        "Yellow summer squash",
+        "Pattypan squash"
+      ]
+    },
+    {
+      "name": "Bell Peppers (Poivrons)",
+      "purpose": "Sweet, slightly charred peppers add brightness and natural sweetness to the stew",
+      "substitutes": [
+        "Piquillo peppers",
+        "Cubanelle peppers"
+      ]
+    },
+    {
+      "name": "Ripe Tomatoes",
+      "purpose": "Form the liquid base of the stew and provide acidity and sweetness",
+      "substitutes": [
+        "San Marzano canned tomatoes (in winter)",
+        "Cherry tomatoes for sweeter flavor"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Slow sauteing and stewing",
+    "steps_overview": "In the classic Nicoise method, each vegetable is sauteed separately in olive oil — eggplant first (it absorbs the most oil), then zucchini, then peppers, then tomatoes and onions. Each is seasoned individually and cooked until just tender. The vegetables are then combined in a large pot or casserole, seasoned with garlic, thyme, basil, and bay leaf, and simmered gently for 30-45 minutes until the flavors meld. The dish can also be finished in a low oven. Some cooks prefer a final drizzle of raw olive oil and torn fresh basil before serving.",
+    "cooking_tips": [
+      "Salt and drain eggplant slices for 30 minutes before cooking to remove bitterness and excess moisture",
+      "Cook each vegetable separately to maintain distinct textures",
+      "Use ripe, in-season summer vegetables for the best flavor",
+      "Low and slow is the key — never rush ratatouille",
+      "It tastes even better the next day after the flavors have married overnight"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Ratatouille originated as a poor farmer's dish in the Nice region and broader Provence, made from the abundant summer vegetables of Mediterranean kitchen gardens. The earliest recorded recipes date to the 18th century. The word itself comes from 'rata,' French military slang for a chunky stew, combined with the Occitan 'touiller' (to stir).",
+    "cultural_importance": "Ratatouille embodies the philosophy of Provencal cooking: simple, seasonal ingredients treated with respect and patience. It became internationally famous through the 2007 Pixar film of the same name, though the film's version (confit byaldi) differs significantly from the traditional stew.",
+    "traditional_occasions": [
+      "Summer family meals",
+      "Side dish for grilled meats and fish",
+      "Picnic and potluck staple (served cold)",
+      "Vegetarian main course"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Confit Byaldi (Keller's Ratatouille)",
+      "description": "Thomas Keller's refined version with paper-thin vegetable slices arranged over a piperade, baked slowly — the version featured in the Pixar film"
+    },
+    {
+      "name": "Tian Provencal",
+      "description": "Sliced vegetables arranged in rows in a gratin dish and baked — a close cousin that emphasizes visual presentation"
+    },
+    {
+      "name": "Ratatouille Nicoise",
+      "description": "The strict Nice version that insists on separate cooking of each vegetable before combining"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Crusty bread for sopping up the juices",
+      "Grilled lamb chops or roasted chicken",
+      "Poached or fried eggs on top",
+      "Steamed rice or couscous"
+    ],
+    "presentation": "Served warm or at room temperature in a shallow bowl or on a plate, drizzled with extra-virgin olive oil and scattered with torn fresh basil leaves",
+    "eating_etiquette": "Ratatouille is informal Provencal food. Serve it generously, use bread to soak up the juices, and enjoy it at a relaxed pace."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "150-250 kcal per serving",
+    "health_benefits": [
+      "Rich in vitamins A and C from peppers and tomatoes",
+      "High in fiber from multiple vegetables",
+      "Heart-healthy monounsaturated fats from olive oil",
+      "Low calorie and nutrient-dense"
+    ],
+    "dietary_notes": [
+      "Naturally vegan and gluten-free",
+      "Low in calories and high in nutrients",
+      "Suitable for most dietary restrictions"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Chez Rene Socca (Nice) — traditional Nicoise specialties",
+      "La Merenda (Nice) — tiny restaurant with no phone, legendary ratatouille",
+      "Chez Panisse (Aix-en-Provence) — Provencal classics"
+    ],
+    "street_food_areas": [
+      "Cours Saleya market area (Nice)",
+      "Provencal market restaurants throughout southern France",
+      "Village restaurants in the Luberon and Var"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 5-8 (market stall portion)",
+      "restaurant": "EUR 12-18 (as a main course or side dish)",
+      "upscale": "EUR 20-35 (refined interpretations at gastronomic restaurants)"
+    }
+  }
+}

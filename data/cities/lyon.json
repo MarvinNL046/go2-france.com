@@ -1,0 +1,88 @@
+{
+  "slug": "lyon",
+  "name": {
+    "en": "Lyon"
+  },
+  "image": "/images/cities/lyon.webp",
+  "region": "Auvergne-Rhone-Alpes",
+  "highlights": [
+    "Gastronomic Capital of France",
+    "Vieux Lyon Renaissance Quarter",
+    "Traboules (Hidden Passageways)",
+    "Confluence District"
+  ],
+  "description": {
+    "en": "France's gastronomic capital sits at the confluence of the Rhone and Saone rivers, a city where Roman ruins meet Renaissance architecture, silk-weaving heritage blends with contemporary art, and the legendary bouchon restaurants serve some of the finest traditional cuisine in the country. Lyon's UNESCO-listed old town, vibrant food markets, and Paul Bocuse legacy make it an essential destination for anyone serious about French culture and cuisine."
+  },
+  "overview": "Lyon is France's third-largest city with a population of over 500,000 (1.7 million in the metropolitan area) and has been a center of commerce and industry since Roman times when it served as the capital of Gaul under the name Lugdunum. The city's strategic position at the confluence of the Rhone and Saone rivers made it a crossroads of trade routes and a center of silk production from the 15th to 19th centuries. Vieux Lyon, the largest Renaissance quarter in France outside of Paris, is a UNESCO World Heritage Site with its characteristic traboules — hidden passageways that run through buildings and courtyards, originally used by silk workers. Lyon's culinary reputation is unmatched in France: Paul Bocuse, the father of nouvelle cuisine, was based here, and the city's bouchon restaurants serve traditional Lyonnaise dishes like quenelles, andouillette, and salade lyonnaise. Les Halles de Lyon Paul Bocuse is the city's legendary indoor food market. The modern Confluence district, built at the southern tip where the two rivers meet, showcases cutting-edge architecture and the Musee des Confluences science museum.",
+  "neighborhoods": [
+    {
+      "name": "Vieux Lyon",
+      "description": "The Renaissance heart of the city, Vieux Lyon stretches along the west bank of the Saone at the foot of Fourviere hill. Its three quarters — Saint-Jean, Saint-Paul, and Saint-Georges — feature cobblestone streets, ornate Renaissance facades, hidden courtyards, and the famous traboules. The Cathedrale Saint-Jean-Baptiste anchors the district with its astronomical clock dating to the 14th century.",
+      "highlights": [
+        "Traboules (hidden passageways)",
+        "Cathedrale Saint-Jean",
+        "Musee Gadagne",
+        "Renaissance architecture"
+      ]
+    },
+    {
+      "name": "Presqu'ile",
+      "description": "The peninsula between the Rhone and Saone rivers forms the commercial heart of Lyon. Place Bellecour, one of the largest public squares in Europe, anchors the district. Rue de la Republique is the main shopping street, while the slopes of Croix-Rousse to the north are the historic silk-weavers' quarter with panoramic views and a bohemian atmosphere.",
+      "highlights": [
+        "Place Bellecour",
+        "Opera de Lyon",
+        "Musee des Beaux-Arts",
+        "Croix-Rousse silk heritage"
+      ]
+    },
+    {
+      "name": "Fourviere Hill",
+      "description": "Rising above Vieux Lyon, Fourviere hill is the birthplace of the city — the Romans founded Lugdunum here in 43 BC. The Basilique Notre-Dame de Fourviere, an exuberant 19th-century church, dominates the hilltop alongside well-preserved Roman theaters and the Gallo-Roman Museum. The panoramic views across the city to the Alps are spectacular.",
+      "highlights": [
+        "Basilique Notre-Dame de Fourviere",
+        "Roman amphitheaters",
+        "Gallo-Roman Museum",
+        "Panoramic views to the Alps"
+      ]
+    },
+    {
+      "name": "Confluence",
+      "description": "Lyon's boldest urban renewal project transformed the industrial wasteland at the southern tip of the Presqu'ile into a vibrant district of contemporary architecture, cultural venues, and riverside promenades. The Musee des Confluences, housed in a striking deconstructivist building, explores the intersection of science and society.",
+      "highlights": [
+        "Musee des Confluences",
+        "Contemporary architecture",
+        "Riverside promenades",
+        "Shopping and dining"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Lyon-Saint Exupery Airport (LYS) is located 25 km east of the city center and serves domestic and international flights. The Rhonexpress tramway connects the airport to Part-Dieu station in 30 minutes for EUR 16.30.",
+    "byTrain": "Lyon is a major TGV hub. Paris to Lyon takes just 2 hours by TGV from Gare de Lyon to Lyon Part-Dieu. Marseille is 1h40, Strasbourg 4h40, Geneva 2h. Lyon has two main stations: Part-Dieu (the main intercity station) and Perrache (city center).",
+    "byBus": "FlixBus and BlaBlaCar Bus serve Lyon from Paris (from EUR 10), Marseille, and other French cities, arriving at the Perrache bus station."
+  },
+  "gettingAround": "Lyon has an excellent public transit system (TCL) with 4 metro lines, 5 tram lines, and an extensive bus network. A single ticket costs EUR 1.90 and is valid for 1 hour across all modes. The day pass (Ticket Liberte Jour) costs EUR 6.20. Velov bikeshare is widely available with 4,000 bikes at 350 stations. The funicular from Vieux Lyon to Fourviere is included in a standard transit ticket. Walking is the best way to explore Vieux Lyon and the Presqu'ile.",
+  "bestTimeToVisit": {
+    "best": "April to June, September to October",
+    "description": "Spring and autumn offer pleasant weather and manageable crowds. The Fete des Lumieres in December (December 8 and surrounding days) is Lyon's most spectacular event, when the entire city is illuminated with artistic light installations. Summer can be hot but offers outdoor festivals along the rivers.",
+    "seasons": {
+      "spring": "April-June: 10-24°C (50-75°F). Pleasant weather, outdoor markets, riverside cafe terraces. Ideal for walking and cycling.",
+      "summer": "July-August: 18-30°C (64-86°F). Hot days, Nuits de Fourviere summer festival with concerts and performances at the Roman theater. Can be very warm.",
+      "autumn": "September-November: 8-20°C (46-68°F). Beautiful light, Beaujolais Nouveau season in November, fewer crowds.",
+      "winter": "December-February: 0-8°C (32-46°F). Cold but the Fete des Lumieres (early December) is unmissable. Christmas markets and hearty bouchon cuisine are perfect for the season."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 50-80/day",
+    "midRange": "EUR 120-250/day",
+    "luxury": "EUR 300-1000+/day",
+    "details": "Lyon offers excellent value compared to Paris. Hostel dorms from EUR 25-35/night. Budget hotels EUR 60-100/night. Mid-range hotels EUR 100-200/night. A bouchon lunch menu (starter, main, dessert) costs EUR 18-25. The Lyon City Card (EUR 28/1 day) includes unlimited transit and entry to 23 museums."
+  },
+  "tags": ["gastronomy", "history", "culture", "architecture", "food-markets", "unesco"],
+  "seo": {
+    "metaTitle": "Lyon Travel Guide 2026 — France's Gastronomic Capital",
+    "metaDescription": "Complete guide to visiting Lyon, France. Discover the best bouchon restaurants, Vieux Lyon traboules, Fourviere hill, and why Lyon is France's food capital. Practical tips on transport, budget, and when to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

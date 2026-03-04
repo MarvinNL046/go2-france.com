@@ -1,0 +1,116 @@
+{
+  "id": 2,
+  "slug": "champagne",
+  "name": {
+    "en": "Champagne",
+    "fr": "Champagne"
+  },
+  "category": "wine",
+  "region": "champagne",
+  "description": {
+    "en": "The world's most famous sparkling wine, produced exclusively in the Champagne region using the traditional methode champenoise"
+  },
+  "ingredients": [
+    "Chardonnay grapes",
+    "Pinot Noir grapes",
+    "Pinot Meunier grapes",
+    "Liqueur de tirage (sugar and yeast for second fermentation)",
+    "Liqueur d'expedition (dosage sugar)"
+  ],
+  "image": "/images/drinks/champagne.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "15 months minimum aging (non-vintage), 36 months (vintage)",
+  "difficulty": "expert",
+  "price_range": "premium",
+  "seo": {
+    "metaTitle": "Champagne | The Ultimate Guide to French Sparkling Wine",
+    "metaDescription": "Discover Champagne — the world's most celebrated sparkling wine, from the vineyards of northern France to your glass. History, houses, and tasting guide."
+  },
+  "tags": [
+    "french-drinks",
+    "france",
+    "wine",
+    "sparkling-wine",
+    "champagne",
+    "celebration",
+    "luxury",
+    "methode-champenoise"
+  ],
+  "enhanced_description": "Champagne is the pinnacle of sparkling wine, produced exclusively within the strictly delimited Champagne region approximately 150 kilometers northeast of Paris. Only wine made in this region using the methode champenoise — a labor-intensive process involving secondary fermentation in the bottle — may legally bear the name Champagne. The region's cool northern climate and unique chalky subsoil (craie) produce grapes with high acidity and delicate fruit character, essential qualities for exceptional sparkling wine. Three grape varieties dominate: Chardonnay (bringing elegance and citrus notes), Pinot Noir (contributing structure and red fruit), and Pinot Meunier (adding fruitiness and approachability). The production method involves a first fermentation to create a still base wine, followed by a second fermentation in sealed bottles triggered by the addition of liqueur de tirage. This secondary fermentation produces the signature bubbles and also creates a sediment of dead yeast cells (lees) that the wine rests upon during aging, developing the toasty, biscuity, brioche-like complexity that defines fine Champagne. After aging, the bottles undergo riddling (remuage), where they are gradually turned and tilted to collect sediment in the neck, followed by disgorgement (degorgement) to remove the sediment. A small amount of sweetened wine (dosage) is added to adjust the final sweetness level before the bottle is sealed with its characteristic mushroom-shaped cork and wire cage (muselet). The great Champagne houses — Moet et Chandon, Veuve Clicquot, Dom Perignon, Krug, Bollinger, Louis Roederer — are global luxury brands, but the region also boasts thousands of smaller grower-producers (recoltants-manipulants) making distinctive, terroir-driven wines.",
+  "detailed_ingredients": [
+    {
+      "name": "Chardonnay",
+      "purpose": "Provides elegance, citrus and white flower aromatics, and excellent aging potential. Dominant in Blanc de Blancs styles",
+      "substitutes": ["No substitutes in true Champagne"]
+    },
+    {
+      "name": "Pinot Noir",
+      "purpose": "Adds body, structure, and red fruit character. Dominant in the Montagne de Reims sub-region",
+      "substitutes": ["No substitutes in true Champagne"]
+    },
+    {
+      "name": "Pinot Meunier",
+      "purpose": "Contributes fruitiness and roundness, especially important in non-vintage blends for consistency",
+      "substitutes": ["No substitutes in true Champagne"]
+    },
+    {
+      "name": "Liqueur d'Expedition (Dosage)",
+      "purpose": "A small addition of sugar dissolved in wine, added after disgorgement to balance acidity and determine sweetness level (Brut, Extra Brut, Demi-Sec, etc.)",
+      "substitutes": ["Zero dosage for Brut Nature/Zero styles"]
+    }
+  ],
+  "cultural_significance": {
+    "origin_story": "Champagne's sparkling character was initially considered a winemaking flaw. The monk Dom Perignon (1638-1715) at the Abbey of Hautvillers did not invent Champagne as legend claims, but he made crucial advances in blending and production. English scientist Christopher Merret documented the addition of sugar to create bubbles in 1662, predating French claims. The methode champenoise was refined throughout the 18th and 19th centuries, with Veuve Clicquot's invention of riddling tables (pupitres) in 1816 being a key breakthrough.",
+    "cultural_importance": "Champagne is the universal symbol of celebration, luxury, and success. In France, it marks every milestone: weddings, births, New Year's Eve, promotions, and national victories. The sabrage tradition — opening a bottle with a saber — dates to Napoleonic cavalry officers. Champagne is also central to French diplomacy and state banquets.",
+    "traditional_occasions": [
+      "New Year's Eve (Reveillon)",
+      "Weddings and engagements",
+      "Ship christenings",
+      "Victory celebrations",
+      "Aperitif before formal meals"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Brut Non-Vintage (NV)",
+      "description": "The standard style, blended from multiple vintages for house consistency, aged minimum 15 months"
+    },
+    {
+      "name": "Vintage Champagne",
+      "description": "Made from a single exceptional year's harvest, aged minimum 36 months, showing the character of that year"
+    },
+    {
+      "name": "Blanc de Blancs",
+      "description": "Made exclusively from Chardonnay grapes, elegant and precise with citrus and mineral notes"
+    },
+    {
+      "name": "Blanc de Noirs",
+      "description": "Made from Pinot Noir and/or Pinot Meunier, fuller-bodied with red fruit character"
+    },
+    {
+      "name": "Rose Champagne",
+      "description": "Pink Champagne made by blending red wine or brief skin contact, with strawberry and raspberry notes"
+    },
+    {
+      "name": "Prestige Cuvee",
+      "description": "The top-tier bottling of a Champagne house, such as Dom Perignon, Cristal, La Grande Dame, or Comtes de Champagne"
+    }
+  ],
+  "where_to_find": {
+    "best_restaurants": [
+      "Les Crayeres (Reims) — two-Michelin-star restaurant in a grand chateau",
+      "Le Parc (Reims) — gourmet dining with extensive Champagne list",
+      "Royal Champagne Hotel & Spa (Champillon) — overlooking the vineyards with panoramic terrace"
+    ],
+    "street_food_areas": [
+      "Champagne houses along Avenue de Champagne in Epernay — called the most expensive street in the world",
+      "Reims city center wine bars and caves",
+      "Champagne route villages: Hautvillers, Bouzy, Ambonnay"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 8-15 (glass of non-vintage at a Champagne bar)",
+      "restaurant": "EUR 15-30 (glass of vintage or prestige cuvee)",
+      "upscale": "EUR 30-80 (bottle of NV), EUR 50-300+ (vintage/prestige cuvee)"
+    }
+  }
+}

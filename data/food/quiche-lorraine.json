@@ -1,0 +1,166 @@
+{
+  "id": 6,
+  "slug": "quiche-lorraine",
+  "name": {
+    "en": "Quiche Lorraine",
+    "fr": "Quiche Lorraine"
+  },
+  "category": "main-dish",
+  "region": "lorraine",
+  "description": {
+    "en": "Savory custard tart with lardons, eggs, and cream in a buttery pastry shell",
+    "fr": "Tarte salee garnie de lardons, oeufs et creme dans une pate brisee au beurre"
+  },
+  "ingredients": [
+    "eggs",
+    "heavy cream",
+    "lardons",
+    "butter",
+    "flour",
+    "nutmeg",
+    "salt",
+    "pepper"
+  ],
+  "allergens": [
+    "gluten",
+    "dairy",
+    "eggs"
+  ],
+  "dietary": [],
+  "image": "/images/food/quiche-lorraine.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "1.5 hours",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "Quiche Lorraine | Classic French Savory Tart"
+    },
+    "metaDescription": {
+      "en": "Discover Quiche Lorraine, the iconic French savory tart with lardons, eggs, and cream in buttery pastry — one of France's most beloved and versatile dishes."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "lorraine",
+    "eggs",
+    "pastry",
+    "lunch",
+    "brunch",
+    "savory-tart"
+  ],
+  "enhanced_description": "Quiche Lorraine is one of France's most beloved and widely replicated dishes — a golden, flaky-crusted tart filled with a silky custard of eggs and cream studded with crisp lardons. Originating in the Lorraine region of northeastern France, the dish takes its name from the German word 'Kuchen' (cake), reflecting the region's position at the crossroads of French and Germanic cultures. The authentic Quiche Lorraine is a study in simplicity: pate brisee (shortcrust pastry), eggs, heavy cream, lardons, and a grating of nutmeg — notably, no cheese in the traditional version, despite what countless international recipes may claim. The addition of Gruyere cheese, while delicious, makes it a Quiche Vosgienne, a neighboring variation. The secret to a perfect Quiche Lorraine lies in the custard: the ratio of eggs to cream must produce a filling that sets gently in the oven into a barely trembling, silky custard — never rubbery or dry. The pastry must be blind-baked to prevent sogginess, and the lardons should be rendered until just golden, not crispy. A properly made quiche should still jiggle slightly in the center when removed from the oven, as it continues to set as it cools. Served warm with a simple green salad dressed in vinaigrette, Quiche Lorraine is the quintessential French lunch — elegant enough for a dinner party appetizer yet simple enough for a weeknight family meal. It has become one of the most universal French exports, adapted and varied in kitchens around the world.",
+  "detailed_ingredients": [
+    {
+      "name": "Lardons Fumes (Smoked Bacon Batons)",
+      "purpose": "Provide the signature smoky, salty pork flavor that defines the filling",
+      "substitutes": [
+        "Thick-cut smoked bacon, cut into batons",
+        "Pancetta (for an Italian twist)",
+        "Smoked ham in cubes"
+      ]
+    },
+    {
+      "name": "Heavy Cream (Creme Fraiche or Creme Liquide)",
+      "purpose": "Creates the rich, silky custard base — the higher the fat content, the creamier the result",
+      "substitutes": [
+        "Creme fraiche (adds tanginess)",
+        "Half-and-half (lighter but less rich)",
+        "Full-fat sour cream mixed with milk"
+      ]
+    },
+    {
+      "name": "Free-Range Eggs",
+      "purpose": "Bind the custard and provide structure — the yolks add richness and color",
+      "substitutes": [
+        "Extra egg yolks for a richer custard",
+        "No true substitute for eggs in quiche"
+      ]
+    },
+    {
+      "name": "Pate Brisee (Shortcrust Pastry)",
+      "purpose": "The buttery, flaky shell that contains the custard and provides textural contrast",
+      "substitutes": [
+        "Store-bought all-butter puff pastry",
+        "Pate sucree for a slightly sweet variation"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Blind baking and custard setting",
+    "steps_overview": "The pate brisee is rolled out, fitted into a tart tin, and blind-baked with pie weights at 200°C (400°F) for 15 minutes, then without weights for 5 more minutes until pale gold. Meanwhile, lardons are rendered in a pan until golden. Eggs and cream are whisked together with salt, pepper, and nutmeg. The lardons are scattered over the blind-baked shell, the custard is poured over, and the quiche bakes at 180°C (350°F) for 25-35 minutes until the top is golden and the center is just set but still slightly wobbly.",
+    "cooking_tips": [
+      "Blind bake the pastry fully — a soggy bottom is the most common quiche failure",
+      "Do not overmix the custard — gentle whisking preserves a silky texture",
+      "The quiche should still jiggle slightly when removed from the oven",
+      "Let it rest 10-15 minutes before cutting — the custard firms as it cools",
+      "Bring eggs and cream to room temperature before mixing for even custard"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Quiche Lorraine dates to at least the 16th century in the Lorraine region, then part of the Duchy of Lorraine in the Holy Roman Empire. The original 'quiche' was an open pie filled with an egg and cream custard enriched with smoked bacon — a practical use of dairy farm products. The name comes from the Franconian German 'Kuchen,' later adapted into French dialect as 'quiche.'",
+    "cultural_importance": "Quiche Lorraine is one of France's most internationally recognized dishes and represents the tradition of tartes salees (savory tarts) that is fundamental to French home cooking and charcuterie culture. Every boulangerie and traiteur in France sells quiche by the slice.",
+    "traditional_occasions": [
+      "Weekday lunch with salad",
+      "Picnic and outdoor dining",
+      "Brunch and buffet centerpiece",
+      "Aperitif snack (served in small squares)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Quiche Vosgienne",
+      "description": "The cheese version — adds Gruyere or Comte cheese to the traditional Lorraine filling"
+    },
+    {
+      "name": "Quiche aux Poireaux",
+      "description": "A popular variation with leeks sauteed in butter, replacing or supplementing the lardons"
+    },
+    {
+      "name": "Quiche Florentine",
+      "description": "With spinach, Gruyere, and nutmeg — the most popular vegetarian variation"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Green salad (mesclun) with Dijon vinaigrette",
+      "Tomato salad in summer",
+      "A glass of dry Alsatian white wine (Riesling or Sylvaner)",
+      "Cornichons"
+    ],
+    "presentation": "Served warm (not hot) in wedges from the tart tin or on individual plates, accompanied by a simply dressed green salad",
+    "eating_etiquette": "Eaten with a knife and fork. Quiche is appropriate at any meal from brunch to dinner and is perfectly acceptable to eat with your hands when served in small squares at aperitif time."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "350-450 kcal per slice",
+    "health_benefits": [
+      "High in protein from eggs and lardons",
+      "Good source of calcium from cream",
+      "Provides B vitamins"
+    ],
+    "dietary_notes": [
+      "Rich in saturated fat from cream and butter",
+      "Contains gluten, dairy, and eggs",
+      "High protein content"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Any boulangerie or traiteur in France sells excellent quiche by the slice",
+      "Chez Yvonne (Strasbourg) — legendary Alsatian winstub",
+      "Rose Bakery (Paris) — renowned for their savory tarts"
+    ],
+    "street_food_areas": [
+      "Every boulangerie in France sells quiche by the slice",
+      "Covered markets (marches couverts) throughout the country",
+      "Traiteurs (delicatessens) in every town"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 3.50-5.50 (boulangerie slice)",
+      "restaurant": "EUR 12-18 (with salad as a lunch main)",
+      "upscale": "EUR 18-25 (gourmet versions at fine dining restaurants)"
+    }
+  }
+}

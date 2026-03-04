@@ -1,0 +1,110 @@
+{
+  "id": 7,
+  "slug": "calvados",
+  "name": {
+    "en": "Calvados",
+    "fr": "Calvados"
+  },
+  "category": "spirit",
+  "region": "normandy",
+  "description": {
+    "en": "Premium apple brandy from Normandy, distilled from cider and aged in oak barrels, famous for its role in the trou normand tradition"
+  },
+  "ingredients": [
+    "Norman cider apples (over 200 permitted varieties)",
+    "Perry pears (in some appellations)",
+    "French oak barrels (for aging)"
+  ],
+  "image": "/images/drinks/calvados.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "Minimum 2 years aging",
+  "difficulty": "expert",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": "Calvados | Normandy's Legendary Apple Brandy Guide",
+    "metaDescription": "Discover Calvados — Normandy's famous apple brandy distilled from cider and aged in oak. Learn about the trou normand tradition and the best producers."
+  },
+  "tags": [
+    "french-drinks",
+    "france",
+    "spirit",
+    "brandy",
+    "calvados",
+    "normandy",
+    "apple",
+    "digestif",
+    "trou-normand"
+  ],
+  "enhanced_description": "Calvados is the noble apple brandy of Normandy, a spirit distilled from cider that captures the essence of Norman orchards in a glass. Named after the Calvados department in Lower Normandy (itself possibly named after a Spanish Armada ship, the El Calvador, that wrecked on the coast), this brandy has been produced since at least the 16th century, with the earliest written record of cider distillation in Normandy dating to 1553. Calvados production begins with cider-making: heritage apple varieties — over 200 are permitted across the three appellations — are harvested, pressed, and fermented into cider. This cider is then distilled, either in traditional copper pot stills (alambics a repasse) requiring double distillation, or in continuous column stills, depending on the appellation. The finest Calvados, bearing the Calvados Pays d'Auge AOC, must be double-distilled in pot stills, a method that preserves greater aromatic complexity. After distillation, the clear eau-de-vie enters oak barrels where it begins a transformation that may last from two years to several decades. Young Calvados is golden, fruity, and vibrant with fresh apple character. As it ages, it darkens to amber, developing extraordinary complexity: baked apple, vanilla, cinnamon, dried fruit, leather, tobacco, and a haunting autumnal quality that evokes the Norman countryside. The three Calvados appellations are Calvados AOC (the broadest, allowing column or pot distillation), Calvados Pays d'Auge AOC (the most prestigious, requiring pot distillation and a minimum of 30% specific apple types), and Calvados Domfrontais AOC (requiring at least 30% perry pears). The trou normand tradition — taking a small glass of Calvados between courses of a long Norman meal to 'make a hole' and revive the appetite — is one of France's most cherished dining customs. Today, many restaurants serve a Calvados sorbet as a modern interpretation.",
+  "detailed_ingredients": [
+    {
+      "name": "Cider Apples (Pommes a Cidre)",
+      "purpose": "Over 200 permitted Norman varieties provide the base cider, each contributing unique flavors — bitter tannins, sharp acidity, aromatic sweetness",
+      "substitutes": ["No substitutes for AOC Calvados"]
+    },
+    {
+      "name": "Perry Pears (Poires a Poire)",
+      "purpose": "Required in Calvados Domfrontais (minimum 30%), adding floral and delicate notes to the spirit",
+      "substitutes": ["Not applicable outside Domfrontais appellation"]
+    },
+    {
+      "name": "French Oak Barrels",
+      "purpose": "Aging in oak develops color, smoothness, and complexity — vanilla, spice, and tannin — transforming raw spirit into Calvados",
+      "substitutes": ["Chestnut barrels occasionally used in older traditions"]
+    }
+  ],
+  "cultural_significance": {
+    "origin_story": "The first recorded cider distillation in Normandy dates to 1553, in the diary of Gilles de Gouberville, a Norman nobleman. The tradition grew through the centuries, with nearly every Norman farm producing its own Calvados. The spirit was recognized with AOC status in 1942 (Pays d'Auge) and regulations have since expanded to protect three distinct appellations.",
+    "cultural_importance": "Calvados is inseparable from Norman identity. The trou normand tradition of drinking a small glass between courses of a feast is practiced across Normandy and has spread throughout France. The spirit is also essential in Norman cooking — dishes like poulet vallee d'Auge (chicken in cream and Calvados sauce) and tarte aux pommes flambee depend on it. Every Norman farm once had its own still, and many families still treasure bottles aged for decades.",
+    "traditional_occasions": [
+      "Trou normand (mid-meal digestive)",
+      "After-dinner digestif",
+      "Cooking (sauces, flambe, desserts)",
+      "Norman festival celebrations",
+      "Farm visits and tastings along the Route du Cidre"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Fine (2 years)",
+      "description": "Young and fruity with vibrant apple character, often used in cocktails and cooking"
+    },
+    {
+      "name": "VSOP / Vieux Reserve (4+ years)",
+      "description": "Balanced between fruit and oak with developing complexity, excellent for sipping or the trou normand"
+    },
+    {
+      "name": "XO / Hors d'Age (6-10+ years)",
+      "description": "Rich and complex with baked apple, spice, dried fruit, and long finish — fine digestif quality"
+    },
+    {
+      "name": "Calvados Pays d'Auge AOC",
+      "description": "The most prestigious appellation, requiring double pot-still distillation and producing the most complex spirits"
+    },
+    {
+      "name": "Calvados Domfrontais AOC",
+      "description": "Made with at least 30% perry pears, offering a distinctive floral and delicate character"
+    },
+    {
+      "name": "Pommeau de Normandie",
+      "description": "Not technically Calvados but a related product: unfermented apple juice blended with young Calvados, aged 14+ months, served as an aperitif"
+    }
+  ],
+  "where_to_find": {
+    "best_restaurants": [
+      "Sa.Qua.Na (Honfleur) — two-Michelin-star restaurant with excellent Norman spirit selection",
+      "Le Bistrot d'a Cote (Pont-l'Eveque) — classic Norman bistro in the heart of Pays d'Auge",
+      "La Couronne (Rouen) — France's oldest inn, serving since 1345, with fine Calvados collection"
+    ],
+    "street_food_areas": [
+      "Route du Cidre in the Pays d'Auge — farm visits and tastings at producers like Dupont, Drouin, and Lemorton",
+      "Honfleur and Deauville — Norman coastal towns with bars and shops featuring local Calvados",
+      "Marche des Lices in Rennes — Saturday morning market with Norman and Breton producers"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 4-7 (glass of Fine or VSOP at a bar or cafe)",
+      "restaurant": "EUR 8-15 (glass of XO or aged Calvados at a restaurant)",
+      "upscale": "EUR 30-150+ (bottle of premium aged Calvados or vintage)"
+    }
+  }
+}

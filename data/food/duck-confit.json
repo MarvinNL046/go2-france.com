@@ -1,0 +1,167 @@
+{
+  "id": 15,
+  "slug": "duck-confit",
+  "name": {
+    "en": "Duck Confit",
+    "fr": "Confit de Canard"
+  },
+  "category": "main-dish",
+  "region": "southwest",
+  "description": {
+    "en": "Duck legs salt-cured and slow-cooked in their own fat until meltingly tender",
+    "fr": "Cuisses de canard confites dans leur propre graisse apres salage, cuites lentement"
+  },
+  "ingredients": [
+    "duck legs",
+    "duck fat",
+    "coarse salt",
+    "garlic",
+    "thyme",
+    "bay leaf",
+    "black pepper"
+  ],
+  "allergens": [],
+  "dietary": [
+    "gluten-free"
+  ],
+  "image": "/images/food/duck-confit.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "36 hours (including 24-hour salt cure)",
+  "difficulty": "medium",
+  "price_range": "moderate",
+  "seo": {
+    "metaTitle": {
+      "en": "Duck Confit | Confit de Canard — French Classic Guide"
+    },
+    "metaDescription": {
+      "en": "Discover Confit de Canard, the legendary French preparation of duck legs salt-cured and slow-cooked in their own fat — a cornerstone of southwestern French gastronomy."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "southwest",
+    "duck",
+    "preserved",
+    "confit",
+    "traditional",
+    "comfort-food"
+  ],
+  "enhanced_description": "Confit de Canard — duck confit — is one of the oldest and most ingenious preservation techniques in French gastronomy, a method born of practical necessity in the pre-refrigeration era that produces one of the most sublime textures in all of cooking. The word 'confit' comes from the French 'confire,' meaning to preserve, and the technique involves salting duck legs with coarse salt, garlic, thyme, and bay leaf for 24-36 hours, then cooking them very slowly — submerged in duck fat — at a low temperature (around 130-150°C/265-300°F) for 2-3 hours until the meat is falling-off-the-bone tender. Traditionally, the cooked legs were then packed into stoneware crocks, covered completely in the rendered fat (which solidified into an airtight seal), and stored in a cool cellar for months — the fat preserving the meat in a pre-refrigeration world. The method originated in Gascony and the Perigord in southwestern France, regions where duck and goose farming has been central to the economy and cuisine for centuries. When it comes time to eat, the confit leg is extracted from its fat and roasted or pan-fried at high heat until the skin becomes impossibly crisp and golden — shattering at the touch of a fork — while the meat inside remains silky, succulent, and infused with the aromatics of the cure. The contrast between the shatteringly crisp skin and the tender, almost unctuous meat is what makes duck confit one of the great textural experiences in French dining. Served with pommes sarladaises (potatoes cooked in duck fat with garlic and parsley) and a simple green salad, confit de canard is the soul food of southwestern France.",
+  "detailed_ingredients": [
+    {
+      "name": "Duck Legs (Cuisses de Canard)",
+      "purpose": "The dark meat legs with their higher fat content and connective tissue are ideal for the long, slow confit process",
+      "substitutes": [
+        "Goose legs (confit d'oie — the original version)",
+        "Duck thighs",
+        "Turkey legs (a more affordable alternative)"
+      ]
+    },
+    {
+      "name": "Duck Fat (Graisse de Canard)",
+      "purpose": "The cooking and preservation medium — the duck legs cook submerged in fat, which also acts as a natural preservative",
+      "substitutes": [
+        "Goose fat",
+        "Lard (less traditional but functional)",
+        "Olive oil (modern shortcut, not traditional)"
+      ]
+    },
+    {
+      "name": "Coarse Sea Salt (Gros Sel)",
+      "purpose": "Cures the duck legs, drawing out moisture and seasoning the meat deeply before cooking",
+      "substitutes": [
+        "Kosher salt",
+        "Curing salt with herbs"
+      ]
+    },
+    {
+      "name": "Fresh Thyme and Bay Leaves",
+      "purpose": "Aromatics that infuse into the meat during the curing and cooking process",
+      "substitutes": [
+        "Herbes de Provence blend",
+        "Rosemary and sage"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Salt curing followed by slow cooking in fat (confiting)",
+    "steps_overview": "Duck legs are rubbed generously with coarse salt, garlic, thyme, and bay leaf, then refrigerated for 24-36 hours. The salt is rinsed off and the legs are patted dry. They are placed in a heavy pot, covered completely with duck fat, and cooked very slowly at 130-150°C (265-300°F) in the oven for 2-3 hours until the meat is extremely tender and pulls easily from the bone. The legs can be stored submerged in the solidified fat for weeks or months. To serve, they are removed from the fat and roasted or pan-fried skin-side down at high heat until the skin is deeply golden and crackling-crisp.",
+    "cooking_tips": [
+      "Be generous with the salt cure — it is the foundation of the flavor",
+      "The fat must completely cover the legs during cooking — no exposed meat",
+      "Low and slow is essential — high heat will toughen the meat",
+      "To crisp the skin, start in a cold pan skin-side down and increase heat gradually",
+      "Save and reuse the cooking fat — it becomes more flavorful with each use"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Confiting is an ancient preservation technique developed in Gascony and the Perigord in southwestern France, where duck and goose farming has been practiced for centuries. Before refrigeration, confiting in fat was one of the few reliable methods to preserve meat through the winter. The technique dates to at least the medieval period and may be far older.",
+    "cultural_importance": "Duck confit is the backbone of southwestern French cuisine and the culinary identity of Gascony. It is the essential component of cassoulet (the region's other great dish), and duck fat is the cooking medium for everything in the southwest — potatoes, eggs, vegetables, and even bread. A kitchen without a jar of duck fat is unthinkable in this region.",
+    "traditional_occasions": [
+      "Everyday family dinner in southwestern France",
+      "Component of cassoulet",
+      "Bistro and brasserie classic throughout France",
+      "Preserved food for winter months (traditional)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Confit de Canard Classique",
+      "description": "Traditional preparation — salt-cured, slow-cooked in duck fat, then crisped in a hot pan or oven"
+    },
+    {
+      "name": "Confit d'Oie",
+      "description": "Goose confit — the original version, milder and richer than duck, now less common"
+    },
+    {
+      "name": "Confit de Canard en Salade",
+      "description": "Shredded confit served warm over a salad of frisee, lardons, and a poached egg — a classic bistro salad"
+    },
+    {
+      "name": "Confit de Canard Parmentier",
+      "description": "A duck confit version of hachis parmentier (French shepherd's pie) — shredded confit beneath mashed potatoes"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Pommes sarladaises (potatoes cooked in duck fat with garlic and parsley)",
+      "Green salad with walnut oil vinaigrette",
+      "White beans (haricots blancs)",
+      "Ceps or other wild mushrooms in season"
+    ],
+    "presentation": "Served on a warm plate with the duck leg positioned skin-side up to showcase its golden, crispy exterior. Pommes sarladaises alongside, and a simple green salad to cut the richness.",
+    "eating_etiquette": "Use a knife and fork. The skin should shatter at the touch of the knife. Pull the tender meat from the bone. Use bread to enjoy any remaining duck fat on the plate — it is liquid gold."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "500-650 kcal per leg",
+    "health_benefits": [
+      "High in protein from duck meat",
+      "Duck fat is rich in monounsaturated fats (similar profile to olive oil)",
+      "Good source of iron and B vitamins"
+    ],
+    "dietary_notes": [
+      "Naturally gluten-free",
+      "High in fat, but predominantly monounsaturated",
+      "Rich in protein and iron"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Au Trou Gascon (Paris) — Gascon specialties in the capital",
+      "Chez l'Ami Jean (Paris) — legendary for southwestern French cuisine",
+      "L'Auberge du Barrez (Aveyron) — authentic southwestern farmhouse cooking"
+    ],
+    "street_food_areas": [
+      "Markets throughout southwestern France sell prepared confit legs",
+      "Sarlat-la-Caneda market (Dordogne) — the heart of duck country",
+      "Canned confit is available in every French supermarket and is excellent quality"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 8-12 (market-prepared confit leg)",
+      "restaurant": "EUR 16-25 (bistro main course with accompaniments)",
+      "upscale": "EUR 28-40 (fine dining preparation with premium accompaniments)"
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "slug": "lille",
+  "name": {
+    "en": "Lille"
+  },
+  "image": "/images/cities/lille.webp",
+  "region": "Hauts-de-France",
+  "highlights": [
+    "Palais des Beaux-Arts",
+    "Vieux Lille (Old Quarter)",
+    "Braderie de Lille (Giant Flea Market)",
+    "Flemish Architecture & Culture"
+  ],
+  "description": {
+    "en": "Once an industrial powerhouse, Lille has reinvented itself as one of France's most vibrant and underrated cities — a Flemish-influenced northern gem with magnificent baroque architecture, one of France's finest art museums in the Palais des Beaux-Arts, a lively student population, excellent beer culture, and the annual Braderie flea market that draws two million visitors. Just one hour from Paris, London, and Brussels by high-speed train, Lille punches well above its weight."
+  },
+  "overview": "Lille is the capital of the Hauts-de-France region and the fourth-largest metropolitan area in France with a population of 235,000 (1.2 million in the metro area). Historically a textile and industrial center, Lille has reinvented itself since the arrival of the Eurostar in 1994 and its year as European Capital of Culture in 2004. The Vieux Lille quarter features magnificent Flemish baroque architecture in warm red and golden brick, reflecting centuries of Flemish, Burgundian, Spanish, and French rule. The Palais des Beaux-Arts is the second-largest fine arts museum in France after the Louvre, with masterworks by Rubens, Van Dyck, Goya, and Delacroix. Lille's Flemish heritage is evident in its beer culture (the region has more breweries per capita than any other in France), its cuisine (Welsh, carbonnade flamande, moules-frites), and the extraordinary Braderie de Lille — the largest flea market in Europe, held on the first weekend of September, which fills the entire city with 10,000 stalls and mountains of empty moules-frites shells.",
+  "neighborhoods": [
+    {
+      "name": "Vieux Lille",
+      "description": "The historic heart of the city, Vieux Lille is a beautifully preserved quarter of Flemish baroque and French classical architecture. The cobblestone streets around Rue de la Monnaie and Rue Esquermoise are lined with boutiques, chocolate shops, patisseries, and estaminets (traditional Flemish taverns). The Place aux Oignons is one of the most picturesque squares.",
+      "highlights": [
+        "Rue de la Monnaie shopping",
+        "Place aux Oignons",
+        "Estaminets (Flemish taverns)",
+        "Baroque architecture"
+      ]
+    },
+    {
+      "name": "Grand Place & City Center",
+      "description": "The Grand Place (officially Place du General de Gaulle, who was born in Lille) is the social center of the city, surrounded by ornate facades including the Vieille Bourse — a stunning 17th-century Flemish Renaissance exchange building with a colonnaded courtyard that hosts book and flower markets. The nearby Place du Theatre features the Opera and Chamber of Commerce.",
+      "highlights": [
+        "Vieille Bourse",
+        "Opera de Lille",
+        "Grand Place atmosphere",
+        "Chamber of Commerce belfry"
+      ]
+    },
+    {
+      "name": "Wazemmes",
+      "description": "South of the city center, Wazemmes is Lille's most multicultural and vibrant neighborhood. The Marche de Wazemmes, held Tuesday, Thursday, and especially Sunday mornings, is one of the liveliest markets in northern France — a chaotic, colorful mix of North African spices, fresh produce, cheap clothing, and street food.",
+      "highlights": [
+        "Marche de Wazemmes",
+        "Multicultural dining",
+        "Street art",
+        "Sunday market atmosphere"
+      ]
+    },
+    {
+      "name": "Euralille & Rihour",
+      "description": "The modern business district around the TGV stations features the Euralille shopping center designed by Jean Nouvel and Rem Koolhaas. The Palais des Beaux-Arts, one of France's greatest museums, sits on the elegant Place de la Republique between the old and new cities.",
+      "highlights": [
+        "Palais des Beaux-Arts",
+        "Euralille architecture",
+        "Palais Rihour (tourist office)",
+        "Place de la Republique"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Lille-Lesquin Airport (LIL) is 10 km southeast of the city with limited domestic and European flights. A shuttle bus connects to Lille-Europe station. Many visitors use Paris CDG (1h by TGV) or Brussels Airport (1h30 by train) for more flight options.",
+    "byTrain": "Lille is one of Europe's best-connected cities by rail. Eurostar from London St Pancras in 1h20, TGV from Paris Nord in 1h, Thalys from Brussels Midi in 35 minutes. The city has two stations: Lille-Flandres (domestic TGV, regional trains) and Lille-Europe (Eurostar, Thalys).",
+    "byBus": "FlixBus and BlaBlaCar Bus connect Lille to Paris, Brussels, Amsterdam, and London at budget prices."
+  },
+  "gettingAround": "Lille has 2 driverless metro lines (VAL system), 2 tram lines, and extensive buses operated by Ilevia. A single ticket costs EUR 1.65. Vieux Lille and the city center are compact and walkable. V'Lille bikeshare has 2,000 bikes at 220 stations. The Navigo-like Pass is EUR 5.20 for a day pass covering all transit.",
+  "bestTimeToVisit": {
+    "best": "May to September for warm weather, First weekend of September for the Braderie",
+    "description": "Lille has a maritime climate with cool winters and mild summers. The Braderie de Lille on the first weekend of September is the city's most iconic event. Christmas markets in November-December are charming. Summer offers the best weather for exploring.",
+    "seasons": {
+      "spring": "April-June: 8-20°C (46-68°F). Mild and increasingly sunny. Outdoor terraces open on Grand Place.",
+      "summer": "July-August: 14-24°C (57-75°F). Warm but rarely hot. Longest days. Some local restaurants close for vacation.",
+      "autumn": "September-November: 6-16°C (43-61°F). Braderie de Lille (first September weekend). Autumn colors in parks. Cultural season begins.",
+      "winter": "December-February: 1-7°C (34-45°F). Cold and grey. Christmas markets around Grand Place. Excellent for museum visits and estaminet dining."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 40-65/day",
+    "midRange": "EUR 90-180/day",
+    "luxury": "EUR 200-600+/day",
+    "details": "Lille is very affordable. Hostel dorms from EUR 18-25/night. Budget hotels EUR 50-80/night. A Welsh (cheese-beer dish) at an estaminet costs EUR 12-16. Moules-frites EUR 14-18. Local craft beer EUR 4-7. The Palais des Beaux-Arts entry is EUR 7 (free first Sunday of month). Braderie weekend sees hotel prices triple — book months ahead."
+  },
+  "tags": ["flemish-culture", "art", "beer", "architecture", "markets", "gastronomy", "weekend-break"],
+  "seo": {
+    "metaTitle": "Lille Travel Guide 2026 — Flemish Charm, Art & Beer in Northern France",
+    "metaDescription": "Complete guide to visiting Lille, France. Explore Vieux Lille's baroque architecture, the Palais des Beaux-Arts, Flemish cuisine, and the famous Braderie flea market. Tips on transport, beer culture, and day trips to Flanders."
+  },
+  "updatedAt": "2026-03-01"
+}

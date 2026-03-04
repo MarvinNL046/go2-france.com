@@ -1,0 +1,111 @@
+{
+  "id": 8,
+  "slug": "french-coffee",
+  "name": {
+    "en": "French Coffee",
+    "fr": "Cafe Francais"
+  },
+  "category": "hot-drink",
+  "region": "national",
+  "description": {
+    "en": "The cornerstone of French cafe culture, from the morning espresso at the zinc bar to the leisurely cafe creme on a boulevard terrace"
+  },
+  "ingredients": [
+    "Freshly roasted coffee beans (typically medium to dark roast)",
+    "Hot water",
+    "Steamed milk (for cafe creme)",
+    "Sugar (optional)"
+  ],
+  "image": "/images/drinks/french-coffee.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "2-5 minutes",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": "French Coffee Culture | Your Guide to Cafe Life in France",
+    "metaDescription": "Master French coffee culture — from ordering un cafe at the zinc bar to savoring a cafe creme on a Parisian terrace. All the types, customs, and etiquette."
+  },
+  "tags": [
+    "french-drinks",
+    "france",
+    "hot-drink",
+    "coffee",
+    "cafe",
+    "espresso",
+    "cafe-culture",
+    "national",
+    "terrace"
+  ],
+  "enhanced_description": "French coffee culture is not merely about caffeine — it is a social institution, an art of living, and the beating heart of public life in France. The cafe has been the center of French intellectual, artistic, and political life since the first Parisian coffeehouse, Le Procope, opened in 1686. Voltaire, Rousseau, Diderot, Sartre, de Beauvoir, Hemingway, and countless others conducted their lives' work at cafe tables, and the tradition of spending hours nursing a single cup of coffee while reading, writing, arguing, or people-watching remains vibrantly alive today. When you order 'un cafe' in France, you will receive a small, strong espresso (un express) — typically 25-30 milliliters of intense, dark coffee served in a small cup, often with a wrapped sugar cube on the saucer. This is the standard French coffee, drunk standing at the zinc-topped bar (comptoir) for speed and economy, or seated at a table at a higher price. The cafe creme (or grand creme) is the French equivalent of a latte — espresso topped with steamed, frothy milk, served in a larger cup and typically ordered only at breakfast. Ordering a cafe creme after a meal is considered a faux pas; the French finish a meal with un cafe (espresso) only. The noisette is an espresso with just a dash of warm milk — 'noisette' meaning hazelnut, referring to the color. An allonge is a longer, weaker coffee made by adding hot water to an espresso, similar to an Americano. French coffee tends toward a darker roast than Scandinavian or American specialty coffee, with robust, slightly bitter character. Major French roasters like Malongo, Cafe Richard, and Cafe Verlet maintain this tradition, though a thriving specialty coffee scene has emerged in Paris and other cities. The ritual of the cafe is equally important: the zinc bar counter, the aproned waiter, the small round marble-topped table, the wicker chairs facing outward to watch the world pass — this is the mise en scene of French daily life. The price of coffee varies dramatically based on where you sit (bar, salle, or terrasse), a system enshrined in law and displayed on the tarif des consommations.",
+  "detailed_ingredients": [
+    {
+      "name": "Espresso-Roast Coffee Beans",
+      "purpose": "French cafes traditionally use medium-dark to dark roast blends, often combining Arabica and Robusta beans for body and a characteristic bitterness",
+      "substitutes": ["Specialty single-origin beans in newer third-wave cafes"]
+    },
+    {
+      "name": "Hot Water (pressurized for espresso)",
+      "purpose": "Water quality significantly affects flavor — French municipal water is generally excellent for coffee-making",
+      "substitutes": ["Filtered water in specialty cafes"]
+    },
+    {
+      "name": "Whole Milk (for cafe creme)",
+      "purpose": "Steamed and frothed for the traditional cafe creme, France's breakfast coffee",
+      "substitutes": ["Oat milk and soy milk increasingly available in modern cafes"]
+    }
+  ],
+  "cultural_significance": {
+    "origin_story": "Coffee arrived in France in the mid-17th century via Marseille's trade with the Ottoman Empire. The first Parisian cafe, Le Procope, opened in 1686 near the Comedie-Francaise, quickly becoming a gathering place for intellectuals. By the 18th century, Paris had over 300 cafes, and they played a central role in Enlightenment discourse and eventually the French Revolution. The cafe became France's 'public living room' — a democratic space where social classes mixed.",
+    "cultural_importance": "The French cafe is protected as cultural heritage and is central to the concept of 'l'art de vivre.' UNESCO has even considered the Parisian cafe terrace for intangible cultural heritage status. The cafe is where the French conduct friendships, business, romance, and intellectual life. The ritual of the morning espresso at the bar and the weekend cafe creme on the terrace structures daily and weekly rhythms.",
+    "traditional_occasions": [
+      "Morning espresso at the bar (le petit cafe du matin)",
+      "Breakfast cafe creme with croissant",
+      "Post-lunch espresso (always black, never with milk)",
+      "Afternoon cafe on a terrace",
+      "Business meetings at cafes"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Un Cafe / Un Express",
+      "description": "A single shot of espresso — the default coffee in France, strong and served in a small cup"
+    },
+    {
+      "name": "Cafe Creme / Grand Creme",
+      "description": "Espresso with steamed milk, served in a large cup — the breakfast coffee, never ordered after a meal"
+    },
+    {
+      "name": "Noisette",
+      "description": "Espresso with a small dash of warm milk, named for the hazelnut color it creates"
+    },
+    {
+      "name": "Cafe Allonge",
+      "description": "A longer coffee — espresso diluted with hot water, similar to an Americano"
+    },
+    {
+      "name": "Cafe Gourmand",
+      "description": "An espresso served with a selection of three or four petit fours or miniature desserts — a popular restaurant offering"
+    },
+    {
+      "name": "Cafe Liegeois",
+      "description": "Cold coffee dessert with coffee ice cream, whipped cream, and chocolate — served in a tall glass"
+    }
+  ],
+  "where_to_find": {
+    "best_restaurants": [
+      "Cafe de Flore (Paris) — legendary Saint-Germain-des-Pres literary cafe since 1887",
+      "Les Deux Magots (Paris) — historic cafe frequented by Sartre, de Beauvoir, and Hemingway",
+      "Le Comptoir des Saints-Peres (Paris) — renowned for some of the best traditional espresso in Paris"
+    ],
+    "street_food_areas": [
+      "Any neighborhood zinc-bar cafe in France — the standing espresso at the comptoir is the most authentic experience",
+      "Boulevard Saint-Germain and Place Saint-Sulpice (Paris) — iconic terrace cafe culture",
+      "Specialty coffee shops: Coutume, Belleville Brulerie, Cafe Lomi (Paris new wave)"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 1.10-1.80 (espresso at the bar/comptoir)",
+      "restaurant": "EUR 2.50-4.50 (cafe creme on a terrace)",
+      "upscale": "EUR 5-8 (espresso at a famous Parisian cafe like Cafe de Flore)"
+    }
+  }
+}

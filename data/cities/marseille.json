@@ -1,0 +1,88 @@
+{
+  "slug": "marseille",
+  "name": {
+    "en": "Marseille"
+  },
+  "image": "/images/cities/marseille.webp",
+  "region": "Provence-Cote d'Azur",
+  "highlights": [
+    "Vieux-Port (Old Port)",
+    "Calanques National Park",
+    "MuCEM Museum",
+    "Bouillabaisse Tradition"
+  ],
+  "description": {
+    "en": "France's oldest city and its largest Mediterranean port, Marseille is a raw, vibrant, and multicultural metropolis where 2,600 years of maritime history collide with contemporary art, North African flavors, and the dramatic limestone cliffs of the Calanques. Far grittier and more authentic than the polished Riviera towns to the east, Marseille rewards adventurous travelers with its legendary bouillabaisse, the spectacular MuCEM museum, and a creative energy that has made it one of Europe's most exciting urban destinations."
+  },
+  "overview": "Founded by Greek sailors from Phocaea around 600 BC as Massalia, Marseille is the oldest city in France and has been a maritime gateway to the Mediterranean for over 2,600 years. With a population of nearly 870,000, it is France's second-largest city and its most ethnically diverse, with significant North African, Comorian, Armenian, and Italian communities that infuse the city with extraordinary cultural richness. The Vieux-Port, a rectangular harbor surrounded by restaurants and fish markets, remains the beating heart of the city. Above it, the basilica of Notre-Dame de la Garde offers sweeping views of the city, the sea, and the rocky Frioul archipelago with the Chateau d'If (of Count of Monte Cristo fame). The MuCEM (Museum of European and Mediterranean Civilizations), opened in 2013 in a stunning concrete lattice building at the entrance to the port, cemented Marseille's cultural renaissance. To the south, the Calanques — a series of dramatic limestone fjords with turquoise water — form one of France's newest and most spectacular national parks.",
+  "neighborhoods": [
+    {
+      "name": "Vieux-Port & Le Panier",
+      "description": "The historic core of Marseille, the Vieux-Port is a rectangular harbor lined with seafood restaurants and the lively daily fish market. Above it, Le Panier is the oldest quarter in the city — a steep labyrinth of narrow streets, colorful houses, street art, artisan workshops, and the striking Vieille Charite cultural center. This is Marseille at its most authentic and atmospheric.",
+      "highlights": [
+        "Vieux-Port fish market",
+        "La Vieille Charite",
+        "Le Panier street art",
+        "Quai des Belges restaurants"
+      ]
+    },
+    {
+      "name": "La Joliette & MuCEM",
+      "description": "The former docklands around La Joliette have been transformed into a cultural and commercial hub centered on the MuCEM museum and the renovated Docks complex. The Fort Saint-Jean, connected to MuCEM by a dramatic elevated walkway, offers panoramic views of the port entrance and the sea. Les Terrasses du Port shopping center overlooks the Mediterranean.",
+      "highlights": [
+        "MuCEM museum",
+        "Fort Saint-Jean",
+        "Les Docks Village",
+        "Mediterranean views"
+      ]
+    },
+    {
+      "name": "Cours Julien & La Plaine",
+      "description": "Marseille's bohemian heart, the Cours Julien neighborhood is a vibrant square surrounded by independent cafes, vintage shops, street art, live music venues, and some of the city's most diverse restaurants. La Plaine market, held three times a week on Place Jean-Jaures, is one of the most authentic and affordable food markets in the city.",
+      "highlights": [
+        "Street art and murals",
+        "La Plaine market",
+        "Live music venues",
+        "Independent cafes and restaurants"
+      ]
+    },
+    {
+      "name": "Les Calanques",
+      "description": "Stretching 20 km along the coast south of the city, the Calanques are dramatic limestone inlets with crystal-clear turquoise water, towering white cliffs, and Mediterranean scrubland. Calanque de Sormiou, Calanque de Morgiou, and Calanque de Sugiton are among the most spectacular. Accessible by hiking trails, boat, or kayak.",
+      "highlights": [
+        "Calanque de Sormiou",
+        "Calanque de Sugiton",
+        "Hiking trails",
+        "Swimming and kayaking"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Marseille Provence Airport (MRS) is located 27 km northwest of the city center in Marignane. Bus shuttles connect to Gare Saint-Charles in 25 minutes for EUR 10. Aix-en-Provence TGV station is also nearby.",
+    "byTrain": "Gare Saint-Charles is the main station, served by TGV from Paris in 3h15, Lyon in 1h40, and Nice in 2h30. The station sits atop a monumental staircase with panoramic views of the city.",
+    "byBus": "FlixBus and BlaBlaCar Bus connect Marseille to major French and European cities, with services from the bus station adjacent to Gare Saint-Charles."
+  },
+  "gettingAround": "Marseille has 2 metro lines, 3 tram lines, and an extensive bus network operated by RTM. A single ticket costs EUR 1.70. The ferry boat across the Vieux-Port (Le Ferry Boat) is a Marseille institution and costs a standard transit ticket. Walking is the best way to explore the Vieux-Port and Le Panier. To reach the Calanques, take bus 21 to Luminy or bus 23 to Sormiou, or hire a kayak or take a boat tour from the Vieux-Port.",
+  "bestTimeToVisit": {
+    "best": "April to June, September to October",
+    "description": "Marseille enjoys over 300 days of sunshine per year. Spring and early autumn are ideal with warm temperatures and fewer crowds. Summer is hot and very busy but perfect for swimming in the Calanques. Winter is mild but can be windy due to the Mistral.",
+    "seasons": {
+      "spring": "April-June: 14-26°C (57-79°F). Ideal for hiking the Calanques and exploring the city. Pleasant sea temperatures from May.",
+      "summer": "July-August: 22-32°C (72-90°F). Hot and crowded but perfect beach weather. Calanques access may be restricted due to fire risk.",
+      "autumn": "September-October: 16-24°C (61-75°F). Warm sea, fewer tourists, excellent for outdoor activities and dining.",
+      "winter": "November-March: 6-14°C (43-57°F). Mild but the Mistral wind can make it feel much colder. Fewer tourists and lower prices."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 45-75/day",
+    "midRange": "EUR 100-220/day",
+    "luxury": "EUR 250-800+/day",
+    "details": "Marseille is more affordable than Paris or the Riviera. Hostel dorms from EUR 20-30/night. Budget hotels EUR 60-90/night. Mid-range hotels EUR 100-180/night. A bouillabaisse at a traditional restaurant costs EUR 40-70 per person. Panisse (chickpea fritters) and navettes (orange blossom cookies) are cheap local specialties. Many museums are free on the first Sunday of each month."
+  },
+  "tags": ["mediterranean", "culture", "seafood", "nature", "street-art", "multicultural", "history"],
+  "seo": {
+    "metaTitle": "Marseille Travel Guide 2026 — France's Mediterranean Gateway",
+    "metaDescription": "Complete guide to visiting Marseille. Explore the Vieux-Port, Calanques, MuCEM museum, and the best bouillabaisse restaurants. Practical tips on transport, budget, and the best time to visit France's oldest city."
+  },
+  "updatedAt": "2026-03-01"
+}

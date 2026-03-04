@@ -1,0 +1,61 @@
+{
+  "slug": "provence-cote-dazur",
+  "name": { "en": "Provence-Cote d'Azur" },
+  "image": "/images/regions/provence-cote-dazur.webp",
+  "description": { "en": "From the lavender fields of the Luberon to the glamorous beaches of the French Riviera, Provence-Cote d'Azur is France's sun-drenched southern heartland. Roman ruins in Arles and Nimes, the papal grandeur of Avignon, the raw energy of Marseille, the sophistication of Nice and Cannes, and the wild beauty of the Calanques and Camargue create one of the most diverse and rewarding regions in all of Europe." },
+  "overview": "Provence-Alpes-Cote d'Azur (PACA) stretches from the Rhone Valley to the Italian border, encompassing Mediterranean coastline, Alpine peaks, lavender-covered plateaus, and some of the most celebrated landscapes in art history. Cezanne painted Mont Sainte-Victoire near Aix-en-Provence, Van Gogh found his light in Arles, Matisse was drawn to Nice, and Picasso settled in Antibes. The region is divided into distinct areas: the Riviera (Nice, Cannes, Monaco, Saint-Tropez) offers glamour and beaches; Provence (Avignon, Aix, Arles) offers culture, Roman history, and lavender; the Camargue offers wild wetlands with white horses and flamingos; and the Calanques offer dramatic Mediterranean coastline. The region's rosé wine production (centered on Bandol and Cotes de Provence) accounts for most of France's rosé output, and the cuisine — ratatouille, bouillabaisse, tapenade, aioli — is sun-drenched and olive oil-rich.",
+  "highlights": [
+    "Lavender fields of the Luberon and Valensole plateau — peak bloom late June to early August",
+    "French Riviera — Nice, Cannes, Monaco, Saint-Tropez, Antibes",
+    "Calanques National Park — dramatic limestone fjords near Marseille",
+    "Roman monuments — Pont du Gard aqueduct, Arles amphitheater, Theatre Antique d'Orange",
+    "Avignon — Palais des Papes and the Festival d'Avignon",
+    "Aix-en-Provence — elegant fountains, Cezanne's studio, and Cours Mirabeau",
+    "Camargue — wild wetlands with white horses, black bulls, and flamingos",
+    "Gorges du Verdon — Europe's Grand Canyon"
+  ],
+  "cities": ["marseille", "nice", "avignon"],
+  "bestTimeToVisit": "April to June, September to October — Spring brings wildflowers and comfortable temperatures. Lavender blooms from mid-June. Summer is hot and crowded on the coast but spectacular. Autumn offers warm sea, grape harvest, and fewer tourists.",
+  "topExperiences": [
+    { "title": "Lavender Fields of the Luberon", "description": "The Abbaye de Senanque near Gordes and the Valensole plateau near Manosque are the most iconic lavender landscapes. Peak bloom is typically late June through early August, depending on altitude and rainfall." },
+    { "title": "Pont du Gard Roman Aqueduct", "description": "The three-tiered Roman aqueduct spanning the Gardon River is one of the best-preserved Roman structures in the world. Swimming in the river beneath the 2,000-year-old arches is an unforgettable experience." },
+    { "title": "Kayaking the Calanques", "description": "Paddle between the dramatic limestone cliffs and turquoise waters of the Calanques National Park between Marseille and Cassis. Half-day and full-day guided kayak tours are available." }
+  ],
+  "gettingThere": {
+    "byAir": "Nice Cote d'Azur (NCE) is the main international airport, with Marseille Provence (MRS) also handling significant traffic. Both have excellent connections to European and some intercontinental destinations.",
+    "byTrain": "TGV from Paris to Marseille in 3h15, to Avignon in 2h40, to Aix-en-Provence in 3h. The coastal TER line between Marseille and Ventimiglia (Italy) via Nice is one of France's most scenic rail journeys.",
+    "byBus": "FlixBus and regional LER buses connect major cities. The Marseille-Nice coastal bus is scenic and affordable."
+  },
+  "gettingAround": "A car is highly recommended for exploring Provence, particularly the Luberon villages, Gorges du Verdon, and the Camargue. The coastal railway between Marseille and Nice is excellent. Regional buses connect major towns but are less frequent in rural areas. Cycling is popular, particularly in the Luberon and around the Alpilles.",
+  "accommodation": {
+    "budget": "Hostel dorms from EUR 20-35/night. Campgrounds in the Camargue and Gorges du Verdon from EUR 15-25/night.",
+    "midRange": "Provencal guesthouses (chambres d'hotes) EUR 80-150/night. Hotels in Nice and Marseille EUR 100-200/night.",
+    "luxury": "Riviera luxury hotels from EUR 300-2,000+/night. Chateau and mas (farmhouse) hotels in the Luberon EUR 200-800/night."
+  },
+  "food": {
+    "description": "Provencal cuisine is one of France's most distinctive regional traditions — sun-ripened vegetables, olive oil, herbs de Provence, garlic, and fresh seafood define the cooking.",
+    "specialties": [
+      "Bouillabaisse — Marseille's legendary saffron-spiced fish stew",
+      "Ratatouille — stewed summer vegetables from Nice",
+      "Tapenade — olive, caper, and anchovy spread",
+      "Socca — chickpea flour crepe from Nice",
+      "Aioli — garlic mayonnaise served with salt cod and vegetables",
+      "Calissons d'Aix — almond and melon paste confections from Aix-en-Provence",
+      "Cotes de Provence rose wine — the signature summer drink"
+    ]
+  },
+  "tips": [
+    "Lavender season is short — plan around late June to early August for peak bloom. The Valensole plateau and Senanque Abbey are the most iconic photo spots.",
+    "The Riviera is expensive in July-August — September offers warm sea, fewer crowds, and lower prices.",
+    "The Mistral wind can blow ferociously through the Rhone Valley, particularly in Avignon and Arles. It brings clear blue skies but cold temperatures, even in spring.",
+    "Visit the Calanques early in the morning to avoid both crowds and the heat. In summer, access is restricted on high fire-risk days.",
+    "Rosé wine is the regional drink — order it without hesitation at any restaurant. Bandol and Tavel produce some of France's finest."
+  ],
+  "safetyNotes": "Generally very safe. Exercise normal urban caution in Marseille, particularly around Gare Saint-Charles at night. The Mistral wind can make hiking hazardous on exposed cliffs. In summer, wildfire risk can close access to the Calanques and other natural areas — check local restrictions before heading out.",
+  "tags": ["lavender", "riviera", "beaches", "roman-ruins", "wine", "cuisine", "art", "nature"],
+  "seo": {
+    "metaTitle": "Provence & Cote d'Azur Travel Guide 2026 — Lavender, Riviera & Roman Ruins",
+    "metaDescription": "Complete guide to Provence-Cote d'Azur. Explore lavender fields, the French Riviera, Calanques, Roman ruins, and Provencal cuisine. Tips on transport, accommodation, and the best time to visit southern France."
+  },
+  "updatedAt": "2026-03-01"
+}

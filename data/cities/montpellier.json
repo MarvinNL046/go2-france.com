@@ -1,0 +1,88 @@
+{
+  "slug": "montpellier",
+  "name": {
+    "en": "Montpellier"
+  },
+  "image": "/images/cities/montpellier.webp",
+  "region": "Occitanie",
+  "highlights": [
+    "Place de la Comedie",
+    "Musee Fabre",
+    "Medieval Ecusson Quarter",
+    "Mediterranean Beaches Nearby"
+  ],
+  "description": {
+    "en": "One of France's fastest-growing and youngest cities, Montpellier is a sun-drenched Mediterranean gem with a grand 17th-century center, one of Europe's oldest universities (founded 1220), a world-class art museum, and a creative energy driven by its massive student population. The elegant Place de la Comedie, the medieval lanes of the Ecusson quarter, proximity to beautiful beaches, and a thriving food and wine scene make Montpellier an increasingly popular alternative to more touristed southern French cities."
+  },
+  "overview": "Montpellier is the seventh-largest city in France with a population of 300,000 (over 600,000 in the metropolitan area) and one of the fastest-growing cities in the country. Unlike most major French cities, Montpellier has no Roman heritage — it was founded in the 10th century as a trading post and rose to prominence through its medieval university (where Rabelais and Nostradamus studied) and its position on the pilgrimage route to Santiago de Compostela. The Ecusson, the almond-shaped medieval city center, is a delightful labyrinth of narrow streets, hidden courtyards (hotels particuliers), and small squares. The Musee Fabre, reopened after a major renovation in 2007, holds one of the finest art collections in France outside Paris, with exceptional works by Courbet, Delacroix, and Soulages. The Antigone district, designed by Catalan architect Ricardo Bofill in a monumental Neo-Classical style, leads to the banks of the Lez River. Mediterranean beaches at Palavas-les-Flots and Carnon are just 11 km away, reachable by tram.",
+  "neighborhoods": [
+    {
+      "name": "L'Ecusson (Historic Center)",
+      "description": "The heart of Montpellier is the Ecusson, named for its shield-like shape. A pedestrian maze of medieval streets lined with elegant 17th- and 18th-century mansions, hidden courtyards, boutiques, and cafes. The Arc de Triomphe (Porte du Peyrou) leads to the Promenade du Peyrou with its triumphal arch, aqueduct views, and panoramic terrace.",
+      "highlights": [
+        "Promenade du Peyrou",
+        "Hotels particuliers (private mansions)",
+        "Rue Foch and Rue de l'Ancien Courrier",
+        "Arc de Triomphe"
+      ]
+    },
+    {
+      "name": "Place de la Comedie & Esplanade",
+      "description": "The grand oval Place de la Comedie, locally known as 'l'Oeuf' (the Egg), is the social heart of Montpellier. The 19th-century Opera Comedie anchors one end, and the wide Esplanade Charles de Gaulle leads to the Corum conference center and the FRAC contemporary art space.",
+      "highlights": [
+        "Place de la Comedie atmosphere",
+        "Opera Comedie",
+        "Esplanade Charles de Gaulle",
+        "Cafe terraces"
+      ]
+    },
+    {
+      "name": "Antigone & Port Marianne",
+      "description": "Ricardo Bofill's monumental Antigone district extends from the Ecusson to the banks of the Lez River in a dramatic sequence of Neo-Classical plazas and colonnades inspired by ancient Greece. Beyond it, the newer Port Marianne district features the striking Hotel de Ville designed by Jean Nouvel and modern riverside development.",
+      "highlights": [
+        "Antigone Neo-Classical architecture",
+        "Place du Nombre d'Or",
+        "Hotel de Ville (Jean Nouvel)",
+        "Lez riverbank walks"
+      ]
+    },
+    {
+      "name": "Quartier des Beaux-Arts & Musee Fabre",
+      "description": "Centered around the Musee Fabre, one of France's greatest provincial art museums, this elegant quarter features tree-lined boulevards, the Jardin des Plantes (France's oldest botanical garden, founded 1593), and the Cathedrale Saint-Pierre with its distinctive fortified porch.",
+      "highlights": [
+        "Musee Fabre",
+        "Jardin des Plantes",
+        "Cathedrale Saint-Pierre",
+        "Faculty of Medicine (one of the oldest in the world)"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Montpellier Mediterranee Airport (MPL) is 8 km southeast of the city center with domestic and European flights. A shuttle bus connects to the central Place de l'Europe tram stop in 20 minutes for EUR 2.60.",
+    "byTrain": "Gare Saint-Roch is the main station, located at the edge of the Ecusson. TGV from Paris in 3h20, Marseille in 1h40, Lyon in 2h, Barcelona in 3h. The station is being expanded with a new TGV station at the southern edge of the city.",
+    "byBus": "FlixBus and BlaBlaCar Bus connect Montpellier to major French and Spanish cities at budget prices."
+  },
+  "gettingAround": "Montpellier has 4 tram lines (operated by TaM) that cover the city extensively, including to the beach at Palavas. A single ticket costs EUR 1.60 and is valid for 1 hour. VeloMagg bikeshare is widely available. The Ecusson is entirely pedestrian and very walkable. Tram Line 3 reaches the beaches at Palavas-les-Flots and Carnon in about 40 minutes.",
+  "bestTimeToVisit": {
+    "best": "April to June, September to October",
+    "description": "Montpellier has a Mediterranean climate with over 300 days of sunshine. Spring and autumn are ideal for sightseeing and beach visits. Summer is hot but great for combining city culture with beach days.",
+    "seasons": {
+      "spring": "April-June: 12-26°C (54-79°F). Warm and sunny. Vineyards in the Languedoc coming to life. Outdoor festivals begin.",
+      "summer": "July-August: 20-32°C (68-90°F). Hot and sunny. Beach season. Les Estivales wine and food festival on Friday evenings.",
+      "autumn": "September-October: 16-24°C (61-75°F). Warm with grape harvest festivals. Fewer tourists. Sea still warm enough for swimming.",
+      "winter": "November-March: 4-14°C (39-57°F). Mild but windy (Tramontane wind). Lower prices. Good for museums and indoor markets."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 40-65/day",
+    "midRange": "EUR 90-180/day",
+    "luxury": "EUR 200-600+/day",
+    "details": "Montpellier is affordable by French standards. Hostel dorms from EUR 18-25/night. Budget hotels EUR 50-80/night. Lunch at a market-side restaurant EUR 12-18. Languedoc wines are some of the best value in France at EUR 3-5/glass. Musee Fabre entry EUR 8. Beach access is free."
+  },
+  "tags": ["mediterranean", "student-city", "art", "beaches", "wine", "architecture", "culture"],
+  "seo": {
+    "metaTitle": "Montpellier Travel Guide 2026 — Mediterranean Sun, Art & Culture",
+    "metaDescription": "Complete guide to visiting Montpellier, France. Explore the medieval Ecusson quarter, Musee Fabre, Mediterranean beaches, and Languedoc wine country. Tips on transport, student nightlife, and the best time to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

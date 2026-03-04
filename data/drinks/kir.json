@@ -1,0 +1,110 @@
+{
+  "id": 6,
+  "slug": "kir",
+  "name": {
+    "en": "Kir / Kir Royale",
+    "fr": "Kir / Kir Royal"
+  },
+  "category": "cocktail",
+  "region": "burgundy",
+  "description": {
+    "en": "Classic French aperitif combining creme de cassis (blackcurrant liqueur) with white Burgundy wine or Champagne"
+  },
+  "ingredients": [
+    "Creme de cassis (blackcurrant liqueur)",
+    "Bourgogne Aligote white wine (for Kir)",
+    "Champagne (for Kir Royale)"
+  ],
+  "image": "/images/drinks/kir.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "2 minutes",
+  "difficulty": "easy",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": "Kir & Kir Royale | Classic French Aperitif Cocktail Guide",
+    "metaDescription": "Discover the Kir and Kir Royale — elegant French aperitif cocktails made with creme de cassis and white Burgundy or Champagne. A taste of Burgundian tradition."
+  },
+  "tags": [
+    "french-drinks",
+    "france",
+    "cocktail",
+    "aperitif",
+    "kir",
+    "kir-royale",
+    "burgundy",
+    "cassis",
+    "champagne"
+  ],
+  "enhanced_description": "The Kir is one of France's most elegant and deceptively simple cocktails, a marriage of creme de cassis (blackcurrant liqueur) and dry white wine that epitomizes the art of the French aperitif. In its classic form, a small measure of creme de cassis is poured into a wine glass and topped with chilled Bourgogne Aligote — a crisp, acidic white wine from Burgundy that perfectly complements the sweet, fruity intensity of the cassis. The result is a beautiful ruby-tinged pink drink with a beguiling balance of fruit sweetness and refreshing acidity. The Kir Royale elevates the concept by substituting Champagne for the Aligote, creating a luxurious sparkling aperitif that has become a staple of celebrations, weddings, and upscale entertaining worldwide. The drink is named after Canon Felix Kir (1876-1968), a Catholic priest who served as mayor of Dijon from 1945 to 1968. During the German occupation of World War II, Kir was a hero of the Resistance, helping prisoners of war escape and earning the Legion d'honneur. As mayor, he energetically promoted his beloved city and its products. With typical Burgundian pragmatism, he served the local cassis-and-wine combination at every official reception, popularizing what had previously been a humble regional drink. The tradition of mixing cassis with white wine actually predates Kir by decades — it was called 'blanc-cassis' and was a common way for Burgundians to improve thin Aligote wine. Dijon remains the capital of creme de cassis production, with houses like Lejay-Lagoute (founded 1841) and Vedrenne producing premium liqueurs from blackcurrants grown on the hills above the city. A quality creme de cassis should have at least 25% sugar and ideally be labeled 'creme de cassis de Dijon,' a controlled appellation that guarantees minimum quality standards. The proportion is key: most bartenders use about one-fifth cassis to four-fifths wine, though personal taste may vary.",
+  "detailed_ingredients": [
+    {
+      "name": "Creme de Cassis de Dijon",
+      "purpose": "Premium blackcurrant liqueur (typically 20% ABV, minimum 400g sugar/liter) providing intense berry sweetness, deep color, and the signature flavor",
+      "substitutes": ["Creme de mure (blackberry) for a Kir Mure", "Creme de peche (peach) for a Kir Peche"]
+    },
+    {
+      "name": "Bourgogne Aligote",
+      "purpose": "Burgundy's 'other' white grape (not Chardonnay), producing a crisp, high-acid wine that cuts through the cassis sweetness beautifully",
+      "substitutes": ["Any dry, crisp white wine (Muscadet, Picpoul de Pinet, Chablis)"]
+    },
+    {
+      "name": "Champagne (for Kir Royale)",
+      "purpose": "Adds effervescence and elegance, with the bubbles lifting the cassis flavors and creating a festive presentation",
+      "substitutes": ["Cremant de Bourgogne for a more authentic Burgundian and affordable alternative"]
+    }
+  ],
+  "cultural_significance": {
+    "origin_story": "The blanc-cassis combination was a common aperitif in Burgundy long before it gained its famous name. Canon Felix Kir popularized it as mayor of Dijon by serving it at every civic function and diplomatic reception from 1945 onward. His tireless promotion of Dijon's products earned the drink his name. The Kir Royale variation, made with Champagne, emerged in the 1960s and 1970s as the drink crossed from regional custom to international cocktail menus.",
+    "cultural_importance": "The Kir represents the French genius for simple elegance — two quality ingredients combined to create something greater than the sum of its parts. It is the default aperitif offered at countless French dinner parties and restaurant meals. Ordering a Kir in France signals both taste and an appreciation for tradition.",
+    "traditional_occasions": [
+      "Aperitif before dinner (apero)",
+      "Dinner party welcome drink",
+      "Wedding receptions (Kir Royale)",
+      "Official civic receptions in Burgundy",
+      "Restaurant pre-meal drink"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Kir (Classic)",
+      "description": "Creme de cassis with Bourgogne Aligote white wine, the original and most traditional version"
+    },
+    {
+      "name": "Kir Royale",
+      "description": "Creme de cassis with Champagne, the celebratory upgrade that has become a global classic"
+    },
+    {
+      "name": "Kir Breton",
+      "description": "Creme de cassis with dry Breton cider instead of wine, a refreshing regional twist"
+    },
+    {
+      "name": "Kir Imperial",
+      "description": "Made with creme de framboise (raspberry liqueur) and Champagne"
+    },
+    {
+      "name": "Kir Normand",
+      "description": "Creme de cassis with Norman sparkling cider, the Normandy version"
+    },
+    {
+      "name": "Communard",
+      "description": "Creme de cassis with red Burgundy wine instead of white, a deeper, richer aperitif"
+    }
+  ],
+  "where_to_find": {
+    "best_restaurants": [
+      "La Maison des Cariatides (Dijon) — Michelin-starred dining in the heart of cassis country",
+      "Chez Leon (Dijon) — traditional Burgundian bistro with perfect Kir service",
+      "Le Cep (Beaune) — elegant hotel-restaurant in the wine capital of Burgundy"
+    ],
+    "street_food_areas": [
+      "Les Halles de Dijon — the covered market with bars and cafes",
+      "Place de la Liberation, Dijon — the grand semicircular square lined with cafes",
+      "Wine bars along Rue de la Chouette in old Dijon"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 3-5 (Kir at a neighborhood cafe or bar)",
+      "restaurant": "EUR 6-10 (Kir at a restaurant, Kir Royale at a bar)",
+      "upscale": "EUR 12-18 (Kir Royale with premium Champagne at an upscale venue)"
+    }
+  }
+}

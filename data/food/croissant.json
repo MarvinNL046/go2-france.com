@@ -1,0 +1,165 @@
+{
+  "id": 1,
+  "slug": "croissant",
+  "name": {
+    "en": "Croissant",
+    "fr": "Croissant"
+  },
+  "category": "pastry",
+  "region": "national",
+  "description": {
+    "en": "Flaky, buttery crescent-shaped pastry made with laminated yeast dough",
+    "fr": "Viennoiserie feuilletee en forme de croissant, a base de pate levee et de beurre"
+  },
+  "ingredients": [
+    "flour",
+    "butter",
+    "yeast",
+    "milk",
+    "sugar",
+    "salt",
+    "eggs"
+  ],
+  "allergens": [
+    "gluten",
+    "dairy",
+    "eggs"
+  ],
+  "dietary": [],
+  "image": "/images/food/croissant.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "12 hours (including resting)",
+  "difficulty": "hard",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "French Croissant | Classic Buttery Pastry Guide"
+    },
+    "metaDescription": {
+      "en": "Discover the art of the French croissant — a flaky, buttery crescent-shaped pastry with layers of laminated dough that defines French breakfast culture."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "pastry",
+    "breakfast",
+    "national",
+    "butter",
+    "boulangerie",
+    "viennoiserie"
+  ],
+  "enhanced_description": "The croissant is the undisputed icon of French breakfast culture and one of the most technically demanding pastries in the baker's repertoire. Its creation involves a painstaking process called lamination, in which a block of cold butter is repeatedly folded into yeast-leavened dough to create dozens of alternating layers of butter and dough. When baked, the water in the butter creates steam that puffs the layers apart, resulting in the croissant's signature shattering exterior and soft, honeycomb-like interior. A properly made croissant should shatter at first bite, sending a shower of flaky crumbs cascading down, while the interior remains tender, slightly elastic, and deeply aromatic with the scent of high-quality butter. The color should be a deep amber-gold, never pale or doughy. Although the crescent shape is associated with Austrian Kipferl pastries brought to Paris in the 19th century, the modern laminated croissant was perfected by French bakers in the early 20th century. Today, the distinction between a croissant ordinaire (made with margarine, with straight tips) and a croissant au beurre (made with pure butter, with curved tips) is a matter of national importance. The best croissants are found at artisan boulangeries that bake on-premises, where the morning queue of locals is the most reliable quality indicator. In Paris alone, an annual competition crowns the Grand Prix de la Meilleure Baguette — but the unofficial best croissant competition is equally fierce.",
+  "detailed_ingredients": [
+    {
+      "name": "French Butter (Beurre de Tourage)",
+      "purpose": "High-fat European-style butter (at least 82% fat) creates distinct flaky layers and rich flavor",
+      "substitutes": [
+        "European-style butter (Plugra, Kerrygold)",
+        "Dry butter with 84% fat content"
+      ]
+    },
+    {
+      "name": "T55 French Flour",
+      "purpose": "Medium-protein flour provides structure without excessive chewiness",
+      "substitutes": [
+        "All-purpose flour",
+        "Blend of bread flour and cake flour"
+      ]
+    },
+    {
+      "name": "Fresh Yeast",
+      "purpose": "Provides the biological leavening that works with the lamination for maximum puff",
+      "substitutes": [
+        "Active dry yeast (use 40% of fresh yeast weight)",
+        "Instant yeast (use 33% of fresh yeast weight)"
+      ]
+    },
+    {
+      "name": "Whole Milk",
+      "purpose": "Adds richness and aids in browning through the Maillard reaction",
+      "substitutes": [
+        "Half-and-half for extra richness",
+        "Oat milk for dairy-free version"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Lamination and baking",
+    "steps_overview": "The dough (detrempe) is made the night before and refrigerated. A block of cold butter is enclosed in the dough, then the package is rolled out and folded in a series of turns — typically three single folds or two double folds — creating 27 or more alternating layers of butter and dough. After each fold, the dough must rest in the refrigerator to keep the butter cold. The final dough is rolled thin, cut into triangles, and rolled into crescent shapes. After a final proof of 1.5-2 hours at cool room temperature, the croissants are egg-washed and baked at high heat.",
+    "cooking_tips": [
+      "Keep butter and dough at the same consistency — if butter is too cold it will crack, too warm and it will melt into the dough",
+      "Work quickly and return dough to the fridge between every fold",
+      "Do not proof at too high a temperature or the butter will melt and leak out",
+      "Bake at 200°C (400°F) for 15-18 minutes until deep golden brown",
+      "Never underbake — a pale croissant is a doughy croissant"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "While the crescent-shaped pastry has roots in Austrian Kipferl, the modern laminated croissant was developed in Paris in the early 20th century. August Zang, an Austrian entrepreneur, opened a Viennese bakery in Paris around 1838-1839, introducing Kipferl to the French. French bakers then applied their lamination techniques to create the buttery, flaky version we know today.",
+    "cultural_importance": "The croissant is central to the French breakfast ritual of 'petit dejeuner.' Buying fresh croissants from the local boulangerie each morning is a cherished daily tradition that structures neighborhood life across France. The quality of a boulangerie is often judged by its croissant.",
+    "traditional_occasions": [
+      "Daily breakfast (petit dejeuner)",
+      "Sunday morning tradition",
+      "Hotel and cafe breakfast service",
+      "Gouter (afternoon snack)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Croissant au Beurre",
+      "description": "The premium version made with pure butter, identifiable by its curved tips and richer flavor"
+    },
+    {
+      "name": "Pain au Chocolat",
+      "description": "Same laminated dough rolled around batons of dark chocolate — the croissant's most popular cousin"
+    },
+    {
+      "name": "Croissant aux Amandes",
+      "description": "Filled with almond cream (frangipane), topped with sliced almonds and powdered sugar — often made from day-old croissants"
+    },
+    {
+      "name": "Croissant Jambon-Fromage",
+      "description": "Savory version filled with ham and Gruyere or Emmental cheese"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Cafe au lait or espresso",
+      "Fresh-squeezed orange juice",
+      "Confiture (jam) — particularly apricot or strawberry",
+      "Unsalted butter"
+    ],
+    "presentation": "Served fresh and warm on a plate or in a paper bag from the boulangerie, ideally eaten within an hour of baking",
+    "eating_etiquette": "Tear apart with your hands rather than cutting with a knife. Dip in coffee if you like. A shower of crumbs on the table is a sign of quality, not poor manners."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "250-350 kcal per croissant",
+    "health_benefits": [
+      "Good source of energy for the morning",
+      "Contains calcium from butter and milk"
+    ],
+    "dietary_notes": [
+      "High in saturated fat due to butter content",
+      "Contains gluten, dairy, and eggs",
+      "Not suitable for vegan diets in traditional form"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Du Pain et des Idees (Paris) — consistently ranked among the best in the city",
+      "Cedric Grolet Boulangerie (Paris) — pastry chef sensation",
+      "Maison Landemaine (Paris) — organic, artisan boulangerie"
+    ],
+    "street_food_areas": [
+      "Any neighborhood boulangerie — look for 'Artisan Boulanger' label",
+      "Rue des Martyrs (Paris) — famous food street with multiple bakeries",
+      "Markets throughout France"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 1.00-1.30 (croissant ordinaire)",
+      "restaurant": "EUR 1.30-2.00 (croissant au beurre at artisan boulangerie)",
+      "upscale": "EUR 2.00-3.50 (premium boulangeries and hotel breakfast)"
+    }
+  }
+}

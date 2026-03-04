@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "slug": "paris",
+    "name": {
+      "en": "Paris"
+    },
+    "image": "/images/cities/paris.webp",
+    "region": "Ile-de-France",
+    "highlights": [
+      { "en": "Eiffel Tower & Seine River" },
+      { "en": "Louvre Museum" },
+      { "en": "Montmartre & Sacre-Coeur" },
+      { "en": "World-Class Gastronomy" }
+    ],
+    "description": {
+      "en": "The City of Light is the undisputed cultural capital of Europe — a breathtaking tapestry of Haussmann boulevards, world-class museums, sidewalk cafes, and architectural grandeur that has inspired artists, writers, and lovers for centuries. From the iron lattice of the Eiffel Tower to the masterpieces of the Louvre, Paris rewards every kind of traveler with beauty, history, and an art de vivre found nowhere else on earth."
+    }
+  },
+  {
+    "slug": "lyon",
+    "name": {
+      "en": "Lyon"
+    },
+    "image": "/images/cities/lyon.webp",
+    "region": "Auvergne-Rhone-Alpes",
+    "highlights": [
+      { "en": "Gastronomic Capital of France" },
+      { "en": "Vieux Lyon Renaissance Quarter" },
+      { "en": "Traboules (Hidden Passageways)" },
+      { "en": "Confluence District" }
+    ],
+    "description": {
+      "en": "France's gastronomic capital sits at the confluence of the Rhone and Saone rivers, a city where Roman ruins meet Renaissance architecture, silk-weaving heritage blends with contemporary art, and the legendary bouchon restaurants serve some of the finest traditional cuisine in the country. Lyon's UNESCO-listed old town, vibrant food markets, and Paul Bocuse legacy make it an essential destination for anyone serious about French culture and cuisine."
+    }
+  },
+  {
+    "slug": "marseille",
+    "name": {
+      "en": "Marseille"
+    },
+    "image": "/images/cities/marseille.webp",
+    "region": "Provence-Cote d'Azur",
+    "highlights": [
+      { "en": "Vieux-Port (Old Port)" },
+      { "en": "Calanques National Park" },
+      { "en": "MuCEM Museum" },
+      { "en": "Bouillabaisse Tradition" }
+    ],
+    "description": {
+      "en": "France's oldest city and its largest Mediterranean port, Marseille is a raw, vibrant, and multicultural metropolis where 2,600 years of maritime history collide with contemporary art, North African flavors, and the dramatic limestone cliffs of the Calanques. Far grittier and more authentic than the polished Riviera towns to the east, Marseille rewards adventurous travelers with its legendary bouillabaisse, the spectacular MuCEM museum, and a creative energy that has made it one of Europe's most exciting urban destinations."
+    }
+  },
+  {
+    "slug": "nice",
+    "name": {
+      "en": "Nice"
+    },
+    "image": "/images/cities/nice.webp",
+    "region": "Provence-Cote d'Azur",
+    "highlights": [
+      { "en": "Promenade des Anglais" },
+      { "en": "Vieille Ville (Old Town)" },
+      { "en": "Matisse & Chagall Museums" },
+      { "en": "Cours Saleya Market" }
+    ],
+    "description": {
+      "en": "The jewel of the French Riviera, Nice combines Mediterranean warmth, Belle Epoque elegance, and Italianate charm in a sun-drenched setting between the turquoise Baie des Anges and the foothills of the Maritime Alps. The sweeping Promenade des Anglais, the colorful maze of the old town, extraordinary art museums, and a unique Nicoise cuisine influenced by both Provence and Italy make Nice far more than just a beach destination."
+    }
+  },
+  {
+    "slug": "bordeaux",
+    "name": {
+      "en": "Bordeaux"
+    },
+    "image": "/images/cities/bordeaux.webp",
+    "region": "Nouvelle-Aquitaine",
+    "highlights": [
+      { "en": "World-Famous Wine Region" },
+      { "en": "Place de la Bourse & Miroir d'Eau" },
+      { "en": "Cite du Vin Museum" },
+      { "en": "UNESCO-Listed City Center" }
+    ],
+    "description": {
+      "en": "The wine capital of the world, Bordeaux is an elegant 18th-century port city on the Garonne River whose limestone facades glow golden in the afternoon sun. Its UNESCO-listed historic center, the innovative Cite du Vin museum, the spectacular Miroir d'Eau reflecting pool, and proximity to some of the most prestigious vineyards on earth — Saint-Emilion, Medoc, Pomerol — make Bordeaux an essential destination for wine lovers and architecture admirers alike."
+    }
+  },
+  {
+    "slug": "strasbourg",
+    "name": {
+      "en": "Strasbourg"
+    },
+    "image": "/images/cities/strasbourg.webp",
+    "region": "Alsace-Lorraine",
+    "highlights": [
+      { "en": "Strasbourg Cathedral" },
+      { "en": "Petite France Quarter" },
+      { "en": "European Parliament" },
+      { "en": "Christmas Market Capital" }
+    ],
+    "description": {
+      "en": "Straddling the Franco-German border, Strasbourg is a city of enchanting contradictions — half-timbered Alsatian houses line canals in the fairy-tale Petite France quarter while the soaring Gothic cathedral dominates the skyline and the European Parliament symbolizes Franco-German reconciliation. Famous for its Christmas market (the oldest in France, dating to 1570), its flammekueche and choucroute cuisine, and its remarkable blend of French and Germanic culture, Strasbourg is unlike any other city in France."
+    }
+  },
+  {
+    "slug": "toulouse",
+    "name": {
+      "en": "Toulouse"
+    },
+    "image": "/images/cities/toulouse.webp",
+    "region": "Occitanie",
+    "highlights": [
+      { "en": "La Ville Rose (The Pink City)" },
+      { "en": "Cite de l'Espace (Space City)" },
+      { "en": "Basilique Saint-Sernin" },
+      { "en": "Cassoulet & Southwest Cuisine" }
+    ],
+    "description": {
+      "en": "Known as La Ville Rose for the distinctive pink terracotta of its Renaissance buildings, Toulouse is the dynamic capital of southwest France and the center of Europe's aerospace industry. Home to Airbus headquarters and the interactive Cite de l'Espace museum, the city also boasts one of France's greatest Romanesque churches, a thriving university culture, the Canal du Midi, and a robust culinary tradition anchored by cassoulet, duck confit, and violet-flavored confections."
+    }
+  },
+  {
+    "slug": "lille",
+    "name": {
+      "en": "Lille"
+    },
+    "image": "/images/cities/lille.webp",
+    "region": "Hauts-de-France",
+    "highlights": [
+      { "en": "Palais des Beaux-Arts" },
+      { "en": "Vieux Lille (Old Quarter)" },
+      { "en": "Braderie de Lille (Giant Flea Market)" },
+      { "en": "Flemish Architecture & Culture" }
+    ],
+    "description": {
+      "en": "Once an industrial powerhouse, Lille has reinvented itself as one of France's most vibrant and underrated cities — a Flemish-influenced northern gem with magnificent baroque architecture, one of France's finest art museums in the Palais des Beaux-Arts, a lively student population, excellent beer culture, and the annual Braderie flea market that draws two million visitors. Just one hour from Paris, London, and Brussels by high-speed train, Lille punches well above its weight."
+    }
+  },
+  {
+    "slug": "montpellier",
+    "name": {
+      "en": "Montpellier"
+    },
+    "image": "/images/cities/montpellier.webp",
+    "region": "Occitanie",
+    "highlights": [
+      { "en": "Place de la Comedie" },
+      { "en": "Musee Fabre" },
+      { "en": "Medieval Ecusson Quarter" },
+      { "en": "Mediterranean Beaches Nearby" }
+    ],
+    "description": {
+      "en": "One of France's fastest-growing and youngest cities, Montpellier is a sun-drenched Mediterranean gem with a grand 17th-century center, one of Europe's oldest universities (founded 1220), a world-class art museum, and a creative energy driven by its massive student population. The elegant Place de la Comedie, the medieval lanes of the Ecusson quarter, proximity to beautiful beaches, and a thriving food and wine scene make Montpellier an increasingly popular alternative to more touristed southern French cities."
+    }
+  },
+  {
+    "slug": "avignon",
+    "name": {
+      "en": "Avignon"
+    },
+    "image": "/images/cities/avignon.webp",
+    "region": "Provence-Cote d'Azur",
+    "highlights": [
+      { "en": "Palais des Papes (Palace of the Popes)" },
+      { "en": "Pont d'Avignon" },
+      { "en": "Festival d'Avignon (Theater Festival)" },
+      { "en": "Provencal Markets" }
+    ],
+    "description": {
+      "en": "A medieval walled city on the banks of the Rhone, Avignon was the seat of the Catholic papacy for nearly a century and retains the monumental Palais des Papes — the largest Gothic palace in Europe — as proof of that extraordinary era. The famous half-bridge, the cobblestone streets of the walled center, the world-renowned Festival d'Avignon every July, and its position as a gateway to the lavender fields and hilltop villages of Provence make Avignon one of the most atmospheric small cities in France."
+    }
+  }
+]

@@ -1,0 +1,165 @@
+{
+  "id": 10,
+  "slug": "soupe-a-loignon",
+  "name": {
+    "en": "French Onion Soup",
+    "fr": "Soupe a l'Oignon"
+  },
+  "category": "soup",
+  "region": "national",
+  "description": {
+    "en": "Classic French soup of caramelized onions in beef broth, topped with crusty bread and melted Gruyere",
+    "fr": "Soupe d'oignons caramelises au bouillon de boeuf, gratinee au fromage Gruyere"
+  },
+  "ingredients": [
+    "onions",
+    "beef broth",
+    "butter",
+    "white wine",
+    "Gruyere cheese",
+    "baguette",
+    "thyme",
+    "bay leaf",
+    "garlic"
+  ],
+  "allergens": [
+    "gluten",
+    "dairy"
+  ],
+  "dietary": [],
+  "image": "/images/food/soupe-a-loignon.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "1.5 hours",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "French Onion Soup | Soupe a l'Oignon Gratinee Guide"
+    },
+    "metaDescription": {
+      "en": "Discover French Onion Soup (Soupe a l'Oignon), the beloved Parisian classic of caramelized onions, beef broth, and melted Gruyere — the ultimate comfort food of Les Halles."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "soup",
+    "national",
+    "onion",
+    "cheese",
+    "comfort-food",
+    "winter",
+    "paris",
+    "gratinee"
+  ],
+  "enhanced_description": "Soupe a l'Oignon Gratinee — French Onion Soup — is one of the most soul-satisfying dishes in the French repertoire, a bowl of deeply caramelized onions swimming in rich beef broth, crowned with a thick raft of crusty bread and a bubbling, golden blanket of melted Gruyere cheese. The dish has been nourishing Parisians since at least the 18th century and was long associated with Les Halles, the great central market of Paris, where market workers, late-night revelers, and early-morning laborers would warm themselves with steaming bowls in the surrounding cafes and bistros before dawn. The secret to a great soupe a l'oignon lies entirely in the patience of the onion caramelization: the onions must be cooked slowly in butter over low heat for 45 minutes to an hour, well past the point of translucency, until they collapse into a deep amber mass of concentrated sweetness. Rushing this step with high heat produces bitter, burnt onions rather than the complex caramel sweetness that defines the dish. A splash of white wine or cognac deglazes the fond, and rich beef broth is added to create the liquid base. The soup is ladled into ovenproof crocks, a thick slice of toasted baguette is floated on top, a generous heap of grated Gruyere (or sometimes Comte or Emmental) is piled on, and the whole thing goes under a blazing broiler until the cheese melts, bubbles, and turns golden brown. The moment of breaking through the cheese crust with your spoon to reach the onion-sweet broth below is one of the great pleasures of French dining. It is the ultimate restorative — historically considered a cure for hangovers, broken hearts, and cold winters alike.",
+  "detailed_ingredients": [
+    {
+      "name": "Yellow Onions",
+      "purpose": "The star of the dish — when slowly caramelized, they develop intense sweetness and complex flavor",
+      "substitutes": [
+        "Sweet onions (Vidalia) for milder flavor",
+        "A mix of yellow and red onions for depth"
+      ]
+    },
+    {
+      "name": "Rich Beef Broth (Fond de Boeuf)",
+      "purpose": "Provides the savory, meaty depth that balances the sweet onions",
+      "substitutes": [
+        "Homemade beef stock (vastly superior to commercial)",
+        "Veal stock for a more refined flavor"
+      ]
+    },
+    {
+      "name": "Gruyere Cheese",
+      "purpose": "Melts into a stretchy, golden crust with a nutty, slightly sharp flavor that complements the sweet onions",
+      "substitutes": [
+        "Comte (the French alternative par excellence)",
+        "Emmental",
+        "A blend of Gruyere and Parmesan"
+      ]
+    },
+    {
+      "name": "Stale Baguette or Country Bread",
+      "purpose": "Provides the structural raft that supports the cheese and absorbs the broth without disintegrating",
+      "substitutes": [
+        "Pain de campagne (country bread)",
+        "Sourdough bread (thick slices)"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Slow caramelization, simmering, and broiling (gratiner)",
+    "steps_overview": "Thinly sliced onions are cooked in butter over low heat for 45-60 minutes, stirring occasionally, until deeply caramelized to a dark amber color. A pinch of sugar can help the caramelization. The onions are deglazed with white wine, then rich beef broth and a bouquet garni are added and simmered for 20-30 minutes. The soup is ladled into ovenproof crocks, topped with thick slices of toasted baguette, heaped with grated Gruyere, and broiled at high heat until the cheese is bubbling and golden brown. The crocks are served on plates (they are extremely hot).",
+    "cooking_tips": [
+      "Never rush the caramelization — low and slow is the only way to achieve deep sweetness",
+      "Stir the onions only occasionally — letting them sit in contact with the pan aids browning",
+      "Toast the bread before adding it to prevent it from becoming soggy mush",
+      "Use ovenproof crocks that can go under the broiler — ceramic or stoneware are traditional",
+      "The cheese should bubble and develop golden-brown spots but not burn"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "French Onion Soup has roots dating to ancient Rome, but the modern gratinee version is a Parisian tradition, associated with the Les Halles market district since the 18th century. Legend attributes its invention to Louis XV, who supposedly made it late one night at a hunting lodge with onions, butter, and champagne. More likely, it evolved as peasant food — onions and bread being among the cheapest ingredients available.",
+    "cultural_importance": "Soupe a l'Oignon was long the late-night restorative of Paris, served in the cafes surrounding Les Halles market to workers, revelers, and taxi drivers in the early morning hours. Although Les Halles moved to Rungis in 1971, the tradition of late-night onion soup lives on in Parisian bistros. It is considered a cure-all for colds, hangovers, and winter blues.",
+    "traditional_occasions": [
+      "Late-night post-theater or post-party meal",
+      "Cold winter evenings",
+      "New Year's Eve (reveillon) tradition",
+      "Everyday bistro and brasserie staple"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Soupe a l'Oignon Gratinee (Classic)",
+      "description": "The standard version with the bread and cheese gratin crust — the most common presentation"
+    },
+    {
+      "name": "Soupe a l'Oignon au Cognac",
+      "description": "A more luxurious version where cognac or brandy replaces the white wine in the deglaze"
+    },
+    {
+      "name": "Tourin Bordelais",
+      "description": "A southwestern variation from Bordeaux with garlic, egg yolks, and vinegar instead of cheese"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Crusty bread on the side",
+      "A glass of dry white wine (Chablis or Muscadet) or light red (Beaujolais)",
+      "Simple green salad to follow"
+    ],
+    "presentation": "Served bubbling in an ovenproof crock on a plate (essential — the crock is dangerously hot). The cheese crust should be golden brown and stretchy when pulled with a spoon.",
+    "eating_etiquette": "Break through the cheese crust with your spoon and let it cool slightly before eating. The crock remains extremely hot for several minutes. Pull the cheese strands around your spoon. Bread on the side is for any soup that escapes the crust."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "350-500 kcal per serving",
+    "health_benefits": [
+      "Onions are rich in quercetin, a powerful antioxidant",
+      "Good source of calcium from Gruyere cheese",
+      "Bone broth provides collagen and minerals"
+    ],
+    "dietary_notes": [
+      "Contains gluten from bread and dairy from cheese",
+      "Moderate calorie content for a soup, due to cheese and bread",
+      "Can be made vegetarian with vegetable broth (non-traditional)"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Au Pied de Cochon (Paris) — open 24 hours, legendary for late-night onion soup since 1947",
+      "Le Petit Cler (Paris) — charming bistro with excellent gratinee",
+      "Bouillon Chartier (Paris) — historic workers' restaurant with affordable classics"
+    ],
+    "street_food_areas": [
+      "Not a street food dish — found in bistros, brasseries, and cafes throughout France",
+      "Les Halles area restaurants in Paris (traditional home of the dish)",
+      "Winter markets sometimes feature it"
+    ],
+    "price_ranges": {
+      "street_food": "N/A",
+      "restaurant": "EUR 8-14 (bistro starter or light meal)",
+      "upscale": "EUR 15-22 (refined versions at gastronomic restaurants)"
+    }
+  }
+}

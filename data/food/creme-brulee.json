@@ -1,0 +1,165 @@
+{
+  "id": 12,
+  "slug": "creme-brulee",
+  "name": {
+    "en": "Creme Brulee",
+    "fr": "Creme Brulee"
+  },
+  "category": "dessert",
+  "region": "national",
+  "description": {
+    "en": "Rich vanilla custard topped with a crisp layer of caramelized sugar",
+    "fr": "Creme onctueuse a la vanille recouverte d'une fine couche de sucre caramelise"
+  },
+  "ingredients": [
+    "egg yolks",
+    "heavy cream",
+    "sugar",
+    "vanilla bean",
+    "salt"
+  ],
+  "allergens": [
+    "dairy",
+    "eggs"
+  ],
+  "dietary": [
+    "gluten-free"
+  ],
+  "image": "/images/food/creme-brulee.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "1 hour (plus 4 hours chilling)",
+  "difficulty": "medium",
+  "price_range": "moderate",
+  "seo": {
+    "metaTitle": {
+      "en": "Creme Brulee | Classic French Vanilla Custard Dessert"
+    },
+    "metaDescription": {
+      "en": "Discover Creme Brulee, the iconic French dessert of silky vanilla custard beneath a crisp caramelized sugar crust — one of the world's most beloved desserts."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "dessert",
+    "national",
+    "vanilla",
+    "custard",
+    "caramel",
+    "classic",
+    "elegant"
+  ],
+  "enhanced_description": "Creme Brulee is the dessert that has launched a thousand torch-wielding home cooks — a deceptively simple creation of silky vanilla custard beneath a brittle, glassy shell of caramelized sugar that shatters with a satisfying crack at the first tap of a spoon. Despite its simplicity (just five ingredients: egg yolks, cream, sugar, vanilla, and a pinch of salt), Creme Brulee demands precision. The custard must be cooked in a water bath to a trembling, barely set consistency — overcooked and it turns grainy, undercooked and it sloshes. The vanilla must be real (scraped from a pod, not extract), its tiny black seeds visible throughout the pale cream like a constellation. After chilling for at least four hours, a thin, even layer of sugar is scattered across the surface and caramelized with a blowtorch (or under a broiler in the pre-torch era) until it forms a glass-smooth amber crust. The contrast is everything: cold, creamy, yielding custard beneath hot, brittle, bittersweet caramel. The French and English have argued for centuries over who invented it — the French call it creme brulee (burnt cream), the English claim a nearly identical dish called Trinity Burnt Cream was served at Trinity College, Cambridge, in 1691, and the Catalans assert their crema catalana predates both. Regardless of origin, it is the French version that has conquered the world, appearing on dessert menus from Parisian three-star restaurants to neighborhood bistros. Its enduring popularity is a testament to the power of simplicity executed perfectly — and to the irresistible pleasure of cracking through caramelized sugar.",
+  "detailed_ingredients": [
+    {
+      "name": "Egg Yolks",
+      "purpose": "Provide the proteins that set the custard into its silky, spoonable consistency, plus richness and golden color",
+      "substitutes": [
+        "No true substitute — egg yolks are essential to the custard"
+      ]
+    },
+    {
+      "name": "Heavy Cream (35% fat minimum)",
+      "purpose": "Creates the luxuriously rich, silky texture — the higher the fat, the smoother the custard",
+      "substitutes": [
+        "A mix of heavy cream and whole milk for a lighter version",
+        "Coconut cream for a dairy-free variation (non-traditional)"
+      ]
+    },
+    {
+      "name": "Vanilla Bean (Gousse de Vanille)",
+      "purpose": "The defining flavor — real vanilla provides complex floral, smoky, and sweet notes that extract cannot replicate",
+      "substitutes": [
+        "Vanilla bean paste (good alternative with visible seeds)",
+        "Pure vanilla extract (acceptable, not ideal)"
+      ]
+    },
+    {
+      "name": "Caster Sugar (Sucre en Poudre)",
+      "purpose": "Sweetens the custard and, when sprinkled on top and torched, creates the caramelized crust",
+      "substitutes": [
+        "Demerara sugar for the topping (produces a crunchier crust)",
+        "Turbinado sugar"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Bain-marie (water bath) baking and sugar caramelization",
+    "steps_overview": "Cream is heated with a split vanilla bean until just simmering, then steeped for 15 minutes. Egg yolks and sugar are whisked together (gently — no air bubbles). The warm cream is slowly whisked into the yolks (tempering). The mixture is strained into ramekins and baked in a bain-marie (water bath) at 150°C (300°F) for 40-50 minutes until set at the edges but still jiggling in the center. The custards are chilled for at least 4 hours. Before serving, a thin layer of sugar is sprinkled on top and caramelized with a kitchen torch until glassy and amber.",
+    "cooking_tips": [
+      "Do not whisk the egg yolks vigorously — you want no air bubbles in the custard",
+      "Strain the custard through a fine sieve to remove any bits of cooked egg or vanilla pod",
+      "The water bath must come at least halfway up the ramekins for even cooking",
+      "The custard should jiggle like jello when removed from the oven — it sets further as it chills",
+      "Torch the sugar in a slow, sweeping motion for an even caramel — do not hold the flame in one spot"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "The earliest known French recipe for creme brulee appears in Francois Massialot's 1691 cookbook 'Cuisinier Royal et Bourgeois,' though the English claim that a similar dish, Trinity Burnt Cream, was served at Cambridge's Trinity College around the same time. The Catalans cite their crema catalana, flavored with cinnamon and lemon zest rather than vanilla, as the original. The French version with its vanilla bean custard and torched sugar crust is the version that achieved global dominance.",
+    "cultural_importance": "Creme Brulee is perhaps the single most recognized French dessert worldwide, appearing on restaurant menus from Tokyo to New York. Its popularity surged in the 1980s during the nouvelle cuisine movement and has never waned. The theatrical moment of cracking the sugar crust has made it an enduring favorite at dinner parties and restaurants.",
+    "traditional_occasions": [
+      "Restaurant dessert course",
+      "Dinner party finale",
+      "Bistro and brasserie classic",
+      "Valentine's Day and romantic dining"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Creme Brulee Classique",
+      "description": "The standard vanilla version — purity of flavor in a ramekin"
+    },
+    {
+      "name": "Creme Brulee au Cafe",
+      "description": "Coffee-infused custard, popular in Parisian cafes"
+    },
+    {
+      "name": "Creme Brulee a la Lavande",
+      "description": "Scented with Provencal lavender — a popular southern French variation"
+    },
+    {
+      "name": "Crema Catalana",
+      "description": "The Catalan cousin, flavored with cinnamon and lemon zest, typically served on Saint Joseph's Day (March 19)"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Served alone — it needs nothing else",
+      "A tuile or langue de chat cookie on the side",
+      "Fresh berries (raspberries or strawberries) alongside",
+      "Espresso"
+    ],
+    "presentation": "Served in a wide, shallow ramekin (the wider the better — more caramel surface area). The sugar crust should be glassy, even, and deep amber. The contrast of cold custard and warm caramel is part of the pleasure, so serve immediately after torching.",
+    "eating_etiquette": "Tap the sugar crust firmly with the back of your spoon to crack it. Scoop through both crust and custard in each bite for the full contrast of textures and temperatures."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "350-450 kcal per ramekin",
+    "health_benefits": [
+      "Good source of calcium and vitamin D from cream",
+      "Egg yolks provide choline and vitamin A",
+      "Moderate portion size"
+    ],
+    "dietary_notes": [
+      "Naturally gluten-free",
+      "High in saturated fat from cream and egg yolks",
+      "Contains dairy and eggs"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Le Comptoir du Pantheon (Paris) — classic bistro creme brulee",
+      "Cafe de Flore (Paris) — iconic Left Bank cafe with reliable classics",
+      "Any traditional French bistro — it appears on virtually every dessert menu in France"
+    ],
+    "street_food_areas": [
+      "Not a street food dish — found in restaurants, bistros, and brasseries",
+      "Patisseries sometimes sell individual portions",
+      "Hotel breakfast buffets in France"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 4-6 (patisserie portion)",
+      "restaurant": "EUR 8-12 (bistro dessert)",
+      "upscale": "EUR 14-20 (fine dining version with premium vanilla)"
+    }
+  }
+}

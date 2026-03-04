@@ -1,0 +1,166 @@
+{
+  "id": 8,
+  "slug": "escargots",
+  "name": {
+    "en": "Escargots de Bourgogne",
+    "fr": "Escargots de Bourgogne"
+  },
+  "category": "appetizer",
+  "region": "burgundy",
+  "description": {
+    "en": "Burgundy snails baked in garlic-parsley-butter sauce, served in their shells",
+    "fr": "Escargots cuits au four dans un beurre persille a l'ail, servis dans leur coquille"
+  },
+  "ingredients": [
+    "snails (Helix pomatia)",
+    "butter",
+    "garlic",
+    "parsley",
+    "shallots",
+    "white wine",
+    "salt",
+    "pepper"
+  ],
+  "allergens": [
+    "dairy",
+    "mollusks"
+  ],
+  "dietary": [
+    "gluten-free"
+  ],
+  "image": "/images/food/escargots.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "45 minutes (with prepared snails)",
+  "difficulty": "medium",
+  "price_range": "moderate",
+  "seo": {
+    "metaTitle": {
+      "en": "Escargots de Bourgogne | French Garlic Butter Snails"
+    },
+    "metaDescription": {
+      "en": "Discover Escargots de Bourgogne, the iconic French appetizer of snails baked in garlicky parsley butter — a beloved Burgundian delicacy and must-try French culinary experience."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "appetizer",
+    "burgundy",
+    "snails",
+    "garlic-butter",
+    "delicacy",
+    "classic"
+  ],
+  "enhanced_description": "Escargots de Bourgogne is perhaps the most iconically 'French' dish in existence — the mere mention of snails in garlic butter evokes the entire mythology of French gastronomy for the rest of the world. The dish consists of cooked snails tucked back into their shells, sealed with a generous plug of beurre d'escargot (a compound butter of garlic, flat-leaf parsley, shallots, and sometimes a splash of Pernod or white wine), and baked until the butter melts into a sizzling, fragrant pool in each shell. The snails themselves — traditionally Helix pomatia, the large Burgundy vineyard snail — have a mild, slightly earthy flavor and a pleasantly chewy texture, but it is the garlic-parsley butter that is the real star of the show. Served in special dimpled plates (escargotieres) that hold each shell upright, the dish arrives at the table bubbling and sizzling, accompanied by a pair of snail tongs and a small two-pronged fork. The ritual of extracting the snail and sopping up the remaining garlic butter with torn bread is one of France's great gustatory pleasures. France consumes approximately 30,000 tons of snails per year, making it the world's largest consumer of gastropods. While most snails served in French restaurants today are imported (many from Eastern Europe or Turkey), the tradition remains strongest in Burgundy, where snail gathering (ramassage des escargots) after rain was once a common countryside activity. Escargots appear on bistro menus throughout France, typically served as a starter in portions of 6 or 12.",
+  "detailed_ingredients": [
+    {
+      "name": "Burgundy Snails (Helix pomatia)",
+      "purpose": "The tender, mildly flavored protein — Helix pomatia is the traditional large vineyard snail prized for its size and flavor",
+      "substitutes": [
+        "Helix aspersa (petit-gris) — smaller but more flavorful",
+        "Canned Burgundy snails (widely available and perfectly acceptable)"
+      ]
+    },
+    {
+      "name": "Beurre d'Escargot (Garlic-Parsley Compound Butter)",
+      "purpose": "The soul of the dish — a rich, garlicky, herbaceous butter that bastes the snails as it melts",
+      "substitutes": [
+        "No substitute — this butter is the entire point of the dish"
+      ]
+    },
+    {
+      "name": "Flat-Leaf Parsley (Persil Plat)",
+      "purpose": "Adds freshness, color, and a clean herbaceous note to the rich butter",
+      "substitutes": [
+        "Chervil for a more delicate flavor",
+        "A mix of parsley and tarragon"
+      ]
+    },
+    {
+      "name": "Fresh Garlic",
+      "purpose": "The dominant flavor in beurre d'escargot — should be generous but not aggressive",
+      "substitutes": [
+        "Roasted garlic for a mellower flavor",
+        "Wild garlic (ail des ours) in spring"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Compound butter preparation and oven baking",
+    "steps_overview": "The compound butter is prepared by creaming softened butter with very finely minced garlic, parsley, and shallots, seasoned with salt, pepper, and optionally a splash of Pernod or white wine. Each snail is placed in a clean shell (or a ceramic dimple in an escargotiere), and a generous amount of the compound butter is pressed into the shell to seal the snail inside. The filled shells are arranged in the escargotiere and baked at 200°C (400°F) for 8-10 minutes until the butter is vigorously bubbling and just beginning to brown at the edges.",
+    "cooking_tips": [
+      "Use very soft (but not melted) butter for the compound butter — it must be spreadable",
+      "Be generous with the garlic and parsley — the butter is the main event",
+      "Pack the butter firmly into the shells to prevent it from running out",
+      "The snails are done when the butter is sizzling vigorously — do not overbake",
+      "Serve immediately — the butter must be bubbling when it reaches the table"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "The French tradition of eating snails dates back to prehistoric times — archaeological evidence shows that Neolithic peoples in what is now France consumed snails. The Romans also cultivated snails as a delicacy. The modern dish of Escargots de Bourgogne in garlic butter was popularized in the early 19th century, with the famous chef Antonin Careme reportedly serving them at a dinner for Tsar Alexander I of Russia at the Burgundy estate of diplomat Charles-Maurice de Talleyrand.",
+    "cultural_importance": "Escargots are a defining symbol of French culinary daring and sophistication in the global imagination. For many visitors, ordering escargots for the first time is a rite of passage that embodies the adventurous spirit of French gastronomy. In Burgundy, snail gathering and preparation remains a living tradition.",
+    "traditional_occasions": [
+      "Christmas Eve dinner (reveillon)",
+      "New Year's celebrations",
+      "Bistro appetizer course",
+      "Wine-region dining in Burgundy"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Escargots en Coquille (Classic Shell Presentation)",
+      "description": "The traditional version with snails returned to their shells and sealed with garlic butter"
+    },
+    {
+      "name": "Escargots en Cassolette",
+      "description": "Snails baked in small ceramic pots with garlic butter — easier to prepare, same flavors"
+    },
+    {
+      "name": "Escargots a la Provencale",
+      "description": "Southern variation with tomatoes, herbs de Provence, and olive oil instead of butter"
+    },
+    {
+      "name": "Feuillete d'Escargots",
+      "description": "Snails in garlic cream sauce wrapped in puff pastry — an elegant bistro variation"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Crusty baguette (essential for sopping up the garlic butter)",
+      "A glass of Chablis or white Burgundy",
+      "Green salad as a palate cleanser"
+    ],
+    "presentation": "Served sizzling in a special dimpled plate (escargotiere), with snail tongs and a small two-pronged fork. Bread basket on the side is mandatory.",
+    "eating_etiquette": "Hold the shell with the tongs in one hand, extract the snail with the fork in the other. Then use bread to soak up every drop of garlic butter from the shell and the plate — wasting the butter is the only true faux pas."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "250-400 kcal per dozen (mostly from butter)",
+    "health_benefits": [
+      "Snails are high in protein and low in fat (before the butter)",
+      "Rich in iron and magnesium",
+      "Good source of vitamin B12"
+    ],
+    "dietary_notes": [
+      "Naturally gluten-free (the snails and butter)",
+      "High in saturated fat due to the generous butter",
+      "Contains mollusks (allergen)"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "L'Escargot Montorgueil (Paris) — historic restaurant dedicated to snails since 1832",
+      "Chez l'Ami Louis (Paris) — legendary bistro known for generous portions",
+      "L'Ecusson (Beaune, Burgundy) — elegant Burgundian dining"
+    ],
+    "street_food_areas": [
+      "Not a street food dish — found in bistros and brasseries throughout France",
+      "Burgundy wine region restaurants",
+      "Christmas market stands sometimes offer escargots in cassolettes"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 6-8 (market or festival portion of 6)",
+      "restaurant": "EUR 10-16 (dozen as a starter at a bistro)",
+      "upscale": "EUR 18-30 (fine dining preparation)"
+    }
+  }
+}

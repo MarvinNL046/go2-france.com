@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "slug": "tipping-etiquette",
+    "title": { "en": "Tipping Etiquette in France" },
+    "icon": "💶",
+    "category": "culture"
+  },
+  {
+    "id": 2,
+    "slug": "electricity-plugs",
+    "title": { "en": "Electricity & Plugs" },
+    "icon": "🔌",
+    "category": "essentials"
+  },
+  {
+    "id": 3,
+    "slug": "safety-tips",
+    "title": { "en": "Safety Tips for France" },
+    "icon": "🛡️",
+    "category": "safety"
+  },
+  {
+    "id": 4,
+    "slug": "currency-money",
+    "title": { "en": "Currency & Money Guide" },
+    "icon": "💰",
+    "category": "essentials"
+  },
+  {
+    "id": 5,
+    "slug": "french-language-basics",
+    "title": { "en": "French Language Basics" },
+    "icon": "🗣️",
+    "category": "culture"
+  },
+  {
+    "id": 6,
+    "slug": "health-pharmacies",
+    "title": { "en": "Health & Pharmacies" },
+    "icon": "🏥",
+    "category": "health"
+  },
+  {
+    "id": 7,
+    "slug": "french-etiquette",
+    "title": { "en": "French Etiquette & Customs" },
+    "icon": "🤝",
+    "category": "culture"
+  },
+  {
+    "id": 8,
+    "slug": "packing-list",
+    "title": { "en": "France Packing List" },
+    "icon": "🧳",
+    "category": "essentials"
+  },
+  {
+    "id": 9,
+    "slug": "public-holidays",
+    "title": { "en": "Public Holidays & Closures" },
+    "icon": "📅",
+    "category": "planning"
+  },
+  {
+    "id": 10,
+    "slug": "wifi-connectivity",
+    "title": { "en": "WiFi & Connectivity" },
+    "icon": "📶",
+    "category": "essentials"
+  }
+]

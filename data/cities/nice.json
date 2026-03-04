@@ -1,0 +1,88 @@
+{
+  "slug": "nice",
+  "name": {
+    "en": "Nice"
+  },
+  "image": "/images/cities/nice.webp",
+  "region": "Provence-Cote d'Azur",
+  "highlights": [
+    "Promenade des Anglais",
+    "Vieille Ville (Old Town)",
+    "Matisse & Chagall Museums",
+    "Cours Saleya Market"
+  ],
+  "description": {
+    "en": "The jewel of the French Riviera, Nice combines Mediterranean warmth, Belle Epoque elegance, and Italianate charm in a sun-drenched setting between the turquoise Baie des Anges and the foothills of the Maritime Alps. The sweeping Promenade des Anglais, the colorful maze of the old town, extraordinary art museums, and a unique Nicoise cuisine influenced by both Provence and Italy make Nice far more than just a beach destination."
+  },
+  "overview": "Nice is the fifth-largest city in France with a population of 340,000 and the capital of the French Riviera (Cote d'Azur). The city was part of the Kingdom of Sardinia until 1860, when it was ceded to France — this Italian heritage is visible everywhere, from the Italianate architecture of the old town to the Nicoise cuisine that blends Provencal and Ligurian traditions. The Promenade des Anglais, the iconic seafront boulevard built by English aristocrats who wintered here in the 18th century, stretches for 7 km along the Baie des Anges. The Vieille Ville (old town) is a labyrinth of narrow baroque streets, colorful market squares, and gelato shops. Nice's extraordinary light attracted Matisse, Chagall, and many other artists — dedicated museums for both painters are among the finest single-artist museums in the world. The city serves as an excellent base for exploring the Riviera, with Monaco, Cannes, Eze, Saint-Paul-de-Vence, and the perched villages of the arriere-pays all within easy day-trip distance.",
+  "neighborhoods": [
+    {
+      "name": "Vieille Ville (Old Nice)",
+      "description": "A dense warren of narrow streets between the Promenade des Anglais and Castle Hill (Colline du Chateau), Old Nice is the city's most atmospheric quarter. Baroque churches, laundry-draped buildings in ochre and terracotta, and the lively Cours Saleya flower and food market define the neighborhood. Socca (chickpea crepe) vendors, gelato shops, and Nicoise restaurants line every street.",
+      "highlights": [
+        "Cours Saleya market",
+        "Cathedrale Sainte-Reparate",
+        "Castle Hill viewpoint",
+        "Socca and pissaladiere street food"
+      ]
+    },
+    {
+      "name": "Promenade des Anglais & New Town",
+      "description": "The grand seafront boulevard stretches 7 km along the pebbly Baie des Anges beach, lined with Belle Epoque hotels including the legendary Hotel Negresco. The new town behind the Promenade features elegant Haussmann-style avenues, designer boutiques along Avenue Jean-Medecin, and the Musee d'Art Moderne et d'Art Contemporain (MAMAC).",
+      "highlights": [
+        "Hotel Negresco",
+        "Baie des Anges beach",
+        "MAMAC museum",
+        "Place Massena"
+      ]
+    },
+    {
+      "name": "Cimiez",
+      "description": "The hilltop residential quarter of Cimiez was the fashionable winter retreat for European aristocracy in the Belle Epoque era. The Musee Matisse, set in a 17th-century Genoese villa surrounded by olive groves, and the Musee Chagall, purpose-built to house Chagall's Biblical Message paintings, are the main draws. Roman ruins and the Cimiez Monastery with its beautiful gardens complete the picture.",
+      "highlights": [
+        "Musee Matisse",
+        "Musee Chagall",
+        "Roman ruins and arena",
+        "Cimiez Monastery gardens"
+      ]
+    },
+    {
+      "name": "Port Lympia & Quartier du Port",
+      "description": "Nice's harbor district has a distinctly Italian feel with colorful waterfront buildings, seafood restaurants, antique shops, and a more local atmosphere than the tourist-heavy old town. The twice-weekly Marche de la Liberation is one of the city's best food markets. Ferries to Corsica depart from here.",
+      "highlights": [
+        "Port Lympia harbor",
+        "Marche de la Liberation",
+        "Antique shops on Rue Catherine Segurane",
+        "Corsica ferry terminal"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Nice Cote d'Azur Airport (NCE) is France's third-busiest airport, located just 6 km west of the city center along the coast. Tram Line 2 connects the airport to the city center in 30 minutes for EUR 1.50. Airport Express bus runs to the central bus station. Taxis cost approximately EUR 30-35 to the city center.",
+    "byTrain": "Nice-Ville station is served by TGV from Paris in 5h30 (via Marseille). Regular trains connect to Monaco (20 min), Cannes (30 min), Antibes (20 min), and Marseille (2h30). The scenic coastal railway between Nice and Ventimiglia (Italy) is one of the most beautiful train rides in France.",
+    "byBus": "FlixBus and BlaBlaCar Bus serve Nice from major French cities. Lignes d'Azur buses connect to Monaco (Bus 100, EUR 1.50, 45 min) and Cannes (Bus 200, EUR 1.50, 1h45)."
+  },
+  "gettingAround": "Nice has a modern tram system with 3 lines connecting the airport, train station, old town, and port. A single ticket costs EUR 1.50 and is valid for 74 minutes on trams and buses. Walking is the best way to explore Old Nice and the Promenade. Velobleue bikeshare is available with stations throughout the city. The coastal bus to Monaco and Menton is one of Europe's most scenic and affordable rides.",
+  "bestTimeToVisit": {
+    "best": "April to June, September to October",
+    "description": "Nice enjoys a Mediterranean climate with 300 days of sunshine. Spring and autumn offer warm weather without the intense summer crowds and prices. The Nice Carnival in February is one of the world's great carnival celebrations.",
+    "seasons": {
+      "spring": "April-June: 14-24°C (57-75°F). Warm and sunny, flowers in bloom, Cours Saleya market at its most colorful. Sea warm enough for swimming from late May.",
+      "summer": "July-August: 22-30°C (72-86°F). Hot and very busy. Peak tourist season with high prices. The Nice Jazz Festival in July draws international acts.",
+      "autumn": "September-October: 18-24°C (64-75°F). Warm sea, fewer tourists, lower prices. Excellent for beach and culture.",
+      "winter": "November-March: 8-14°C (46-57°F). Mild and sunny. Nice Carnival in February. Cheaper hotels and flights."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 50-85/day",
+    "midRange": "EUR 120-250/day",
+    "luxury": "EUR 300-1200+/day",
+    "details": "Nice is moderately expensive, especially in summer. Hostel dorms from EUR 25-40/night. Budget hotels EUR 70-110/night. Beachfront hotels EUR 150-400/night. A plate of socca at Chez Theresa costs EUR 3. Lunch on Cours Saleya EUR 15-25. The French Riviera Pass (EUR 26/1 day) covers top museums and attractions."
+  },
+  "tags": ["beach", "art", "mediterranean", "riviera", "cuisine", "history", "markets"],
+  "seo": {
+    "metaTitle": "Nice Travel Guide 2026 — French Riviera's Cultural Capital",
+    "metaDescription": "Complete guide to visiting Nice on the French Riviera. Discover the Promenade des Anglais, Old Town, Matisse and Chagall museums, and the best Nicoise cuisine. Tips on transport, budget, and day trips along the Cote d'Azur."
+  },
+  "updatedAt": "2026-03-01"
+}

@@ -1,0 +1,166 @@
+{
+  "id": 3,
+  "slug": "bouillabaisse",
+  "name": {
+    "en": "Bouillabaisse",
+    "fr": "Bouillabaisse"
+  },
+  "category": "main-dish",
+  "region": "provence",
+  "description": {
+    "en": "Marseille's legendary fish stew with Mediterranean rockfish, saffron, fennel, and rouille",
+    "fr": "Soupe de poissons de roche marseillaise au safran, fenouil et rouille"
+  },
+  "ingredients": [
+    "rockfish (rascasse, grondin, saint-pierre)",
+    "saffron",
+    "fennel",
+    "tomatoes",
+    "garlic",
+    "olive oil",
+    "orange peel",
+    "pastis",
+    "potatoes",
+    "onion"
+  ],
+  "allergens": [
+    "fish",
+    "shellfish"
+  ],
+  "dietary": [
+    "gluten-free option"
+  ],
+  "image": "/images/food/bouillabaisse.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "2 hours",
+  "difficulty": "hard",
+  "price_range": "expensive",
+  "seo": {
+    "metaTitle": {
+      "en": "Bouillabaisse | Marseille's Famous Fish Stew Guide"
+    },
+    "metaDescription": {
+      "en": "Discover bouillabaisse, Marseille's iconic fish stew made with Mediterranean rockfish, saffron, and rouille — a Provencal culinary treasure with centuries of history."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "provence",
+    "seafood",
+    "marseille",
+    "saffron",
+    "fish-stew"
+  ],
+  "enhanced_description": "Bouillabaisse is the great culinary monument of Marseille — a magnificent fish stew born from the daily catch of Mediterranean fishermen and elevated over centuries into one of France's most celebrated and fiercely protected dishes. At its core, bouillabaisse is a two-course experience: first, a saffron-tinted broth served with croutons, rouille (a garlicky, saffron-spiked mayonnaise), and grated Gruyere; then, the poached fish arranged on a platter for guests to serve themselves. The Charte de la Bouillabaisse, established by Marseille restaurateurs in 1980, stipulates that a genuine bouillabaisse must contain at least four species of local Mediterranean rockfish — typically rascasse (scorpionfish), grondin (gurnard), saint-pierre (John Dory), and congre (conger eel) — along with saffron, fennel, garlic, tomatoes, olive oil, and a splash of pastis. The name derives from the Provencal words 'bolh' (boil) and 'abaissa' (reduce), referring to the vigorous boiling that emulsifies the olive oil into the broth, creating the dish's characteristic rich, golden body. Originally a humble fisherman's stew made from fish too bony or ugly to sell at market, bouillabaisse has evolved into a gastronomic event that commands prices of EUR 50-80 per person at Marseille's finest restaurants along the Vieux-Port. Ordering bouillabaisse typically requires a minimum of two diners and sometimes 24 hours advance notice. The experience of eating a proper bouillabaisse in Marseille, with the sun setting over the Vieux-Port, is one of the supreme pleasures of French gastronomy.",
+  "detailed_ingredients": [
+    {
+      "name": "Mediterranean Rockfish (Poissons de Roche)",
+      "purpose": "The essential base — bony, flavorful fish that create the rich broth and provide the main protein",
+      "substitutes": [
+        "Monkfish, red mullet, and sea bass (outside Marseille)",
+        "Any firm white fish combined with shellfish"
+      ]
+    },
+    {
+      "name": "Saffron",
+      "purpose": "Provides the golden color, distinctive aroma, and subtle bitterness that defines the broth",
+      "substitutes": [
+        "No true substitute — saffron is essential to authentic bouillabaisse"
+      ]
+    },
+    {
+      "name": "Fennel (Fresh and Seeds)",
+      "purpose": "Adds the anise-like aroma that is characteristic of Provencal fish cookery",
+      "substitutes": [
+        "Dried fennel stalks",
+        "A small splash of pastis for the anise note"
+      ]
+    },
+    {
+      "name": "Rouille",
+      "purpose": "A saffron-garlic mayonnaise spread on croutons that enriches the broth as it melts in",
+      "substitutes": [
+        "Aioli as a simpler alternative",
+        "Garlic mayonnaise with a pinch of saffron and cayenne"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Vigorous boiling and poaching",
+    "steps_overview": "A fumet (fish stock) is prepared from small rockfish and fish heads. The firm fish are layered in a large pot with sauteed onions, tomatoes, fennel, garlic, olive oil, saffron, and orange peel. The strained fumet is added, brought to a vigorous boil (this is crucial — the rapid boiling emulsifies the olive oil into the broth), and cooked for 15-20 minutes. More delicate fish are added later to avoid overcooking. The broth is strained and served first with croutons and rouille; the fish follows on a separate platter.",
+    "cooking_tips": [
+      "The vigorous boil is essential — it emulsifies olive oil into the broth for body and richness",
+      "Add firm fish first, delicate fish later to ensure even cooking",
+      "Use the freshest possible fish — bouillabaisse is fundamentally about fish quality",
+      "Toast the croutons well and rub with garlic before spreading rouille",
+      "Always serve the broth and fish separately — this is the traditional Marseille way"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Bouillabaisse originated as a humble fisherman's stew in the calanques and ports around Marseille, made from the unsellable bony rockfish left over after the morning catch. Greek settlers from Phocaea who founded Marseille around 600 BC likely brought a tradition of fish stews that evolved into the modern dish. The name comes from the Provencal instruction to boil (bolh) and reduce (abaissa) the broth vigorously.",
+    "cultural_importance": "Bouillabaisse is Marseille's culinary identity — the city takes its preparation so seriously that a group of restaurateurs established the Charte de la Bouillabaisse in 1980 to protect it from inferior imitations. Arguments about which restaurant serves the best bouillabaisse can last for hours among Marseillais locals.",
+    "traditional_occasions": [
+      "Sunday family lunch in Marseille",
+      "Special celebration meals",
+      "Tourist gastronomic experience",
+      "Fisherman's tradition"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Bourride",
+      "description": "A related Provencal fish stew thickened with aioli instead of saffron broth — lighter and creamier"
+    },
+    {
+      "name": "Bouillabaisse Borgne",
+      "description": "A 'one-eyed' version made without fish, using only vegetables and a poached egg — a Lenten tradition"
+    },
+    {
+      "name": "Bouillabaisse de Sardines",
+      "description": "A more affordable version made with sardines, popular among fishermen for everyday meals"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Croutons (toasted bread rubbed with garlic)",
+      "Rouille (saffron-garlic mayonnaise)",
+      "Grated Gruyere cheese",
+      "Steamed potatoes in the broth"
+    ],
+    "presentation": "Served in two courses: the saffron broth is ladled into deep bowls first, accompanied by croutons spread with rouille and sprinkled with Gruyere. The fish is presented on a separate platter for guests to serve themselves.",
+    "eating_etiquette": "Spread rouille on a crouton, place it in your bowl, and ladle broth over it. The cheese melts into the soup. Eat the broth course first, then serve yourself fish from the platter."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "350-500 kcal per serving",
+    "health_benefits": [
+      "Rich in omega-3 fatty acids from Mediterranean fish",
+      "High-quality lean protein",
+      "Anti-inflammatory properties from saffron",
+      "Heart-healthy olive oil base"
+    ],
+    "dietary_notes": [
+      "Naturally gluten-free (without croutons)",
+      "High in protein and low in saturated fat",
+      "Contains fish and shellfish allergens"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Chez Fonfon (Marseille) — legendary Vallon des Auffes restaurant, advance booking essential",
+      "Le Miramar (Marseille) — Vieux-Port institution, one of the Charte signatories",
+      "Chez Michel (Marseille) — family-run restaurant near the Catalans beach"
+    ],
+    "street_food_areas": [
+      "Vieux-Port restaurants in Marseille",
+      "Vallon des Auffes fishing cove",
+      "L'Estaque waterfront restaurants"
+    ],
+    "price_ranges": {
+      "street_food": "N/A (not a street food dish)",
+      "restaurant": "EUR 45-65 per person (traditional restaurants, minimum 2 people)",
+      "upscale": "EUR 70-100+ per person (premier Marseille restaurants)"
+    }
+  }
+}

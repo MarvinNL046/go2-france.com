@@ -1,0 +1,110 @@
+{
+  "id": 4,
+  "slug": "cidre",
+  "name": {
+    "en": "Cidre (French Cider)",
+    "fr": "Cidre"
+  },
+  "category": "cider",
+  "region": "normandy",
+  "description": {
+    "en": "Traditional sparkling cider from Normandy and Brittany, made from heritage apple varieties and served in ceramic bowls (bolees)"
+  },
+  "ingredients": [
+    "Heritage cider apples (bitter, bittersweet, sharp, sweet varieties)",
+    "Natural yeast"
+  ],
+  "image": "/images/drinks/cidre.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "3-6 months fermentation",
+  "difficulty": "medium",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": "French Cidre | Norman & Breton Cider Guide",
+    "metaDescription": "Explore French cidre — traditional sparkling cider from Normandy and Brittany made from heritage apple varieties. Discover the culture of the bolee and creperie."
+  },
+  "tags": [
+    "french-drinks",
+    "france",
+    "cider",
+    "cidre",
+    "normandy",
+    "brittany",
+    "apples",
+    "creperie",
+    "bolee"
+  ],
+  "enhanced_description": "French cidre is a sparkling fermented apple drink that has been central to the culture and cuisine of Normandy and Brittany for over a thousand years. Unlike commercial ciders found elsewhere, French cidre is made from specially cultivated cider apple varieties — hundreds of unique cultivars with evocative names like Bedan, Frequin Rouge, Douce Moen, and Guillevic — that are classified into four flavor categories: bitter (amere), bittersweet (douce-amere), sharp (acidulee), and sweet (douce). A quality cidre blends apples from all four categories to achieve balance and complexity, much as a winemaker blends grape varieties. The apples are harvested in autumn, gently crushed, and the juice is slowly pressed in traditional rack-and-cloth presses or modern belt presses. The fresh juice (mout) is allowed to settle, a process called defecation or keeving, where pectins naturally clarify the juice and remove nutrients, ensuring a slow, gentle fermentation that preserves fruit character. Fermentation takes place in barrels or tanks over several months, and the cidre is bottled while still fermenting to capture natural effervescence — no added carbonation is needed. French cidre comes in several styles: cidre doux (sweet, 1.5-3% ABV), cidre demi-sec (medium, 3-5% ABV), and cidre brut (dry, 4.5-6% ABV). The finest cidres carry AOC (Appellation d'Origine Controlee) or AOP designations, such as Cidre Pays d'Auge and Cidre de Cornouaille, guaranteeing traditional methods and regional provenance. In Brittany, cidre is traditionally served in ceramic bowls called bolees, and it is the customary accompaniment to galettes (buckwheat crepes) and crepes in creperies throughout the region. The Route du Cidre in the Pays d'Auge is a scenic touring route through apple orchards, half-timbered farms, and artisan cider producers, offering tastings and farm visits.",
+  "detailed_ingredients": [
+    {
+      "name": "Bitter Cider Apples (Pommes Ameres)",
+      "purpose": "Provide tannins and astringency that give cidre its structure and depth, similar to the role of tannins in red wine",
+      "substitutes": ["No real substitute — essential for authentic cidre character"]
+    },
+    {
+      "name": "Bittersweet Apples (Pommes Douces-Ameres)",
+      "purpose": "Contribute both tannin and sugar, forming the backbone of most Norman cider blends",
+      "substitutes": ["Crabapples can approximate some character"]
+    },
+    {
+      "name": "Sharp Apples (Pommes Acidulees)",
+      "purpose": "Add acidity and brightness that balance the sweetness and make the cidre refreshing",
+      "substitutes": ["Cooking apples like Bramley in a pinch"]
+    },
+    {
+      "name": "Sweet Apples (Pommes Douces)",
+      "purpose": "Provide fermentable sugars and fruity, aromatic qualities",
+      "substitutes": ["Dessert apples, though lacking complexity"]
+    }
+  ],
+  "cultural_significance": {
+    "origin_story": "Apple cultivation in Normandy dates to at least the 6th century, and cider-making was well established by the 11th century when the Norman conquests spread the tradition to England. By the 13th century, cidre had largely replaced cervoise (grain beer) as the everyday drink of Normandy and Brittany. The tradition of orchard management (vergers haute-tige) with tall standard trees in meadows grazed by cattle created the iconic Norman landscape.",
+    "cultural_importance": "Cidre is the daily table drink of Normandy and Brittany, served with every meal from galettes to seafood. It is the base of many regional traditions: the trou normand (a mid-meal digestive pause with Calvados), the cidrerie (cider house), and autumn apple festivals. Cider production supports thousands of small farms and preserves heritage apple biodiversity.",
+    "traditional_occasions": [
+      "Everyday meals in Normandy and Brittany",
+      "Creperie dining (served in bolees)",
+      "Autumn apple harvest festivals",
+      "Trou normand digestive tradition",
+      "Sunday family lunches"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Cidre Doux (Sweet Cider)",
+      "description": "Light and sweet at 1.5-3% ABV, perfect with dessert crepes and as an afternoon refreshment"
+    },
+    {
+      "name": "Cidre Brut (Dry Cider)",
+      "description": "Dry and effervescent at 4.5-6% ABV, the classic pairing for savory galettes and seafood"
+    },
+    {
+      "name": "Cidre Pays d'Auge AOC",
+      "description": "Premium Norman cider from the Pays d'Auge, made with traditional methods and heritage varieties"
+    },
+    {
+      "name": "Cidre de Cornouaille AOC",
+      "description": "Breton cider from the Cornouaille region in Finistere, known for its bittersweet character"
+    },
+    {
+      "name": "Poire (Perry)",
+      "description": "The pear equivalent of cidre, made from heritage perry pear varieties in Normandy, with floral, delicate character"
+    }
+  ],
+  "where_to_find": {
+    "best_restaurants": [
+      "Creperie Suzette (Rennes) — classic Breton creperie with excellent cidre selection",
+      "La Cidrerie du Marais (Paris) — popular creperie serving artisan cidre in bolees",
+      "Ferme de la Sapiniere (Cambremer) — farm cider producer on the Route du Cidre"
+    ],
+    "street_food_areas": [
+      "Route du Cidre in the Pays d'Auge, Normandy — scenic cider touring route",
+      "Creperies throughout Brittany (Rennes, Quimper, Saint-Malo)",
+      "Market stalls in Norman towns (Honfleur, Deauville, Bayeux)"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 2.50-4 (bolee of cidre at a creperie)",
+      "restaurant": "EUR 4-8 (bottle of artisan cidre at a restaurant)",
+      "upscale": "EUR 8-15 (premium AOC cidre or vintage cuvee)"
+    }
+  }
+}

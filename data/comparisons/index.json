@@ -1,0 +1,101 @@
+{
+  "comparisons": [
+    {
+      "slug": "paris-vs-lyon",
+      "item1": "paris",
+      "item2": "lyon",
+      "type": "city",
+      "name1": { "en": "Paris" },
+      "name2": { "en": "Lyon" },
+      "popular": true
+    },
+    {
+      "slug": "paris-vs-marseille",
+      "item1": "paris",
+      "item2": "marseille",
+      "type": "city",
+      "name1": { "en": "Paris" },
+      "name2": { "en": "Marseille" },
+      "popular": true
+    },
+    {
+      "slug": "paris-vs-nice",
+      "item1": "paris",
+      "item2": "nice",
+      "type": "city",
+      "name1": { "en": "Paris" },
+      "name2": { "en": "Nice" },
+      "popular": true
+    },
+    {
+      "slug": "lyon-vs-marseille",
+      "item1": "lyon",
+      "item2": "marseille",
+      "type": "city",
+      "name1": { "en": "Lyon" },
+      "name2": { "en": "Marseille" },
+      "popular": true
+    },
+    {
+      "slug": "nice-vs-marseille",
+      "item1": "nice",
+      "item2": "marseille",
+      "type": "city",
+      "name1": { "en": "Nice" },
+      "name2": { "en": "Marseille" },
+      "popular": false
+    },
+    {
+      "slug": "bordeaux-vs-lyon",
+      "item1": "bordeaux",
+      "item2": "lyon",
+      "type": "city",
+      "name1": { "en": "Bordeaux" },
+      "name2": { "en": "Lyon" },
+      "popular": true
+    },
+    {
+      "slug": "paris-vs-bordeaux",
+      "item1": "paris",
+      "item2": "bordeaux",
+      "type": "city",
+      "name1": { "en": "Paris" },
+      "name2": { "en": "Bordeaux" },
+      "popular": false
+    },
+    {
+      "slug": "strasbourg-vs-lyon",
+      "item1": "strasbourg",
+      "item2": "lyon",
+      "type": "city",
+      "name1": { "en": "Strasbourg" },
+      "name2": { "en": "Lyon" },
+      "popular": false
+    },
+    {
+      "slug": "toulouse-vs-montpellier",
+      "item1": "toulouse",
+      "item2": "montpellier",
+      "type": "city",
+      "name1": { "en": "Toulouse" },
+      "name2": { "en": "Montpellier" },
+      "popular": false
+    },
+    {
+      "slug": "nice-vs-bordeaux",
+      "item1": "nice",
+      "item2": "bordeaux",
+      "type": "city",
+      "name1": { "en": "Nice" },
+      "name2": { "en": "Bordeaux" },
+      "popular": false
+    }
+  ],
+  "popular": [
+    "paris-vs-lyon",
+    "paris-vs-marseille",
+    "paris-vs-nice",
+    "lyon-vs-marseille",
+    "bordeaux-vs-lyon"
+  ]
+}

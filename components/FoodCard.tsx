@@ -22,7 +22,7 @@ const FoodCard: React.FC<FoodCardProps> = ({ name, slug, image, category, spiceL
             className="object-cover group-hover:scale-110 transition-transform duration-500"
           />
           {category && (
-            <span className="absolute top-3 left-3 bg-brand-accent text-brand-secondary text-xs font-semibold px-3 py-1 rounded-full">
+            <span className="absolute top-3 left-3 bg-brand-accent text-white text-xs font-semibold px-3 py-1 rounded-full">
               {category}
             </span>
           )}

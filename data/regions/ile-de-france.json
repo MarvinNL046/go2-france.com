@@ -1,0 +1,59 @@
+{
+  "slug": "ile-de-france",
+  "name": { "en": "Ile-de-France" },
+  "image": "/images/regions/ile-de-france.webp",
+  "description": { "en": "The region surrounding Paris is the political, economic, and cultural heart of France — home to the capital city, the Palace of Versailles, Fontainebleau, Giverny's Monet gardens, and Disneyland Paris. While Paris dominates, the surrounding countryside of royal forests, charming villages, and historic chateaux offers endless day trip possibilities." },
+  "overview": "Ile-de-France is the most populous region in France with over 12 million inhabitants, centered on Paris. The region extends beyond the capital to encompass a rich landscape of royal palaces, medieval towns, forests, and cultural sites. The Palace of Versailles, the most visited chateau in France, lies just 20 km southwest of Paris. Fontainebleau, with its magnificent palace and vast forest, is a favorite weekend escape for Parisians. The medieval town of Provins, a UNESCO World Heritage Site, preserves its 12th-century ramparts and towers. Giverny, Claude Monet's home for 43 years, draws art lovers to its famous water lily gardens. The region also hosts Disneyland Paris, France's most visited tourist attraction, and the Chateau de Vaux-le-Vicomte, which inspired Louis XIV to build Versailles.",
+  "highlights": [
+    "Paris — the City of Light, museums, gastronomy, and architecture",
+    "Palace of Versailles — the ultimate expression of French royal grandeur",
+    "Monet's Gardens at Giverny — the water lilies that inspired Impressionism",
+    "Fontainebleau Palace & Forest — royal residence and climbing paradise",
+    "Provins — UNESCO-listed medieval fortified town",
+    "Chateau de Vaux-le-Vicomte — the chateau that inspired Versailles",
+    "Disneyland Paris — Europe's most visited theme park",
+    "Chartres Cathedral — Gothic masterpiece 80 km southwest of Paris"
+  ],
+  "cities": ["paris"],
+  "bestTimeToVisit": "April to June, September to October — Spring brings cherry blossoms and Monet's gardens in bloom. Autumn offers golden foliage and comfortable temperatures. Summer is warm and busy. Winter offers lower prices and Christmas markets but shorter days.",
+  "topExperiences": [
+    { "title": "Palace of Versailles Day Trip", "description": "Explore the Hall of Mirrors, King's Grand Apartments, and the spectacular gardens with their fountains and groves. The Musical Fountains Show runs on weekends from April to October. Take RER C from Paris (40 minutes, EUR 4)." },
+    { "title": "Giverny & Monet's Gardens", "description": "Visit the house and gardens that inspired Monet's most famous works, including the Japanese bridge and water lily ponds. Open April to November. Accessible by train to Vernon then shuttle bus (75 minutes from Paris Saint-Lazare)." },
+    { "title": "Fontainebleau Forest Hiking & Bouldering", "description": "The 25,000-hectare forest of Fontainebleau is France's premier outdoor climbing and bouldering destination, with thousands of marked sandstone boulders at every difficulty level." }
+  ],
+  "gettingThere": {
+    "byAir": "Paris Charles de Gaulle (CDG) and Paris Orly (ORY) airports provide comprehensive international access. CDG is connected to Paris by RER B (35 minutes). Beauvais-Tille Airport serves budget airlines and is 85 km north of Paris.",
+    "byTrain": "Paris is the hub of the French TGV network, with six major stations connecting to every corner of France and major European cities via Eurostar and Thalys.",
+    "byBus": "Major bus companies serve Paris from across Europe. Bercy Seine is the main intercity bus station."
+  },
+  "gettingAround": "The Paris Metro, RER commuter trains, and Transilien suburban trains cover the entire Ile-de-France region comprehensively. The Navigo Decouverte weekly pass covers all zones for EUR 30.75. Versailles, Fontainebleau, Provins, and Disneyland are all easily accessible by RER or Transilien trains from Paris. A car is useful for Giverny and more remote chateaux.",
+  "accommodation": {
+    "budget": "Hostel dorms in Paris from EUR 30-50/night. Budget hotels in outer arrondissements or suburbs EUR 70-120/night.",
+    "midRange": "Mid-range hotels in central Paris EUR 150-300/night. Hotels near Versailles or Fontainebleau EUR 80-150/night.",
+    "luxury": "Palace hotels in Paris (Ritz, Le Bristol, Four Seasons George V) from EUR 800-5,000+/night. Chateau hotels in the countryside EUR 200-600/night."
+  },
+  "food": {
+    "description": "Ile-de-France is the gastronomic center of the country, with Paris offering the full spectrum from Michelin-starred fine dining to market bistros and international cuisine.",
+    "specialties": [
+      "Croissants and pain au chocolat — the Paris patisserie tradition at its finest",
+      "Brie de Meaux — the king of French cheeses, produced east of Paris since the 8th century",
+      "Steak frites — the quintessential Parisian bistro dish",
+      "Croque-monsieur — the classic French ham and cheese sandwich, grilled and smothered in bechamel",
+      "Paris-Brest — the ring-shaped choux pastry filled with praline cream, created in 1910"
+    ]
+  },
+  "tips": [
+    "The Paris Museum Pass covers most major museums and avoids long ticket queues — the 4-day pass at EUR 77 is excellent value if you plan intensive sightseeing.",
+    "Visit Versailles on a weekday and arrive early to avoid the worst crowds. Tuesday and Wednesday are the quietest days.",
+    "Giverny's gardens are most spectacular in May-June when the wisteria, irises, and early water lilies are in bloom.",
+    "The RER and Transilien trains use the same Navigo pass as the Paris Metro — no separate tickets needed for Ile-de-France day trips.",
+    "Book Fontainebleau forest climbing routes in advance if going with a guide — the area is France's most popular bouldering destination."
+  ],
+  "safetyNotes": "Paris and Ile-de-France are generally safe. Exercise normal urban caution, particularly regarding pickpockets on the Metro, around major tourist sites (Eiffel Tower, Louvre, Sacre-Coeur), and on RER B. Keep valuables in front pockets or cross-body bags. Avoid the area around Gare du Nord late at night.",
+  "tags": ["paris", "culture", "gastronomy", "palaces", "museums", "art", "history"],
+  "seo": {
+    "metaTitle": "Ile-de-France Travel Guide 2026 — Paris, Versailles & Day Trips",
+    "metaDescription": "Complete guide to the Ile-de-France region. Explore Paris, the Palace of Versailles, Giverny, Fontainebleau, and more. Practical tips on transport, accommodation, and the best time to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

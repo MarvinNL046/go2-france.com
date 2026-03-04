@@ -1,0 +1,166 @@
+{
+  "id": 2,
+  "slug": "coq-au-vin",
+  "name": {
+    "en": "Coq au Vin",
+    "fr": "Coq au Vin"
+  },
+  "category": "main-dish",
+  "region": "burgundy",
+  "description": {
+    "en": "Chicken braised in red wine with mushrooms, lardons, and pearl onions",
+    "fr": "Poulet braise au vin rouge avec champignons, lardons et petits oignons"
+  },
+  "ingredients": [
+    "chicken",
+    "red wine (Burgundy)",
+    "lardons",
+    "mushrooms",
+    "pearl onions",
+    "garlic",
+    "thyme",
+    "bay leaf",
+    "butter",
+    "flour"
+  ],
+  "allergens": [
+    "gluten",
+    "dairy",
+    "sulfites"
+  ],
+  "dietary": [],
+  "image": "/images/food/coq-au-vin.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "3 hours",
+  "difficulty": "medium",
+  "price_range": "moderate",
+  "seo": {
+    "metaTitle": {
+      "en": "Coq au Vin | Classic French Chicken Braised in Wine"
+    },
+    "metaDescription": {
+      "en": "Discover Coq au Vin, the iconic French dish of chicken braised in Burgundy red wine with mushrooms, lardons, and pearl onions — a cornerstone of French country cooking."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "burgundy",
+    "wine",
+    "chicken",
+    "comfort-food",
+    "braised"
+  ],
+  "enhanced_description": "Coq au Vin is one of the great pillars of French country cooking — a sumptuous braise of chicken pieces slowly simmered in red wine until the meat falls from the bone and the sauce becomes a deep, velvety amalgamation of wine, aromatics, and rendered pork fat. The dish originated as a practical solution for cooking an old rooster (coq), whose tough meat required long, slow braising to become tender. The wine — traditionally a robust Burgundy — served both as tenderizer and flavor base, while lardons, mushrooms, pearl onions, and a bouquet garni of thyme and bay leaves contributed layers of savory depth. Julia Child's famous recipe in 'Mastering the Art of French Cooking' introduced Coq au Vin to American home cooks in the 1960s and cemented its status as the quintessential French dinner party dish. Today, most versions use a younger chicken rather than an old rooster, reducing cooking time but preserving the essential character of the dish. The sauce, reduced and enriched with a beurre manie (butter-flour paste), should coat the back of a spoon and gleam with a dark, wine-stained sheen. Properly made, Coq au Vin is the very essence of French comfort food — rustic yet refined, deeply flavorful, and immensely satisfying. The dish epitomizes the French genius for transforming humble ingredients into something transcendent through patience and technique.",
+  "detailed_ingredients": [
+    {
+      "name": "Whole Chicken or Rooster",
+      "purpose": "The protein base — traditionally an old rooster (coq) for deeper flavor, now typically a free-range chicken",
+      "substitutes": [
+        "Chicken thighs and drumsticks (dark meat works best)",
+        "Guinea fowl for a gamier flavor"
+      ]
+    },
+    {
+      "name": "Burgundy Red Wine",
+      "purpose": "Forms the braising liquid and the base of the sauce — provides body, acidity, and depth",
+      "substitutes": [
+        "Pinot Noir from another region",
+        "Cotes du Rhone",
+        "Any dry, full-bodied red wine"
+      ]
+    },
+    {
+      "name": "Lardons (Thick-Cut Bacon)",
+      "purpose": "Rendered fat for browning and smoky, salty depth in the sauce",
+      "substitutes": [
+        "Thick-cut bacon cut into batons",
+        "Pancetta"
+      ]
+    },
+    {
+      "name": "Button Mushrooms (Champignons de Paris)",
+      "purpose": "Add earthy flavor and meaty texture to the braise",
+      "substitutes": [
+        "Cremini mushrooms",
+        "Mixed wild mushrooms for a more complex flavor"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Braising in red wine",
+    "steps_overview": "The chicken is marinated overnight in red wine with aromatics for maximum flavor penetration. The next day, lardons are rendered in a heavy Dutch oven, then the dried chicken pieces are browned in the fat. Pearl onions and mushrooms are sauteed separately. Everything is combined with the strained marinade wine, brought to a simmer, and braised in a low oven for 1.5-2 hours until the chicken is falling-off-the-bone tender. The sauce is strained and reduced, then thickened with beurre manie and enriched with a final knob of butter.",
+    "cooking_tips": [
+      "Marinate the chicken in wine overnight for the deepest flavor",
+      "Dry the chicken pieces thoroughly before browning — wet chicken will steam, not sear",
+      "Brown the chicken in batches to avoid overcrowding the pot",
+      "Use a wine you would actually drink — the dish will only be as good as its wine",
+      "The sauce should be thick enough to coat the back of a spoon"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Coq au Vin has ancient roots, with some historians tracing it to Gaul and a legend involving Julius Caesar being presented with a tough old rooster by a defiant Gallic chieftain. Caesar reportedly had his cook braise the bird in wine, transforming the insult into a feast. While likely apocryphal, the story captures the dish's essence: transforming tough ingredients through wine and slow cooking.",
+    "cultural_importance": "Coq au Vin represents the heart of French bourgeois cuisine — dishes that are sophisticated in flavor but rooted in frugal country cooking traditions. It was elevated to fine dining status in the 20th century and became an international symbol of French gastronomy through Julia Child's advocacy.",
+    "traditional_occasions": [
+      "Sunday family lunch",
+      "Winter dinner parties",
+      "Holiday gatherings",
+      "Bistro and brasserie classic"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Coq au Vin Jaune",
+      "description": "A Jura region variation using the distinctive oxidative vin jaune wine and cream, with morel mushrooms"
+    },
+    {
+      "name": "Coq au Riesling",
+      "description": "Alsatian version made with white Riesling wine and cream, lighter and more delicate than the Burgundy original"
+    },
+    {
+      "name": "Coq au Champagne",
+      "description": "Luxurious Champagne region version using sparkling wine, with a lighter, more elegant sauce"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Buttered egg noodles (nouilles au beurre)",
+      "Mashed potatoes (puree de pommes de terre)",
+      "Steamed new potatoes",
+      "Crusty bread for soaking up the sauce"
+    ],
+    "presentation": "Served in a deep plate or shallow bowl with the sauce spooned generously over the chicken, garnished with the lardons, mushrooms, and pearl onions. A sprig of fresh thyme adds a finishing touch.",
+    "eating_etiquette": "A knife and fork dish. Use bread to soak up the remaining sauce — this is not only acceptable but expected."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "450-600 kcal per serving",
+    "health_benefits": [
+      "High in protein from chicken",
+      "Resveratrol antioxidants from red wine",
+      "B vitamins from mushrooms"
+    ],
+    "dietary_notes": [
+      "Contains alcohol (though much cooks off during braising)",
+      "High in protein",
+      "Not suitable for vegetarians"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Ma Bourgogne (Paris) — classic Burgundian bistro on Place des Vosges",
+      "Le Bistrot de l'Oulette (Paris) — refined southwestern and traditional French",
+      "Restaurant Ma Cuisine (Beaune, Burgundy) — in the heart of wine country"
+    ],
+    "street_food_areas": [
+      "Not typically a street food dish — found in bistros and brasseries",
+      "Regional restaurants throughout Burgundy",
+      "Winter food markets occasionally feature it"
+    ],
+    "price_ranges": {
+      "street_food": "N/A",
+      "restaurant": "EUR 18-28 (bistro main course)",
+      "upscale": "EUR 30-50 (fine dining interpretation)"
+    }
+  }
+}

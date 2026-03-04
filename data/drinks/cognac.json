@@ -1,0 +1,107 @@
+{
+  "id": 5,
+  "slug": "cognac",
+  "name": {
+    "en": "Cognac",
+    "fr": "Cognac"
+  },
+  "category": "spirit",
+  "region": "nouvelle-aquitaine",
+  "description": {
+    "en": "Prestigious double-distilled grape brandy from the Cognac region, aged in Limousin oak barrels and classified by age (VS, VSOP, XO)"
+  },
+  "ingredients": [
+    "Ugni Blanc grapes (Trebbiano)",
+    "Colombard grapes",
+    "Folle Blanche grapes",
+    "Limousin or Troncais oak (for barrel aging)"
+  ],
+  "image": "/images/drinks/cognac.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "Minimum 2 years aging (VS), 4 years (VSOP), 10 years (XO)",
+  "difficulty": "expert",
+  "price_range": "premium",
+  "seo": {
+    "metaTitle": "Cognac | France's Legendary Grape Brandy Guide",
+    "metaDescription": "Explore Cognac — France's premier grape brandy, double-distilled in copper pot stills and aged in Limousin oak. From VS to XO, discover the art of Cognac."
+  },
+  "tags": [
+    "french-drinks",
+    "france",
+    "spirit",
+    "brandy",
+    "cognac",
+    "nouvelle-aquitaine",
+    "distillation",
+    "luxury",
+    "digestif"
+  ],
+  "enhanced_description": "Cognac is one of the world's most refined spirits, a grape brandy produced exclusively in the legally defined Cognac region of southwestern France, centered on the town of Cognac in the Charente and Charente-Maritime departments. The production of Cognac is governed by strict regulations that dictate every stage, from grape growing to aging. The base wine is made primarily from Ugni Blanc grapes (known as Trebbiano in Italy), a variety chosen for its high acidity and low alcohol, which makes it ideal for distillation. The wine is double-distilled in traditional copper pot stills (alambics charentais) during the winter months following harvest, a process that concentrates flavors and aromas. The resulting clear spirit, called eau-de-vie, enters French oak barrels where it will spend years, decades, or even a century maturing. The barrels are made from oak sourced from the Limousin and Troncais forests, and the slow extraction of tannins, vanillin, and other compounds from the wood gives Cognac its amber color, complexity, and smoothness. During aging, a portion of the spirit evaporates through the barrel — romantically called the 'part des anges' (angel's share). The black fungus (Baudoinia compniacensis) that grows on buildings near Cognac cellars feeds on these ethanol vapors, a visible testament to the evaporation. Cognac is classified by minimum aging: VS (Very Special, minimum 2 years), VSOP (Very Superior Old Pale, minimum 4 years), and XO (Extra Old, minimum 10 years since 2018). The four great Cognac houses — Hennessy, Remy Martin, Martell, and Courvoisier — account for the majority of production, but smaller houses like Delamain, Frapin, and Pierre Ferrand produce exceptional artisanal Cognacs. The six crus (growing zones) of Cognac, from Grande Champagne (the finest) to Bois Ordinaires, produce eaux-de-vie with distinctly different characters based on their chalky or sandy soils.",
+  "detailed_ingredients": [
+    {
+      "name": "Ugni Blanc (Trebbiano)",
+      "purpose": "The primary grape variety (98% of production), valued for high acidity and neutral character that allow terroir and distillation to shine",
+      "substitutes": ["Colombard and Folle Blanche (traditional but now rare)"]
+    },
+    {
+      "name": "Copper Pot Still (Alambic Charentais)",
+      "purpose": "Traditional double distillation in copper stills of no more than 25 hectoliters capacity, extracting and concentrating aromatic compounds",
+      "substitutes": ["No alternatives permitted for AOC Cognac"]
+    },
+    {
+      "name": "Limousin Oak Barrels",
+      "purpose": "Wide-grained oak from the Limousin forest that imparts vanilla, spice, and tannin during the long aging process",
+      "substitutes": ["Troncais oak (tighter grain, more subtle extraction)"]
+    }
+  ],
+  "cultural_significance": {
+    "origin_story": "Dutch traders in the 16th century began distilling Charente wines for transport, creating 'brandewijn' (burnt wine, origin of 'brandy'). By the 17th century, the double distillation method and barrel aging had evolved into Cognac as we know it. The founding of Martell (1715), Remy Martin (1724), Hennessy (1765), and Courvoisier (1809) established the great houses. Cognac became the spirit of European aristocracy and later a global luxury symbol.",
+    "cultural_importance": "Cognac represents the pinnacle of French distillation craft and is one of France's most valuable agricultural exports, with over 98% of production shipped abroad. The spirit has been embraced worldwide — it is deeply popular in the United States, China, and across Africa. In France, it remains the classic after-dinner digestif, served in a tulip glass or snifter to concentrate its complex aromas.",
+    "traditional_occasions": [
+      "After-dinner digestif",
+      "Cigar pairing",
+      "Business celebrations",
+      "Cocktail base (Sidecar, Sazerac, French 75 with Cognac)",
+      "Cooking (flambeing, sauces)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "VS (Very Special)",
+      "description": "Minimum 2 years in oak, youthful and vibrant with fresh fruit and floral notes, often used in cocktails"
+    },
+    {
+      "name": "VSOP (Very Superior Old Pale)",
+      "description": "Minimum 4 years aging, balanced with vanilla, dried fruit, and subtle oak, excellent for sipping or mixing"
+    },
+    {
+      "name": "XO (Extra Old)",
+      "description": "Minimum 10 years aging, rich and complex with rancio, dried fruit, chocolate, and spice notes"
+    },
+    {
+      "name": "Grande Champagne",
+      "description": "Cognac made exclusively from grapes grown in the Grande Champagne cru, the finest terroir, prized for elegance and aging potential"
+    },
+    {
+      "name": "Fine Champagne",
+      "description": "A blend of Grande Champagne and Petite Champagne eaux-de-vie, with at least 50% from Grande Champagne"
+    }
+  ],
+  "where_to_find": {
+    "best_restaurants": [
+      "Maison Hennessy (Cognac) — historic tasting rooms and cellar tours",
+      "Les Foudres at Chateau de Cognac (Cognac) — Baron Otard's medieval fortress with tasting experiences",
+      "Restaurant Le Coq d'Or (Jarnac) — regional cuisine with extensive Cognac selection"
+    ],
+    "street_food_areas": [
+      "Town of Cognac — walking distance between major houses (Hennessy, Martell, Otard, Camus)",
+      "Jarnac — birthplace of Courvoisier and Delamain",
+      "Cognac Blues Passions festival (July) — music and Cognac"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 5-10 (glass of VS or VSOP at a local bar)",
+      "restaurant": "EUR 10-25 (glass of XO at a restaurant)",
+      "upscale": "EUR 40-200+ (bottle of XO or premium vintage Cognac)"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "nouvelle-aquitaine",
+  "name": { "en": "Nouvelle-Aquitaine" },
+  "image": "/images/regions/nouvelle-aquitaine.webp",
+  "description": { "en": "France's largest region stretches from the world-famous vineyards of Bordeaux to the surf beaches of Biarritz, the prehistoric caves of the Dordogne, and the volcanic peaks of the Limousin. Nouvelle-Aquitaine is a paradise for food and wine lovers — Bordeaux wines, Perigord truffles, Arcachon oysters, Basque cuisine, and Cognac brandy all originate here." },
+  "overview": "Nouvelle-Aquitaine, formed in 2016 by merging Aquitaine, Limousin, and Poitou-Charentes, is the largest region in metropolitan France covering 84,000 square kilometers. Its diversity is extraordinary: the Bordeaux wine region produces some of the world's most prestigious wines across appellations including Saint-Emilion, Pauillac, Margaux, and Pomerol. The Dordogne (Perigord) is one of France's richest areas for prehistory (the Lascaux cave paintings), medieval castles, and gastronomy (foie gras, truffles, walnuts). The Atlantic coast stretches from the Ile de Re and La Rochelle to the vast beaches of the Landes and the surf capital of Biarritz. The Basque Country along the Spanish border has its own language, architecture, and culinary traditions. Cognac, north of Bordeaux, produces the world's most famous brandy. The Dune of Pilat, at 110 meters the tallest sand dune in Europe, rises dramatically from the pine forests of the Arcachon Bay.",
+  "highlights": [
+    "Bordeaux wine country — Saint-Emilion, Medoc, Pomerol, Sauternes",
+    "Dordogne — prehistoric caves, medieval villages, foie gras, and truffles",
+    "Biarritz & Basque Country — surf culture, pintxos, and Pyrenees foothills",
+    "Dune of Pilat — Europe's tallest sand dune overlooking the Atlantic",
+    "La Rochelle & Ile de Re — charming port city and island cycling",
+    "Cognac — distilleries and brandy tastings",
+    "Arcachon Bay — oyster farms and seaside villages",
+    "Lascaux Cave — world-famous prehistoric paintings (replica cave open to visitors)"
+  ],
+  "cities": ["bordeaux"],
+  "bestTimeToVisit": "May to October — Summer is ideal for the Atlantic coast and surfing. The Bordeaux grape harvest in September-October is magical. Spring offers wildflowers and green vineyards. Winter is mild on the coast but quiet, with truffle season in the Perigord.",
+  "topExperiences": [
+    { "title": "Saint-Emilion Wine Tasting", "description": "The medieval hilltop village of Saint-Emilion, a UNESCO World Heritage Site, is surrounded by some of Bordeaux's most prestigious vineyards. Walk the cobblestone streets, explore the monolithic underground church, and taste Grand Cru Classe wines at family-run chateaux." },
+    { "title": "Surfing in Biarritz", "description": "Biarritz has been the surf capital of Europe since the 1950s. The Grande Plage and Cote des Basques offer waves for all levels. Surf schools line the beachfront, and the annual Biarritz Surf Festival draws top international riders." },
+    { "title": "Climbing the Dune of Pilat", "description": "At 110 meters high and 2.7 km long, the Dune of Pilat is Europe's largest sand dune. Climb to the summit for views of the Atlantic, Arcachon Bay, and the Landes pine forest. Paragliding is available from the top." }
+  ],
+  "gettingThere": {
+    "byAir": "Bordeaux-Merignac (BOD) is the main international airport. Biarritz-Pays Basque (BIQ) and La Rochelle (LRH) also have domestic and European flights.",
+    "byTrain": "TGV from Paris to Bordeaux in 2 hours, to La Rochelle in 2h45. Regional trains connect to Biarritz, Arcachon, Perigueux, and Cognac.",
+    "byBus": "FlixBus and regional buses connect major cities. Buses from Bordeaux to San Sebastian cross into the Spanish Basque Country."
+  },
+  "gettingAround": "A car is essential for exploring the wine regions, Dordogne, and Basque Country. The Atlantic coast has good train connections between Bordeaux, Arcachon, and Biarritz. Cycling is popular on the Ile de Re (flat island with excellent bike paths) and through the Medoc vineyards. The Velodyssee cycle route follows the Atlantic coast.",
+  "accommodation": {
+    "budget": "Campgrounds along the Atlantic coast from EUR 15-30/night. Hostels in Bordeaux and Biarritz from EUR 22-35/night.",
+    "midRange": "Chambres d'hotes in the Dordogne EUR 70-130/night. Hotels in Bordeaux EUR 80-180/night.",
+    "luxury": "Chateau hotels in the wine regions EUR 200-1,000+/night. Grand Hotel du Palais in Biarritz from EUR 300/night."
+  },
+  "food": {
+    "description": "Nouvelle-Aquitaine is one of France's greatest gastronomic regions, with distinctive sub-regional traditions from the Perigord to the Basque Country.",
+    "specialties": [
+      "Bordeaux wine — Medoc, Saint-Emilion, Pomerol, Sauternes",
+      "Foie gras — the Perigord tradition of fattened duck or goose liver",
+      "Arcachon oysters — briny Atlantic oysters farmed in the bay",
+      "Caneles de Bordeaux — caramelized rum-vanilla custard cakes",
+      "Pintxos in the Basque Country — the Basque equivalent of tapas",
+      "Perigord truffles — black diamonds of the Dordogne (winter season)",
+      "Cognac — brandy distilled from Ugni Blanc grapes in the Charentes"
+    ]
+  },
+  "tips": [
+    "Bordeaux wine chateaux often require appointments for visits — book at least a week ahead for prestigious estates.",
+    "The Dordogne is best explored by car, ideally over several days. The river valleys around Sarlat-la-Caneda are especially beautiful.",
+    "Arcachon oysters are cheapest bought directly from oyster farmers (cabanes) around the bay — bring your own bread, butter, and white wine.",
+    "Biarritz surf conditions are best from September to November, but summer waves are gentler and better for beginners.",
+    "The Lascaux cave paintings are viewable only in the stunning replica (Lascaux IV) — the original has been closed to the public since 1963 to prevent deterioration."
+  ],
+  "safetyNotes": "Very safe region overall. The Atlantic coast has strong currents and waves — swim only at lifeguarded beaches (signaled by blue flags). Rip currents are a genuine hazard on the Landes beaches. Hiking in the Pyrenees requires proper equipment and weather awareness.",
+  "tags": ["wine", "surf", "gastronomy", "prehistory", "beaches", "basque-country", "nature"],
+  "seo": {
+    "metaTitle": "Nouvelle-Aquitaine Travel Guide 2026 — Bordeaux, Biarritz, Dordogne & More",
+    "metaDescription": "Complete guide to Nouvelle-Aquitaine. Explore Bordeaux wines, Biarritz surf, Dordogne caves, and Basque cuisine. Tips on wine tasting, Atlantic beaches, and the best time to visit southwest France."
+  },
+  "updatedAt": "2026-03-01"
+}

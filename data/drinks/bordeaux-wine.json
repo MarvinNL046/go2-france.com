@@ -1,0 +1,107 @@
+{
+  "id": 1,
+  "slug": "bordeaux-wine",
+  "name": {
+    "en": "Bordeaux Wine",
+    "fr": "Vin de Bordeaux"
+  },
+  "category": "wine",
+  "region": "nouvelle-aquitaine",
+  "description": {
+    "en": "World-renowned red wine from the Bordeaux region, known for its complex blends of Cabernet Sauvignon, Merlot, and Cabernet Franc"
+  },
+  "ingredients": [
+    "Cabernet Sauvignon grapes",
+    "Merlot grapes",
+    "Cabernet Franc grapes",
+    "Petit Verdot grapes",
+    "Malbec grapes"
+  ],
+  "image": "/images/drinks/bordeaux-wine.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "12-24 months aging (minimum)",
+  "difficulty": "expert",
+  "price_range": "mid-range",
+  "seo": {
+    "metaTitle": "Bordeaux Wine | France's Premier Red Wine Region Guide",
+    "metaDescription": "Explore Bordeaux wine — France's most celebrated wine region producing world-class reds from Cabernet Sauvignon, Merlot, and Cabernet Franc blends."
+  },
+  "tags": [
+    "french-drinks",
+    "france",
+    "wine",
+    "bordeaux",
+    "red-wine",
+    "nouvelle-aquitaine",
+    "vineyard",
+    "appellation"
+  ],
+  "enhanced_description": "Bordeaux wine is arguably the most prestigious and influential wine in the world, produced in the Bordeaux region of southwestern France along the banks of the Garonne, Dordogne, and Gironde rivers. The region encompasses over 111,000 hectares of vineyards, making it one of the largest fine wine-producing areas on Earth. Bordeaux wines are classified under a complex system of appellations d'origine controlee (AOC), with the most famous classification dating to 1855, when the top chateaux of the Medoc and Sauternes were ranked into five growths (crus) for the Paris Exposition. The Left Bank (Medoc, Graves, Pessac-Leognan) is dominated by Cabernet Sauvignon, producing structured, tannic wines built for aging, while the Right Bank (Saint-Emilion, Pomerol) favors Merlot, yielding softer, more approachable wines with plush fruit character. A typical Bordeaux blend combines multiple grape varieties, with each contributing distinct qualities: Cabernet Sauvignon provides structure and blackcurrant notes, Merlot adds body and roundness, Cabernet Franc contributes aromatic complexity and freshness, and small amounts of Petit Verdot and Malbec may add color and spice. The region also produces excellent dry whites from Sauvignon Blanc and Semillon, as well as the legendary sweet wines of Sauternes and Barsac. The concept of terroir is paramount in Bordeaux, where the gravel, clay, and limestone soils of different appellations impart unique characteristics to the wines. En primeur (wine futures) sales each spring are a major event in the global wine market, with critics and merchants tasting barrel samples to assess each new vintage.",
+  "detailed_ingredients": [
+    {
+      "name": "Cabernet Sauvignon",
+      "purpose": "Primary grape of the Left Bank, providing structure, tannins, and blackcurrant flavors",
+      "substitutes": ["Cabernet Franc as a lighter alternative"]
+    },
+    {
+      "name": "Merlot",
+      "purpose": "Dominant grape of the Right Bank, contributing softness, plum fruit, and body",
+      "substitutes": ["Malbec in some traditional blends"]
+    },
+    {
+      "name": "Cabernet Franc",
+      "purpose": "Adds aromatic complexity with notes of violets, herbs, and raspberry",
+      "substitutes": ["Petit Verdot for color and spice"]
+    },
+    {
+      "name": "Petit Verdot",
+      "purpose": "Used in small quantities for deep color, floral aromatics, and tannic backbone",
+      "substitutes": ["Malbec in some blends"]
+    }
+  ],
+  "cultural_significance": {
+    "origin_story": "Winemaking in Bordeaux dates back to Roman times, but the region's international reputation was cemented during English rule in the 12th-15th centuries, when 'claret' became the drink of the English court. The 1855 Classification, created for the Paris World Exhibition, established the hierarchy of Grands Crus Classes that still defines Bordeaux prestige today.",
+    "cultural_importance": "Bordeaux wine is deeply woven into French identity, gastronomy, and economy. The region's chateaux are architectural treasures, and wine culture shapes everything from local cuisine to social rituals. A bottle of Bordeaux is the standard gift when invited to a French dinner party.",
+    "traditional_occasions": [
+      "Formal dinner parties",
+      "Holiday celebrations",
+      "Business entertaining",
+      "Wine harvest festivals (Ban des Vendanges)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Left Bank Bordeaux (Medoc, Margaux, Pauillac, Saint-Julien)",
+      "description": "Cabernet Sauvignon-dominant blends with firm tannins, cassis, cedar, and exceptional aging potential"
+    },
+    {
+      "name": "Right Bank Bordeaux (Saint-Emilion, Pomerol)",
+      "description": "Merlot-dominant blends that are rounder and more approachable, with plum, truffle, and chocolate notes"
+    },
+    {
+      "name": "Bordeaux Blanc",
+      "description": "Dry white wines from Sauvignon Blanc and Semillon, ranging from crisp to richly oaked"
+    },
+    {
+      "name": "Sauternes",
+      "description": "Legendary sweet dessert wine made from botrytis-affected Semillon, Sauvignon Blanc, and Muscadelle grapes"
+    }
+  ],
+  "where_to_find": {
+    "best_restaurants": [
+      "Le Chapon Fin (Bordeaux) — historic gastronomic restaurant with legendary wine cellar",
+      "Le Gabriel (Bordeaux) — two-Michelin-star dining in Place de la Bourse",
+      "La Grande Maison de Bernard Magrez (Bordeaux) — Pierre Gagnaire restaurant at a grand cru chateau"
+    ],
+    "street_food_areas": [
+      "Marche des Capucins (Bordeaux) — the city's beloved covered market",
+      "Les Halles de Bacalan — modern food hall by the Cite du Vin",
+      "Wine bars in the Saint-Pierre quarter of old Bordeaux"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 4-8 (glass of Bordeaux AOC at a wine bar)",
+      "restaurant": "EUR 8-20 (glass of classified growth at a restaurant)",
+      "upscale": "EUR 30-500+ (bottle of Grand Cru Classe)"
+    }
+  }
+}

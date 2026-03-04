@@ -1,0 +1,61 @@
+{
+  "slug": "occitanie",
+  "name": { "en": "Occitanie" },
+  "image": "/images/regions/occitanie.webp",
+  "description": { "en": "Stretching from the Pyrenees mountains to the Mediterranean coast, Occitanie is a land of Cathar castles, the Canal du Midi, the fortified city of Carcassonne, vibrant Toulouse, and the sun-baked vineyards of the Languedoc. This vast southern region offers spectacular landscapes, rich history, affordable wines, and a slower, more authentic pace of life than the more touristed regions to the east." },
+  "overview": "Occitanie, formed in 2016 by merging Languedoc-Roussillon and Midi-Pyrenees, is the second-largest region in France. Its history is marked by the Cathar crusade of the 13th century, which devastated the region but left behind an extraordinary heritage of hilltop fortresses — Carcassonne, Montsegur, Queribus, and Peyrepertuse. The Canal du Midi, built by Pierre-Paul Riquet between 1666 and 1681, is a UNESCO World Heritage Site that winds 240 km from Toulouse to the Mediterranean through a tunnel of plane trees. Toulouse, the vibrant capital, is France's aerospace hub. The Languedoc produces more wine than any other region in France — excellent value compared to Bordeaux and Burgundy. The Pyrenees mountains along the Spanish border offer skiing in winter and hiking in summer, with the Cirque de Gavarnie being one of Europe's most dramatic natural amphitheaters. The Mediterranean coast around Montpellier, Sete, and Collioure offers beaches without the Riviera prices.",
+  "highlights": [
+    "Carcassonne — the most complete medieval walled city in Europe",
+    "Canal du Midi — UNESCO-listed canal for boating and cycling",
+    "Toulouse — La Ville Rose and aerospace capital",
+    "Pyrenees mountains — hiking, skiing, and thermal spas",
+    "Cathar castles — dramatic hilltop fortresses",
+    "Montpellier — youthful Mediterranean city",
+    "Collioure — the colorful Catalan fishing village that inspired Matisse",
+    "Languedoc vineyards — France's best-value wines"
+  ],
+  "cities": ["toulouse", "montpellier"],
+  "bestTimeToVisit": "April to June, September to October — Spring and autumn offer ideal hiking weather in the Pyrenees and comfortable temperatures for sightseeing. Summer is hot in the lowlands but perfect for the mountains and coast. Winter brings skiing in the Pyrenees.",
+  "topExperiences": [
+    { "title": "Canal du Midi Boat Trip", "description": "Rent a canal boat (no license needed) and cruise through the tree-lined Canal du Midi between Toulouse and Carcassonne, passing through locks, over aqueducts, and alongside vineyards. Houseboats accommodate 2-12 people and move at a leisurely 6 km/h." },
+    { "title": "Carcassonne Medieval Citadel", "description": "Walk the double-walled fortifications of the Cite de Carcassonne, the best-preserved medieval walled city in Europe. The 52 towers, the Chateau Comtal, and the Basilique Saint-Nazaire transport visitors to the 12th century. Best visited early morning or late afternoon to avoid crowds." },
+    { "title": "Cirque de Gavarnie Hike", "description": "The Cirque de Gavarnie in the Pyrenees is a UNESCO-listed natural amphitheater with 1,500-meter-high walls and the Grande Cascade waterfall (423 m, the tallest in France). An easy 2-hour hike from the village reaches the base of the cirque." }
+  ],
+  "gettingThere": {
+    "byAir": "Toulouse-Blagnac (TLS) and Montpellier-Mediterranee (MPL) are the main airports with domestic and European connections. Carcassonne (CCF) and Perpignan (PGF) have seasonal budget flights.",
+    "byTrain": "TGV from Paris to Toulouse in 4h15, to Montpellier in 3h20. Regional trains connect Carcassonne, Narbonne, Perpignan, and Lourdes. International trains to Barcelona via Perpignan.",
+    "byBus": "FlixBus connects major cities. Regional liO buses serve smaller towns and rural areas."
+  },
+  "gettingAround": "A car is highly recommended for the Cathar castles, Pyrenees, and rural Languedoc. The Canal du Midi is perfect for cycling or houseboat travel. Regional trains connect Toulouse, Carcassonne, Narbonne, Montpellier, and Perpignan along the main line. Mountain roads in the Pyrenees can be closed by snow from November to April.",
+  "accommodation": {
+    "budget": "Gites ruraux (country cottages) from EUR 40-80/night for self-catering. Campgrounds from EUR 12-25/night. Hostels in Toulouse from EUR 18-28/night.",
+    "midRange": "Chambres d'hotes EUR 60-120/night. Hotels in Toulouse and Montpellier EUR 70-150/night.",
+    "luxury": "Chateau hotels in the Cathar country EUR 150-500/night. Thermal spa hotels in the Pyrenees EUR 120-300/night."
+  },
+  "food": {
+    "description": "Occitanie's cuisine is hearty and sun-drenched, reflecting both Mediterranean and mountain traditions.",
+    "specialties": [
+      "Cassoulet — the legendary bean, sausage, and duck confit stew from Toulouse, Carcassonne, and Castelnaudary",
+      "Duck confit (confit de canard) — the southwest's most iconic dish",
+      "Roquefort cheese — aged in natural caves near Millau",
+      "Fougasse — flat bread with cracklings, olives, or anchovies",
+      "Croustade aux pommes — flaky Gascon apple pastry",
+      "Languedoc wines — Corbieres, Minervois, Fitou, Pic Saint-Loup",
+      "Blanquette de Limoux — the world's oldest sparkling wine, predating Champagne"
+    ]
+  },
+  "tips": [
+    "Carcassonne is best visited as a day trip or overnight — it gets extremely crowded with bus tours from 10am to 4pm in summer.",
+    "The Canal du Midi is most beautiful in summer when the plane trees form a green tunnel. Autumn also offers lovely golden foliage.",
+    "Languedoc wines offer extraordinary value — wines that would cost EUR 30-40 from other regions sell for EUR 8-15 here.",
+    "Cathar castle visits often require steep hikes — bring water and sturdy shoes. Peyrepertuse and Queribus are the most dramatic.",
+    "The Pyrenees are less crowded and more affordable than the Alps for both skiing (winter) and hiking (summer)."
+  ],
+  "safetyNotes": "Very safe region. Mountain hiking in the Pyrenees requires proper preparation — weather can change rapidly at altitude. Summer heat in the lowlands (35-40°C) requires sun protection and hydration. Rivers in the Ardeche and Tarn gorges have strong currents after rain.",
+  "tags": ["medieval", "canal-du-midi", "pyrenees", "wine", "cathar-castles", "beaches", "hiking"],
+  "seo": {
+    "metaTitle": "Occitanie Travel Guide 2026 — Carcassonne, Canal du Midi & the Pyrenees",
+    "metaDescription": "Complete guide to Occitanie in southern France. Explore Carcassonne, the Canal du Midi, Cathar castles, Toulouse, and the Pyrenees. Tips on wine, hiking, and the best time to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

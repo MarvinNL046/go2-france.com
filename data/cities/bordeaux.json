@@ -1,0 +1,88 @@
+{
+  "slug": "bordeaux",
+  "name": {
+    "en": "Bordeaux"
+  },
+  "image": "/images/cities/bordeaux.webp",
+  "region": "Nouvelle-Aquitaine",
+  "highlights": [
+    "World-Famous Wine Region",
+    "Place de la Bourse & Miroir d'Eau",
+    "Cite du Vin Museum",
+    "UNESCO-Listed City Center"
+  ],
+  "description": {
+    "en": "The wine capital of the world, Bordeaux is an elegant 18th-century port city on the Garonne River whose limestone facades glow golden in the afternoon sun. Its UNESCO-listed historic center, the innovative Cite du Vin museum, the spectacular Miroir d'Eau reflecting pool, and proximity to some of the most prestigious vineyards on earth — Saint-Emilion, Medoc, Pomerol — make Bordeaux an essential destination for wine lovers and architecture admirers alike."
+  },
+  "overview": "Bordeaux, with a population of 260,000 (800,000 in the metropolitan area), has been a center of the wine trade since Roman times and remains the most famous wine-producing region in the world. The city's 18th-century architectural ensemble — considered one of the finest in Europe — earned UNESCO World Heritage status in 2007, covering nearly half the city. The Place de la Bourse, reflected in the Miroir d'Eau (the world's largest reflecting pool), is one of France's most photographed sites. The Cite du Vin, a spectacular modern museum opened in 2016, offers an immersive journey through the world of wine. Bordeaux's position on the Garonne River, the TGV connection to Paris in just 2 hours (since 2017), and the surrounding wine appellations — from the medieval village of Saint-Emilion to the grand chateaux of the Medoc — make it a premier destination for culture, gastronomy, and wine tourism.",
+  "neighborhoods": [
+    {
+      "name": "Saint-Pierre & Vieux Bordeaux",
+      "description": "The medieval heart of Bordeaux, the Saint-Pierre quarter is a charming maze of narrow pedestrian streets lined with restaurants, wine bars, and antique shops. The Place du Parlement with its ornate fountain, the Place Saint-Pierre, and the surrounding streets are the most atmospheric dining areas in the city.",
+      "highlights": [
+        "Place du Parlement",
+        "Place Saint-Pierre",
+        "Wine bars and restaurants",
+        "Medieval architecture"
+      ]
+    },
+    {
+      "name": "Chartrons",
+      "description": "The historic wine merchants' quarter along the river north of the city center, Chartrons has been transformed into Bordeaux's trendiest neighborhood with antique dealers, contemporary art galleries, organic wine bars, and the Sunday morning riverside market. The Cite du Vin stands at the northern end of the quays.",
+      "highlights": [
+        "Cite du Vin",
+        "Sunday quayside market",
+        "Antique dealers on Rue Notre-Dame",
+        "Contemporary art galleries"
+      ]
+    },
+    {
+      "name": "Saint-Michel",
+      "description": "Bordeaux's most multicultural and authentic quarter surrounds the Basilique Saint-Michel with its 114-meter freestanding bell tower (the tallest in southern France). The Monday morning flea market on Place Saint-Michel and the surrounding North African and Portuguese restaurants give this neighborhood a raw energy that contrasts with the polish of the city center.",
+      "highlights": [
+        "Basilique Saint-Michel",
+        "Monday flea market",
+        "Multicultural restaurants",
+        "Marche des Capucins"
+      ]
+    },
+    {
+      "name": "Quais de Bordeaux (Riverfront)",
+      "description": "The 4.5 km of renovated quays along the Garonne have transformed Bordeaux's relationship with its river. The Miroir d'Eau in front of Place de la Bourse is the highlight — at night the shallow pool creates perfect reflections of the illuminated facades. Joggers, cyclists, and strollers share the wide riverfront promenades.",
+      "highlights": [
+        "Miroir d'Eau",
+        "Place de la Bourse",
+        "Pont de Pierre (stone bridge)",
+        "Riverside cycling and walking"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Bordeaux-Merignac Airport (BOD) is 12 km west of the city center with domestic and European flights. Bus 1 connects to the city center in 45 minutes. A direct tram-bus shuttle runs to Gare Saint-Jean. Taxis cost approximately EUR 30-40.",
+    "byTrain": "Gare Saint-Jean is connected to Paris Montparnasse by TGV in just 2 hours (since July 2017). TGV also connects to Toulouse (2h10), Lyon (4h30), and Marseille (4h20). The high-speed connection to Paris has dramatically boosted Bordeaux's tourism and weekend visitor numbers.",
+    "byBus": "FlixBus and BlaBlaCar Bus serve Bordeaux from Paris (from EUR 15), Toulouse, and Spanish cities including San Sebastian and Barcelona."
+  },
+  "gettingAround": "Bordeaux has an excellent tram system with 4 lines covering the city center and suburbs. A single ticket costs EUR 1.70 and is valid for 1 hour. The V3 bikeshare has 1,800 bikes at 174 stations. The city center is very walkable and largely pedestrianized. For wine region day trips, car rental is the most flexible option, though organized tours from the city are widely available.",
+  "bestTimeToVisit": {
+    "best": "May to October",
+    "description": "Bordeaux is at its best from late spring through autumn when the weather is warm, the terraces are open, and the vineyards are green or golden. The grape harvest (vendanges) in September-October is a magical time to visit the wine regions. The biennial Bordeaux Wine Festival (Fete du Vin) in late June draws 500,000 visitors.",
+    "seasons": {
+      "spring": "April-June: 12-24°C (54-75°F). Vines budding and flowering, outdoor terraces opening, pleasant weather for cycling.",
+      "summer": "July-August: 18-30°C (64-86°F). Warm and sunny, lively outdoor culture. Can be hot. Fete du Vin in even years.",
+      "autumn": "September-October: 14-22°C (57-72°F). Grape harvest season. Golden light over vineyards. Ideal for wine tours.",
+      "winter": "November-March: 4-12°C (39-54°F). Mild Atlantic winters. Fewer tourists, lower prices. Wine chateaux still open for visits."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 45-75/day",
+    "midRange": "EUR 120-250/day",
+    "luxury": "EUR 300-1000+/day",
+    "details": "Bordeaux is moderately priced. Hostel dorms from EUR 22-35/night. Budget hotels EUR 60-100/night. Mid-range hotels EUR 100-200/night. A full wine tasting at a chateau costs EUR 10-25. Lunch at a bistro EUR 15-22. The Bordeaux City Pass (EUR 33/24h) covers museums, wine tastings, and transit."
+  },
+  "tags": ["wine", "architecture", "gastronomy", "unesco", "culture", "history", "cycling"],
+  "seo": {
+    "metaTitle": "Bordeaux Travel Guide 2026 — Wine Capital of the World",
+    "metaDescription": "Complete guide to visiting Bordeaux, France. Explore world-famous wine chateaux, the UNESCO-listed city center, Cite du Vin, and the best restaurants. Tips on wine tours, transport, and the best time to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

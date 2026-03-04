@@ -1,0 +1,88 @@
+{
+  "slug": "strasbourg",
+  "name": {
+    "en": "Strasbourg"
+  },
+  "image": "/images/cities/strasbourg.webp",
+  "region": "Alsace-Lorraine",
+  "highlights": [
+    "Strasbourg Cathedral",
+    "Petite France Quarter",
+    "European Parliament",
+    "Christmas Market Capital"
+  ],
+  "description": {
+    "en": "Straddling the Franco-German border, Strasbourg is a city of enchanting contradictions — half-timbered Alsatian houses line canals in the fairy-tale Petite France quarter while the soaring Gothic cathedral dominates the skyline and the European Parliament symbolizes Franco-German reconciliation. Famous for its Christmas market (the oldest in France, dating to 1570), its flammekueche and choucroute cuisine, and its remarkable blend of French and Germanic culture, Strasbourg is unlike any other city in France."
+  },
+  "overview": "Strasbourg is the capital of the Alsace region and the seat of several European institutions including the European Parliament and the European Court of Human Rights. With a population of 287,000 (over 500,000 in the metropolitan area), it is the largest city in eastern France. The Grande Ile (main island), the historic center surrounded by the Ill River, was the first city center in France to be classified as a UNESCO World Heritage Site in 1988. The Cathedrale Notre-Dame de Strasbourg, completed in 1439, was the tallest building in the world for over 200 years and remains one of the finest examples of Gothic architecture in existence. Having changed hands between France and Germany four times between 1681 and 1944, Strasbourg has developed a unique cultural identity that blends the best of both traditions — evident in its cuisine (choucroute, flammekueche, kougelhopf), its wines (Riesling, Gewurztraminer, Pinot Gris from the Alsace Wine Route), and its architecture. The Christkindelsmärik (Christmas market), established in 1570, transforms the city center into a magical winter wonderland each December.",
+  "neighborhoods": [
+    {
+      "name": "Grande Ile & Cathedral Quarter",
+      "description": "The UNESCO-listed island at the heart of Strasbourg, dominated by the magnificent cathedral with its single spire, astronomical clock, and rose-colored sandstone facade. The surrounding streets are lined with medieval and Renaissance buildings, independent shops, winstubs (traditional Alsatian wine taverns), and the Place Kleber, the city's central square.",
+      "highlights": [
+        "Cathedrale Notre-Dame",
+        "Astronomical clock",
+        "Place Kleber",
+        "Maison Kammerzell"
+      ]
+    },
+    {
+      "name": "Petite France",
+      "description": "The most photographed quarter in Strasbourg, Petite France is a fairy-tale ensemble of half-timbered houses, flower-decked bridges, and quiet canals that was once the tanners' and millers' district. The Ponts Couverts (covered bridges) and the Barrage Vauban fortification with its panoramic terrace bookend the quarter.",
+      "highlights": [
+        "Half-timbered canal houses",
+        "Ponts Couverts",
+        "Barrage Vauban terrace",
+        "Riverside restaurants"
+      ]
+    },
+    {
+      "name": "European Quarter (Quartier Europeen)",
+      "description": "Northeast of the old town, the European Quarter houses the European Parliament, the Council of Europe, and the European Court of Human Rights in a cluster of modernist buildings along the Ill River. Guided tours of the Parliament hemicycle are available when not in session. The Parc de l'Orangerie nearby is the city's finest park.",
+      "highlights": [
+        "European Parliament",
+        "Parc de l'Orangerie",
+        "Council of Europe",
+        "Modern architecture"
+      ]
+    },
+    {
+      "name": "Neustadt (German Imperial Quarter)",
+      "description": "Built during the German annexation of Alsace (1871-1918), the Neustadt is a remarkable ensemble of Wilhelmine-era architecture — grand boulevards, ornate buildings mixing Art Nouveau, Neo-Renaissance, and Neo-Gothic styles. Added to the UNESCO World Heritage Site in 2017, it represents a unique chapter in Franco-German history and contains the stunning Palais du Rhin.",
+      "highlights": [
+        "Palais du Rhin",
+        "Place de la Republique",
+        "Wilhelmine architecture",
+        "University campus"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Strasbourg Airport (SXB) is 10 km southwest of the city with limited European flights. Many visitors fly into Basel-Mulhouse-Freiburg Airport (BSL), 130 km south, which has more international connections. A shuttle bus connects BSL to Strasbourg.",
+    "byTrain": "Strasbourg is a major TGV hub. Paris Est to Strasbourg takes 1h50 by TGV. Connections to Lyon (4h40), Marseille (5h30), Basel (1h30), Frankfurt (1h50), and Stuttgart (1h20). The station features a dramatic glass dome over the original 19th-century facade.",
+    "byBus": "FlixBus connects Strasbourg to Paris, Lyon, Frankfurt, and other European cities at budget prices."
+  },
+  "gettingAround": "Strasbourg has an excellent tram system with 6 lines and extensive bike infrastructure — it is one of France's most bike-friendly cities with 600 km of cycling paths. CTS (public transit) single ticket costs EUR 1.80. Velhop bikeshare has 5,000 bikes available. The city center is compact and entirely walkable. Batorama boat tours on the canals offer a relaxing way to see the old town from the water.",
+  "bestTimeToVisit": {
+    "best": "May to September for warm weather, Late November to December for Christmas markets",
+    "description": "Strasbourg has a continental climate with cold winters and warm summers. The Christmas market season (late November through December 24) is the city's most magical and most crowded time. Spring and summer offer pleasant weather for exploring the old town and the Alsace Wine Route.",
+    "seasons": {
+      "spring": "April-June: 8-22°C (46-72°F). Flowers along the canals, outdoor seating at winstubs, vineyard walks on the Route des Vins.",
+      "summer": "July-August: 16-28°C (61-82°F). Warm and sunny, occasional rain. Outdoor concerts and festivals. Wine region at its greenest.",
+      "autumn": "September-November: 6-18°C (43-64°F). Grape harvest on the Alsace Wine Route. Beautiful autumn colors. November brings the first Christmas market preparations.",
+      "winter": "December-February: -1 to 6°C (30-43°F). Cold but magical. The Christkindelsmärik (Christmas market) is the main draw. Mulled wine, bredele cookies, and festive atmosphere."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 45-70/day",
+    "midRange": "EUR 100-220/day",
+    "luxury": "EUR 250-700+/day",
+    "details": "Strasbourg is moderately priced except during Christmas market season when hotels are expensive and booked months ahead. Hostel dorms from EUR 22-30/night. Budget hotels EUR 60-90/night. A flammekueche at a winstub costs EUR 10-14. A tarte flambee and local Riesling dinner EUR 20-30. The Strasbourg Pass (EUR 22.50/3 days) covers major attractions."
+  },
+  "tags": ["christmas-markets", "franco-german", "architecture", "wine", "culture", "unesco", "cycling"],
+  "seo": {
+    "metaTitle": "Strasbourg Travel Guide 2026 — Christmas Markets, Cathedral & Alsatian Charm",
+    "metaDescription": "Complete guide to visiting Strasbourg, France. Explore Petite France, the Gothic cathedral, Christmas markets, and Alsatian cuisine. Tips on the Alsace Wine Route, European Parliament visits, and the best time to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

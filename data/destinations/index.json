@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "eiffel-tower",
+    "name": { "en": "Eiffel Tower" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "landmark",
+    "image": "/images/destinations/eiffel-tower.webp",
+    "description": {
+      "en": "The Eiffel Tower is the most iconic symbol of France, standing 330 meters tall in the heart of Paris on the Champ de Mars. Designed by engineer Gustave Eiffel and completed in 1889 for the World's Fair, this wrought-iron lattice structure was originally intended to be temporary but became a permanent fixture of the Parisian skyline. Visitors can ascend to three observation levels, with the summit offering breathtaking panoramic views of the entire city. At night, the tower sparkles with 20,000 light bulbs every hour on the hour, creating a magical spectacle. The first and second floors house restaurants, including the acclaimed Le Jules Verne. Whether viewed from the Trocadero gardens across the Seine or experienced from its upper platforms, the Eiffel Tower remains an essential stop for every visitor to France."
+    },
+    "highlights": [
+      { "en": "Panoramic views from the summit at 276 meters" },
+      { "en": "Sparkling light show every evening on the hour" },
+      { "en": "Fine dining at Le Jules Verne on the second floor" },
+      { "en": "Champagne bar at the top level" }
+    ],
+    "practical_info": {
+      "hours": "9:30 AM - 11:45 PM (mid-June to early September); 9:30 AM - 10:45 PM rest of the year",
+      "admission": "Stairs to 2nd floor: EUR 11.80; Lift to summit: EUR 28.30 (adult prices)",
+      "getting_there": "Metro: Bir-Hakeim (Line 6) or Trocadero (Lines 6, 9); RER C: Champ de Mars-Tour Eiffel",
+      "best_time": "Early morning or late evening to avoid crowds; sunset visits offer the best views"
+    },
+    "tags": ["paris", "landmark", "must-see", "iconic", "romantic"]
+  },
+  {
+    "slug": "louvre-museum",
+    "name": { "en": "Louvre Museum" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "museum",
+    "image": "/images/destinations/louvre-museum.webp",
+    "description": {
+      "en": "The Louvre Museum is the world's largest and most visited art museum, housed in a historic palace on the Right Bank of the Seine in Paris. Originally built as a fortress in the 12th century by King Philip II, the building was transformed into a royal palace and later a public museum during the French Revolution in 1793. The collection spans over 9,000 years of human civilization, containing more than 380,000 objects displayed across 72,735 square meters of gallery space. Among its most celebrated works are Leonardo da Vinci's Mona Lisa, the ancient Greek sculpture Venus de Milo, and the Winged Victory of Samothrace. The iconic glass pyramid entrance, designed by architect I.M. Pei and completed in 1989, has become a symbol of the museum. Plan at least half a day to explore even a fraction of this extraordinary collection."
+    },
+    "highlights": [
+      { "en": "See the Mona Lisa, Venus de Milo, and Winged Victory of Samothrace" },
+      { "en": "Explore the vast Egyptian antiquities collection" },
+      { "en": "Admire the I.M. Pei glass pyramid entrance" },
+      { "en": "Wander through the grand Napoleon III apartments" }
+    ],
+    "practical_info": {
+      "hours": "Wednesday to Monday: 9:00 AM - 6:00 PM (9:00 PM on Fridays); Closed Tuesdays",
+      "admission": "EUR 22 (online booking required); Free for under 18 and EU residents under 26",
+      "getting_there": "Metro: Palais Royal-Musee du Louvre (Lines 1, 7); Bus: 21, 24, 27, 39, 48, 68, 69, 72, 81, 95",
+      "best_time": "Wednesday and Friday evenings are less crowded; avoid weekends and school holidays"
+    },
+    "tags": ["paris", "museum", "art", "must-see", "culture", "history"]
+  },
+  {
+    "slug": "notre-dame",
+    "name": { "en": "Notre-Dame Cathedral" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "religious",
+    "image": "/images/destinations/notre-dame.webp",
+    "description": {
+      "en": "Notre-Dame de Paris is a medieval Catholic cathedral on the Ile de la Cite, widely considered one of the finest examples of French Gothic architecture. Construction began in 1163 under Bishop Maurice de Sully and was largely completed by 1260. The cathedral is renowned for its stunning rose windows, flying buttresses, and gargoyles that have watched over Paris for centuries. The devastating fire of April 2019 destroyed the spire and much of the roof, prompting a massive international restoration effort. The cathedral reopened to the public in December 2024 after five years of meticulous restoration work, with a beautifully restored interior and a reconstructed spire faithful to Viollet-le-Duc's 19th-century design. The cathedral remains a masterpiece of engineering and artistry, with its twin towers rising 69 meters and its interior capable of holding 6,000 worshippers."
+    },
+    "highlights": [
+      { "en": "Admire the three magnificent medieval rose windows" },
+      { "en": "See the beautifully restored interior after the 2019 fire" },
+      { "en": "View the famous gargoyles and chimera gallery" },
+      { "en": "Experience the cathedral's exceptional acoustics during organ recitals" }
+    ],
+    "practical_info": {
+      "hours": "Monday to Sunday: 8:00 AM - 6:45 PM; Extended hours on weekends",
+      "admission": "Free entry to the cathedral; Tower access: EUR 16",
+      "getting_there": "Metro: Cite (Line 4) or Saint-Michel (Line 4, RER B and C)",
+      "best_time": "Early morning for fewer crowds; attend a free organ concert on Sundays at 4:30 PM"
+    },
+    "tags": ["paris", "religious", "gothic", "must-see", "history", "architecture"]
+  },
+  {
+    "slug": "mont-saint-michel",
+    "name": { "en": "Mont-Saint-Michel" },
+    "city": "mont-saint-michel",
+    "region": "normandy",
+    "type": "religious",
+    "image": "/images/destinations/mont-saint-michel.webp",
+    "description": {
+      "en": "Mont-Saint-Michel is a tidal island commune in Normandy, crowned by a stunning medieval abbey that appears to rise dramatically from the sea. This UNESCO World Heritage Site has been a place of pilgrimage since the 8th century, when the Archangel Michael reportedly appeared to the Bishop of Avranches. The abbey church sits at the summit, 80 meters above sea level, connected by a single causeway to the mainland. The surrounding bay experiences some of Europe's most dramatic tides, with water levels varying up to 15 meters between high and low tide. The medieval village clinging to the rocky slopes below the abbey is filled with narrow, winding streets, half-timbered houses, and small museums. The island receives approximately 2.5 million visitors per year, making it one of France's most visited sites outside Paris. The atmosphere is most magical at dawn or dusk when day-trippers have departed."
+    },
+    "highlights": [
+      { "en": "Explore the medieval abbey perched atop the rocky island" },
+      { "en": "Watch the dramatic tidal changes in the surrounding bay" },
+      { "en": "Walk the narrow medieval streets of the village" },
+      { "en": "Try the famous fluffy omelettes at La Mere Poulard" }
+    ],
+    "practical_info": {
+      "hours": "Abbey: 9:30 AM - 6:00 PM (May-Aug until 7:00 PM); Island accessible 24/7",
+      "admission": "Abbey: EUR 13 (adult); Free for under 18 and EU residents under 26",
+      "getting_there": "Free shuttle from mainland parking (2.5 km); TGV to Villedieu-les-Poeles then bus; Day trips from Paris (4 hours)",
+      "best_time": "Early morning or late afternoon to avoid peak crowds; check tide schedules for bay walks"
+    },
+    "tags": ["normandy", "religious", "must-see", "unesco", "island", "medieval"]
+  },
+  {
+    "slug": "palace-of-versailles",
+    "name": { "en": "Palace of Versailles" },
+    "city": "versailles",
+    "region": "ile-de-france",
+    "type": "castle",
+    "image": "/images/destinations/palace-of-versailles.webp",
+    "description": {
+      "en": "The Palace of Versailles is one of the most opulent royal residences ever constructed, located about 20 kilometers southwest of Paris. Originally a hunting lodge built by Louis XIII, it was transformed by his son Louis XIV, the Sun King, into a lavish palace that became the seat of French government from 1682 until the Revolution in 1789. The palace contains 2,300 rooms spread across 63,154 square meters, including the spectacular Hall of Mirrors with its 357 mirrors reflecting light from 357 matching windows. The formal gardens, designed by landscape architect Andre Le Notre, extend over 800 hectares and feature perfectly manicured lawns, geometric flower beds, 1,400 fountains, and 400 sculptures. The estate also includes the Grand Trianon, Petit Trianon, and Marie Antoinette's rustic hamlet. During summer, the Musical Fountains Show brings the gardens to life with choreographed water displays set to baroque music."
+    },
+    "highlights": [
+      { "en": "Walk through the dazzling Hall of Mirrors with its 357 mirrors" },
+      { "en": "Explore the 800-hectare formal gardens designed by Le Notre" },
+      { "en": "Visit Marie Antoinette's Petit Trianon and hamlet" },
+      { "en": "Attend the Musical Fountains Show (April to October weekends)" }
+    ],
+    "practical_info": {
+      "hours": "Palace: Tuesday to Sunday 9:00 AM - 5:30 PM (6:30 PM April-October); Closed Mondays",
+      "admission": "Palace + Gardens: EUR 21; Gardens only on fountain days: EUR 10; Free for under 18",
+      "getting_there": "RER C: Versailles Chateau Rive Gauche (35 min from central Paris); SNCF trains from Gare Montparnasse",
+      "best_time": "Tuesday or Wednesday mornings; avoid weekends and French school holidays"
+    },
+    "tags": ["ile-de-france", "castle", "must-see", "unesco", "royal", "gardens"]
+  },
+  {
+    "slug": "chateau-de-chambord",
+    "name": { "en": "Chateau de Chambord" },
+    "city": "chambord",
+    "region": "loire-valley",
+    "type": "castle",
+    "image": "/images/destinations/chateau-de-chambord.webp",
+    "description": {
+      "en": "The Chateau de Chambord is the largest and most recognizable castle in the Loire Valley, a masterpiece of French Renaissance architecture set within a vast forested estate. Commissioned by King Francis I in 1519 as a hunting lodge, the chateau features 440 rooms, 365 fireplaces, and 84 staircases, including the famous double-helix staircase attributed to Leonardo da Vinci. This ingenious design allows two people to ascend and descend simultaneously without meeting. The rooftop terrace offers a fantastical landscape of towers, turrets, chimneys, and dormers that has been likened to a small city skyline. The surrounding estate covers 5,440 hectares enclosed by a 32-kilometer wall, making it the largest walled park in Europe. Deer, wild boar, and birds inhabit the grounds, and visitors can explore by foot, bicycle, or horse-drawn carriage. Chambord is a UNESCO World Heritage Site and receives over 900,000 visitors annually."
+    },
+    "highlights": [
+      { "en": "Climb the double-helix staircase attributed to Leonardo da Vinci" },
+      { "en": "Explore the fantastical rooftop terrace with its ornate towers" },
+      { "en": "Tour the largest enclosed park in Europe at 5,440 hectares" },
+      { "en": "Attend the summer light and sound show projected on the facade" }
+    ],
+    "practical_info": {
+      "hours": "9:00 AM - 5:00 PM (October-March); 9:00 AM - 6:00 PM (April-September)",
+      "admission": "EUR 16 (adult); Free for under 18 and EU residents under 26",
+      "getting_there": "Shuttle bus from Blois train station (April-September); By car from Paris (2 hours via A10)",
+      "best_time": "Spring and autumn for fewer crowds; summer for the evening light shows"
+    },
+    "tags": ["loire-valley", "castle", "unesco", "renaissance", "architecture"]
+  },
+  {
+    "slug": "calanques-national-park",
+    "name": { "en": "Calanques National Park" },
+    "city": "marseille",
+    "region": "provence",
+    "type": "nature",
+    "image": "/images/destinations/calanques-national-park.webp",
+    "description": {
+      "en": "The Calanques National Park stretches along 20 kilometers of the Mediterranean coastline between Marseille and Cassis, protecting a spectacular landscape of steep limestone cliffs plunging into turquoise waters. Established as a national park in 2012, it is one of the few European national parks that encompasses both land and sea. The word calanque comes from the Corsican word for inlet, and these narrow, fjord-like formations were carved by rivers during the last Ice Age. The park features over a dozen major calanques, with Calanque d'En-Vau, Calanque de Sugiton, and Calanque de Sormiou being among the most stunning. Hiking trails wind along the clifftops offering dramatic views, while the sheltered coves below provide some of the most beautiful swimming spots in France. The park's marine environment is equally rich, with seagrass meadows, coral formations, and diverse marine life making it a popular spot for snorkeling and diving."
+    },
+    "highlights": [
+      { "en": "Hike to the stunning Calanque d'En-Vau for pristine turquoise waters" },
+      { "en": "Swim in the sheltered cove of Calanque de Sugiton" },
+      { "en": "Take a boat tour from Marseille or Cassis along the coastline" },
+      { "en": "Snorkel or dive in the rich marine environment" }
+    ],
+    "practical_info": {
+      "hours": "Open year-round but access restricted during high fire-risk days (June-September)",
+      "admission": "Free; parking fees at trailheads (EUR 5-10)",
+      "getting_there": "Bus 21 from Marseille to Luminy (for Sugiton); Boat tours from Vieux Port Marseille or Cassis harbor",
+      "best_time": "Spring (April-June) or autumn (September-October); summer access often restricted due to fire risk"
+    },
+    "tags": ["marseille", "nature", "hiking", "beach", "swimming", "national-park"]
+  },
+  {
+    "slug": "pont-du-gard",
+    "name": { "en": "Pont du Gard" },
+    "city": "vers-pont-du-gard",
+    "region": "provence",
+    "type": "landmark",
+    "image": "/images/destinations/pont-du-gard.webp",
+    "description": {
+      "en": "The Pont du Gard is an ancient Roman aqueduct bridge that crosses the Gardon River in southern France, standing as one of the most impressive surviving examples of Roman engineering. Built in the first century AD without mortar, this three-tiered structure rises 49 meters high and stretches 275 meters across the valley. It was part of a 50-kilometer aqueduct system that carried water from springs near Uzes to the Roman colony of Nemausus (modern-day Nimes), delivering approximately 40,000 cubic meters of water daily. The precision of its construction is remarkable, with a gradient of only 1 centimeter per meter allowing gravity to move the water across the landscape. Designated a UNESCO World Heritage Site in 1985, the Pont du Gard is set within a beautiful natural area along the Gardon River. The surrounding grounds include an excellent museum explaining Roman hydraulic engineering, as well as riverside beaches perfect for swimming and canoeing in summer."
+    },
+    "highlights": [
+      { "en": "Marvel at the three-tiered Roman aqueduct standing 49 meters high" },
+      { "en": "Visit the excellent museum on Roman engineering and history" },
+      { "en": "Swim and canoe in the Gardon River below the bridge" },
+      { "en": "Walk across the top tier for panoramic views of the valley" }
+    ],
+    "practical_info": {
+      "hours": "Site open year-round; Museum: 9:00 AM - 5:00 PM (varies by season, until 7:00 PM in summer)",
+      "admission": "Site + Museum: EUR 12 (adult); Site only: EUR 9",
+      "getting_there": "By car from Nimes (25 min) or Avignon (30 min); Bus from Nimes or Avignon (seasonal)",
+      "best_time": "Early morning for best light and fewer crowds; summer for swimming in the river"
+    },
+    "tags": ["provence", "landmark", "roman", "unesco", "history", "engineering"]
+  },
+  {
+    "slug": "carcassonne",
+    "name": { "en": "Cite de Carcassonne" },
+    "city": "carcassonne",
+    "region": "occitanie",
+    "type": "castle",
+    "image": "/images/destinations/carcassonne.webp",
+    "description": {
+      "en": "The Cite de Carcassonne is a medieval fortified city perched on a hilltop in the Languedoc region of southern France. With 52 watchtowers, a double ring of defensive walls stretching 3 kilometers, and a history spanning over 2,500 years, it is the largest fortified city in Europe. The site has been occupied since the Neolithic period, but the imposing fortifications visible today date primarily from the Gallo-Roman and medieval periods. The inner citadel, Chateau Comtal, was built in the 12th century by the Trencavel family and later strengthened by King Louis IX and Philip III after the Albigensian Crusade. In the 19th century, architect Eugene Viollet-le-Duc led a controversial but transformative restoration that saved the cite from demolition. Today, the UNESCO World Heritage Site draws over 2 million visitors annually who wander its cobblestone streets, explore the ramparts, and enjoy the numerous restaurants, shops, and the Basilica of Saints Nazarius and Celsus with its remarkable stained glass windows."
+    },
+    "highlights": [
+      { "en": "Walk the 3-kilometer double ring of medieval ramparts" },
+      { "en": "Explore the 12th-century Chateau Comtal and its museum" },
+      { "en": "See the stunning stained glass in the Basilica of Saints Nazarius" },
+      { "en": "Enjoy the fireworks display on July 14th (Bastille Day)" }
+    ],
+    "practical_info": {
+      "hours": "Cite: open 24/7; Chateau Comtal: 10:00 AM - 5:00 PM (until 6:30 PM April-September)",
+      "admission": "Cite: free to enter; Chateau Comtal + Ramparts: EUR 11 (adult)",
+      "getting_there": "TGV from Paris to Carcassonne (5 hours); Regional trains from Toulouse (1 hour) or Narbonne (45 min)",
+      "best_time": "Spring or autumn for mild weather and smaller crowds; summer for festivals and events"
+    },
+    "tags": ["occitanie", "castle", "medieval", "unesco", "fortification", "history"]
+  },
+  {
+    "slug": "saint-emilion",
+    "name": { "en": "Saint-Emilion" },
+    "city": "saint-emilion",
+    "region": "bordeaux",
+    "type": "village",
+    "image": "/images/destinations/saint-emilion.webp",
+    "description": {
+      "en": "Saint-Emilion is a picturesque medieval village nestled among the rolling vineyards of the Bordeaux wine region, famous for producing some of the world's finest red wines. The village itself is a UNESCO World Heritage Site, recognized for its outstanding vineyard landscape and historic heritage. Narrow limestone streets wind between honey-colored buildings, leading to remarkable sites including the monolithic church carved entirely from a single limestone cliff between the 9th and 12th centuries. This underground church is the largest of its kind in Europe. The village is surrounded by approximately 5,500 hectares of vineyards producing prestigious wines classified under the Saint-Emilion appellation, dominated by Merlot and Cabernet Franc grapes. Visitors can tour prestigious chateaux, taste wines in centuries-old cellars, and enjoy the village's excellent restaurants. The underground catacombs, the Hermitage of Emilion, and the panoramic views from the bell tower of the monolithic church are all must-sees."
+    },
+    "highlights": [
+      { "en": "Visit the extraordinary monolithic underground church" },
+      { "en": "Tour and taste at prestigious wine chateaux" },
+      { "en": "Explore the medieval catacombs and Hermitage of Emilion" },
+      { "en": "Climb the bell tower for panoramic views over the vineyards" }
+    ],
+    "practical_info": {
+      "hours": "Village open 24/7; Monolithic church tours: 10:00 AM - 5:00 PM through tourist office",
+      "admission": "Village: free; Guided underground tours: EUR 14 (adult); Wine tastings: EUR 10-50",
+      "getting_there": "Train from Bordeaux Saint-Jean to Saint-Emilion (35 min); By car from Bordeaux (40 min via D936)",
+      "best_time": "September-October during harvest season; spring for blooming vineyards with fewer tourists"
+    },
+    "tags": ["bordeaux", "village", "wine", "unesco", "medieval", "gastronomy"]
+  },
+  {
+    "slug": "gorges-du-verdon",
+    "name": { "en": "Gorges du Verdon" },
+    "city": "moustiers-sainte-marie",
+    "region": "provence",
+    "type": "nature",
+    "image": "/images/destinations/gorges-du-verdon.webp",
+    "description": {
+      "en": "The Gorges du Verdon, often called the Grand Canyon of Europe, is a dramatic river canyon in southeastern Provence that stretches 25 kilometers with cliffs rising up to 700 meters above the turquoise Verdon River. The canyon was carved over millions of years by the river cutting through the limestone plateau, creating one of the most spectacular natural landscapes in France. The milky turquoise color of the water comes from glacial flour, fine rock particles suspended in the flow. Two scenic driving routes follow the gorge rim: the Route des Cretes along the north side and the Corniche Sublime to the south, both offering breathtaking viewpoints. At the western end lies the Lac de Sainte-Croix, a vast reservoir with emerald green waters perfect for swimming and pedal boating. The gorge is a paradise for outdoor enthusiasts, offering world-class rock climbing, kayaking, canyoning, and hiking along the famous Sentier Martel and Sentier de l'Imbut trails."
+    },
+    "highlights": [
+      { "en": "Drive the scenic Route des Cretes and Corniche Sublime" },
+      { "en": "Kayak or pedal boat on the turquoise Lac de Sainte-Croix" },
+      { "en": "Hike the famous Sentier Martel trail along the canyon floor" },
+      { "en": "Rock climb on the canyon's towering limestone walls" }
+    ],
+    "practical_info": {
+      "hours": "Open year-round; some roads and trails may close in winter due to snow",
+      "admission": "Free; Kayak and pedal boat rental: EUR 15-40; Guided canyoning: EUR 50-80",
+      "getting_there": "By car from Aix-en-Provence (90 min) or Nice (2 hours); No direct public transport",
+      "best_time": "June to September for swimming and water sports; spring and autumn for hiking"
+    },
+    "tags": ["provence", "nature", "canyon", "hiking", "kayaking", "adventure"]
+  },
+  {
+    "slug": "strasbourg-cathedral",
+    "name": { "en": "Strasbourg Cathedral" },
+    "city": "strasbourg",
+    "region": "alsace",
+    "type": "religious",
+    "image": "/images/destinations/strasbourg-cathedral.webp",
+    "description": {
+      "en": "The Cathedrale Notre-Dame de Strasbourg is a masterpiece of Gothic architecture that dominates the skyline of Strasbourg with its single soaring spire reaching 142 meters. It was the world's tallest building from 1647 to 1874. The cathedral's western facade is an extraordinary work of sculptural art, featuring hundreds of finely carved figures depicting biblical scenes. Built from Vosges pink sandstone, the exterior glows with a warm rosy hue that changes throughout the day. Construction began in 1015 in Romanesque style, but Gothic elements were introduced from 1225 onward. Inside, the cathedral houses a remarkable 18-meter-tall astronomical clock dating from the Renaissance period, which performs a mechanical show each day at 12:30 PM featuring the twelve apostles parading before Christ. The cathedral's stained glass windows, some dating from the 12th century, are among the finest in Europe. Visitors can climb 332 steps to the viewing platform at 66 meters for panoramic views over the old town, the Rhine plain, and the Black Forest in Germany."
+    },
+    "highlights": [
+      { "en": "Watch the astronomical clock's daily show at 12:30 PM" },
+      { "en": "Climb 332 steps to the viewing platform for panoramic views" },
+      { "en": "Admire the intricate Gothic sculptural facade" },
+      { "en": "See the 12th and 13th-century stained glass windows" }
+    ],
+    "practical_info": {
+      "hours": "Cathedral: 7:00 AM - 7:00 PM daily; Clock show at 12:30 PM; Platform: 10:00 AM - 5:15 PM",
+      "admission": "Cathedral: free; Astronomical clock show: EUR 5; Viewing platform: EUR 8 (adult)",
+      "getting_there": "Tram Lines A/D: Grand'Rue; Train: Strasbourg Gare Centrale (10 min walk)",
+      "best_time": "Arrive by noon to see the astronomical clock; early morning for the cathedral interior"
+    },
+    "tags": ["alsace", "religious", "gothic", "architecture", "historic"]
+  },
+  {
+    "slug": "chamonix-mont-blanc",
+    "name": { "en": "Chamonix-Mont-Blanc" },
+    "city": "chamonix",
+    "region": "alps",
+    "type": "nature",
+    "image": "/images/destinations/chamonix-mont-blanc.webp",
+    "description": {
+      "en": "Chamonix-Mont-Blanc is a legendary alpine resort town nestled at the base of Mont Blanc, Western Europe's highest peak at 4,808 meters. The town has been at the heart of mountaineering since the first ascent of Mont Blanc in 1786 by Jacques Balmat and Michel-Gabriel Paccard, and it hosted the first Winter Olympics in 1924. The Aiguille du Midi cable car, one of the highest in the world, whisks visitors to 3,842 meters in just 20 minutes, providing jaw-dropping views of the Mont Blanc massif and, on clear days, vistas stretching to the Matterhorn. The Mer de Glace, France's largest glacier, is accessible by the historic Montenvers rack railway and features an ice cave carved fresh each year. Chamonix offers world-class skiing in winter across five interconnected areas, while summer brings exceptional hiking, trail running, and climbing. The town itself buzzes with a cosmopolitan alpine atmosphere, filled with gear shops, excellent restaurants, and a vibrant apres-ski culture."
+    },
+    "highlights": [
+      { "en": "Ride the Aiguille du Midi cable car to 3,842 meters" },
+      { "en": "Visit the Mer de Glace glacier via the Montenvers railway" },
+      { "en": "Ski world-class slopes with Mont Blanc as a backdrop" },
+      { "en": "Hike the Tour du Mont Blanc, one of Europe's great treks" }
+    ],
+    "practical_info": {
+      "hours": "Aiguille du Midi: varies by season, typically 8:00 AM - 4:30 PM; Town accessible year-round",
+      "admission": "Aiguille du Midi cable car: EUR 71 (adult round trip); Montenvers: EUR 37; Multi-pass available",
+      "getting_there": "Train from Geneva (3.5 hours via Saint-Gervais) or bus from Geneva airport (1 hour 15 min); TGV to Saint-Gervais then local train",
+      "best_time": "December-April for skiing; June-September for hiking; July and August can be busy"
+    },
+    "tags": ["alps", "nature", "skiing", "hiking", "mountain", "adventure"]
+  },
+  {
+    "slug": "nice-old-town",
+    "name": { "en": "Nice Old Town (Vieux Nice)" },
+    "city": "nice",
+    "region": "cote-dazur",
+    "type": "village",
+    "image": "/images/destinations/nice-old-town.webp",
+    "description": {
+      "en": "Vieux Nice, the old town of Nice, is a vibrant labyrinth of narrow, winding streets filled with Baroque architecture, colorful shuttered buildings, and the lively atmosphere of the French Riviera. Tucked between the Promenade des Anglais seafront and the Castle Hill (Colline du Chateau), this historic quarter reflects Nice's Italian heritage, having been part of the Kingdom of Sardinia until 1860. The Cours Saleya market is the heart of the old town, hosting a famous flower market every morning except Monday, when it transforms into a bustling flea market. The district is packed with restaurants serving local Nicois specialties like socca (chickpea crepe), pissaladiere (onion tart), and salade nicoise. Baroque churches, including the Cathedrale Sainte-Reparate, line the narrow streets alongside artisan shops, gelaterias, and small galleries. Climb the stairs to Castle Hill park for spectacular views over the Baie des Anges, the terracotta rooftops of the old town, and the port."
+    },
+    "highlights": [
+      { "en": "Browse the vibrant Cours Saleya flower and food market" },
+      { "en": "Climb Castle Hill for panoramic views of the Baie des Anges" },
+      { "en": "Try authentic socca and other Nicois specialties" },
+      { "en": "Explore the Baroque churches and colorful alleyways" }
+    ],
+    "practical_info": {
+      "hours": "Open 24/7; Cours Saleya market: Tuesday to Sunday 6:00 AM - 1:30 PM (flowers), 6:00 AM - 5:30 PM (food)",
+      "admission": "Free; Castle Hill park and waterfall free to visit",
+      "getting_there": "Tram Line 1: Opera-Vieille Ville or Cathedrale-Vieille Ville; Walking distance from Promenade des Anglais",
+      "best_time": "Morning for the market; evening for the restaurant atmosphere; spring and autumn for pleasant weather"
+    },
+    "tags": ["nice", "village", "market", "food", "riviera", "baroque"]
+  },
+  {
+    "slug": "dune-of-pilat",
+    "name": { "en": "Dune of Pilat" },
+    "city": "la-teste-de-buch",
+    "region": "aquitaine",
+    "type": "nature",
+    "image": "/images/destinations/dune-of-pilat.webp",
+    "description": {
+      "en": "The Dune of Pilat (Dune du Pilat) is the tallest sand dune in Europe, rising approximately 100-110 meters above sea level and stretching 2.9 kilometers in length and 500 meters in width on the Atlantic coast near Arcachon. This natural wonder is constantly moving, advancing eastward at a rate of about 1 to 5 meters per year, gradually engulfing the pine forest behind it. The dune contains an estimated 55 million cubic meters of sand and offers extraordinary panoramic views from its summit: the Atlantic Ocean and Banc d'Arguin nature reserve to the west, the Arcachon Bay and Cap Ferret peninsula to the north, and an endless expanse of pine forest to the east. A seasonal staircase installed each summer helps visitors make the ascent, though climbing directly up the sandy slope is also popular. The dune is a favorite spot for paragliding, and sunset views from the top are breathtaking. The surrounding area is known for oyster farming, and the nearby village of Gujan-Mestras offers excellent fresh oyster tasting."
+    },
+    "highlights": [
+      { "en": "Climb to the summit for sweeping views of the Atlantic and pine forests" },
+      { "en": "Watch the sunset over the ocean from Europe's tallest sand dune" },
+      { "en": "Try paragliding from the dune's summit" },
+      { "en": "Taste fresh oysters from the nearby Arcachon Bay" }
+    ],
+    "practical_info": {
+      "hours": "Open 24/7; Seasonal staircase installed April-November; Parking lot open 8:00 AM - 9:00 PM",
+      "admission": "Free to visit; Parking: EUR 6-10 depending on season",
+      "getting_there": "Bus from Arcachon to Plage de la Corniche stop (20 min); By car from Bordeaux (1 hour via A63/A660)",
+      "best_time": "Early morning or late afternoon for best light and fewer crowds; avoid peak summer weekends"
+    },
+    "tags": ["aquitaine", "nature", "beach", "unique", "atlantic", "paragliding"]
+  },
+  {
+    "slug": "rocamadour",
+    "name": { "en": "Rocamadour" },
+    "city": "rocamadour",
+    "region": "dordogne",
+    "type": "village",
+    "image": "/images/destinations/rocamadour.webp",
+    "description": {
+      "en": "Rocamadour is a breathtaking cliff-side village in the Dordogne region that clings to the limestone face of a 150-meter gorge above the Alzou River. A major Christian pilgrimage site since the Middle Ages, the village rises in three tiers: the medieval village at the base, a complex of seven chapels and churches in the middle tier, and a chateau at the summit. The most sacred site is the Chapel of Notre-Dame, which houses a revered Black Madonna statue believed to date from the 9th century. Pilgrims traditionally climbed the 216 steps of the Grand Staircase on their knees as an act of devotion. The village's dramatic vertical setting, with buildings seemingly growing out of the cliff face, makes it one of the most visually striking places in France. Rocamadour is also renowned for its eponymous cheese, a small round goat's milk cheese with AOC (Appellation d'Origine Controlee) status. The nearby Gouffre de Padirac, a massive underground river cave, and the Monkey Forest are popular additional attractions."
+    },
+    "highlights": [
+      { "en": "Climb the 216-step Grand Staircase to the sacred chapels" },
+      { "en": "See the revered Black Madonna in the Chapel of Notre-Dame" },
+      { "en": "Visit the Gouffre de Padirac underground river cave nearby" },
+      { "en": "Taste the famous Rocamadour goat cheese" }
+    ],
+    "practical_info": {
+      "hours": "Village: open 24/7; Sanctuaries: 8:00 AM - 6:00 PM; Panoramic lift: 8:00 AM - 8:00 PM (summer)",
+      "admission": "Free to walk through village; Panoramic lift: EUR 4 (one way); Gouffre de Padirac: EUR 19",
+      "getting_there": "By car from Toulouse (2 hours) or Brive-la-Gaillarde (1 hour); Train to Rocamadour-Padirac station (4 km from village)",
+      "best_time": "Spring and autumn for mild weather; early morning or late afternoon for best light on the cliff face"
+    },
+    "tags": ["dordogne", "village", "pilgrimage", "cliff", "medieval", "cheese"]
+  },
+  {
+    "slug": "giverny-monet-gardens",
+    "name": { "en": "Giverny - Monet's Gardens" },
+    "city": "giverny",
+    "region": "normandy",
+    "type": "nature",
+    "image": "/images/destinations/giverny-monet-gardens.webp",
+    "description": {
+      "en": "The gardens and house of Claude Monet in Giverny are where the master Impressionist painter lived and worked for 43 years, from 1883 until his death in 1926. The property features two distinct gardens that served as the primary inspiration for many of his most famous paintings. The Clos Normand, the flower garden in front of the house, is a riot of color with climbing roses, hollyhocks, poppies, and dozens of other flowering plants arranged in painterly compositions. The Water Garden, inspired by Japanese aesthetics, features the iconic Japanese bridge draped in wisteria, weeping willows, bamboo groves, and the famous water lily pond that Monet painted obsessively in his later years, producing over 250 oil paintings of water lilies. The pink-stuccoed house has been beautifully restored with its original furnishings, including Monet's remarkable collection of Japanese woodblock prints. Giverny is also home to the Musee des Impressionnismes, which explores the legacy of the Impressionist movement."
+    },
+    "highlights": [
+      { "en": "See the iconic Japanese bridge and water lily pond painted by Monet" },
+      { "en": "Explore the vibrant Clos Normand flower garden" },
+      { "en": "Tour Monet's house with original furnishings and Japanese prints" },
+      { "en": "Visit the Musee des Impressionnismes nearby" }
+    ],
+    "practical_info": {
+      "hours": "April 1 to November 1: 9:30 AM - 6:00 PM daily; Closed November to March",
+      "admission": "EUR 13 (adult); EUR 9 (students and children 7-17); Free for under 7",
+      "getting_there": "Train from Paris Saint-Lazare to Vernon (45 min), then shuttle bus or bike to Giverny (7 km)",
+      "best_time": "Late April to June for wisteria, irises, and poppies; July-August for water lilies in full bloom"
+    },
+    "tags": ["normandy", "nature", "art", "impressionism", "gardens", "monet"]
+  },
+  {
+    "slug": "sainte-chapelle",
+    "name": { "en": "Sainte-Chapelle" },
+    "city": "paris",
+    "region": "ile-de-france",
+    "type": "religious",
+    "image": "/images/destinations/sainte-chapelle.webp",
+    "description": {
+      "en": "Sainte-Chapelle is a Gothic royal chapel located within the medieval Palais de la Cite on the Ile de la Cite in Paris, widely regarded as one of the greatest achievements of Gothic architecture. Commissioned by King Louis IX (Saint Louis) and completed in 1248 in just seven years, it was built to house the king's collection of Passion relics, including what was believed to be the Crown of Thorns. The chapel consists of two levels: the lower chapel for palace staff and the upper chapel reserved for the royal family. The upper chapel is a breathtaking experience, with 15 stained glass windows rising 15 meters high and containing 1,113 individual scenes depicting biblical narratives from Genesis to the Resurrection. When sunlight streams through these windows, the interior is transformed into a kaleidoscope of jewel-toned light that is truly awe-inspiring. The windows retain approximately two-thirds of their original 13th-century glass, making them among the oldest and most extensive stained glass ensembles in the world."
+    },
+    "highlights": [
+      { "en": "Marvel at the 15 soaring stained glass windows with 1,113 biblical scenes" },
+      { "en": "Experience the kaleidoscope of colored light in the upper chapel" },
+      { "en": "Admire the star-painted vaulted ceiling" },
+      { "en": "Attend an evening classical music concert in the chapel" }
+    ],
+    "practical_info": {
+      "hours": "April to September: 9:00 AM - 7:00 PM; October to March: 9:00 AM - 5:00 PM",
+      "admission": "EUR 13 (adult); Free for under 18 and EU residents under 26; Combined ticket with Conciergerie: EUR 18.50",
+      "getting_there": "Metro: Cite (Line 4) or Saint-Michel (Line 4, RER B/C); Bus: 21, 27, 38, 85, 96",
+      "best_time": "Sunny days for the best stained glass effect; early morning to avoid queues"
+    },
+    "tags": ["paris", "religious", "gothic", "stained-glass", "architecture", "medieval"]
+  },
+  {
+    "slug": "etretat-cliffs",
+    "name": { "en": "Etretat Cliffs" },
+    "city": "etretat",
+    "region": "normandy",
+    "type": "nature",
+    "image": "/images/destinations/etretat-cliffs.webp",
+    "description": {
+      "en": "The chalk cliffs of Etretat are among the most dramatic natural landmarks along the Normandy coast, rising up to 90 meters above the English Channel. These spectacular white cliffs have been sculpted by wind and sea into striking arches and needle-like formations that have inspired artists and writers for centuries, including Claude Monet, Gustave Courbet, and Guy de Maupassant. The three most famous formations are the Falaise d'Aval with its natural stone arch (which Maupassant compared to an elephant dipping its trunk in the sea), the Aiguille (Needle), a 70-meter tall pointed rock standing alone in the sea, and the Falaise d'Amont to the north. Walking trails along the clifftops offer exhilarating views of the coastline and the open sea. The charming town of Etretat below features a pebble beach, excellent seafood restaurants, and the whimsical Les Jardins d'Etretat, a contemporary sculpture garden perched on the northern cliff with panoramic views. Maurice Leblanc's famous fictional gentleman-thief Arsene Lupin was imagined to have hidden treasures in the hollow needle."
+    },
+    "highlights": [
+      { "en": "Photograph the iconic elephant-trunk arch of Falaise d'Aval" },
+      { "en": "Walk the clifftop trail between Falaise d'Amont and Falaise d'Aval" },
+      { "en": "Visit Les Jardins d'Etretat sculpture garden on the cliffs" },
+      { "en": "Explore the Arsene Lupin museum in town" }
+    ],
+    "practical_info": {
+      "hours": "Cliffs: open 24/7; Les Jardins d'Etretat: 10:00 AM - 7:00 PM (seasonal)",
+      "admission": "Cliffs: free; Les Jardins d'Etretat: EUR 12 (adult); Arsene Lupin museum: EUR 7",
+      "getting_there": "By car from Le Havre (30 min) or Rouen (1 hour 15 min); Bus from Le Havre (line 24)",
+      "best_time": "Spring and early autumn for mild weather; early morning for the best light; avoid summer crowds"
+    },
+    "tags": ["normandy", "nature", "cliffs", "scenic", "coast", "hiking"]
+  },
+  {
+    "slug": "avignon-papal-palace",
+    "name": { "en": "Palais des Papes (Papal Palace)" },
+    "city": "avignon",
+    "region": "provence",
+    "type": "castle",
+    "image": "/images/destinations/avignon-papal-palace.webp",
+    "description": {
+      "en": "The Palais des Papes in Avignon is the largest Gothic palace in the world and one of the most important medieval Gothic buildings in Europe. Built between 1335 and 1364, it served as the seat of Western Christianity during the period when seven successive popes chose to reside in Avignon rather than Rome, a period known as the Avignon Papacy (1309-1377). The palace covers an area of 15,000 square meters, with walls up to 4 meters thick and towers reaching 50 meters. Inside, visitors can explore more than 25 rooms, including the Grand Chapel, the Consistory Hall, and the private papal apartments, some of which retain beautiful 14th-century frescoes by Italian artist Matteo Giovannetti. The palace complex is surrounded by the medieval city walls and sits above the famous Pont d'Avignon (Pont Saint-Benezet), a ruined bridge with only four of its original 22 arches remaining, immortalized in the children's song 'Sur le Pont d'Avignon.' During July, the palace serves as a main venue for the Festival d'Avignon, one of the world's most prestigious performing arts festivals."
+    },
+    "highlights": [
+      { "en": "Explore the largest Gothic palace in the world" },
+      { "en": "See the 14th-century frescoes in the papal apartments" },
+      { "en": "Visit the nearby Pont d'Avignon (Pont Saint-Benezet)" },
+      { "en": "Attend the Festival d'Avignon performing arts festival in July" }
+    ],
+    "practical_info": {
+      "hours": "September to June: 10:00 AM - 5:00 PM; July: 10:00 AM - 8:00 PM; August: 9:00 AM - 8:30 PM",
+      "admission": "EUR 14 (adult); Combined ticket with Pont d'Avignon: EUR 17; Free for under 8",
+      "getting_there": "TGV Avignon station then shuttle bus (5 min to centre); Regular trains from Marseille (30 min) or Lyon (1 hour)",
+      "best_time": "Spring for pleasant weather; July for the Festival d'Avignon; avoid August heat"
+    },
+    "tags": ["avignon", "castle", "gothic", "unesco", "papal", "history"]
+  },
+  {
+    "slug": "carnac-stones",
+    "name": { "en": "Carnac Stones" },
+    "city": "carnac",
+    "region": "brittany",
+    "type": "landmark",
+    "image": "/images/destinations/carnac-stones.webp",
+    "description": {
+      "en": "The Carnac Stones are the world's most extensive collection of megalithic standing stones, comprising more than 3,000 prehistoric menhirs arranged in rows stretching over 4 kilometers along the coast of Brittany. Erected between approximately 4500 and 3300 BC during the Neolithic period, these stones predate Stonehenge by thousands of years. The complex is divided into three main alignments: Menec (1,099 stones in 11 rows), Kermario (1,029 stones in 10 rows), and Kerlescan (555 stones in 13 rows). The largest stones reach up to 4 meters in height and weigh several tons. The purpose of these alignments remains one of archaeology's great mysteries, with theories ranging from astronomical observatories to religious ceremonial sites to earthquake detectors. The Maison des Megalithes visitor center provides excellent context and manages guided tours of the fenced sites. The nearby Tumulus de Saint-Michel, a burial mound dating from 5000 BC, offers another fascinating glimpse into this enigmatic prehistoric civilization. The surrounding area features beautiful beaches and traditional Breton culture."
+    },
+    "highlights": [
+      { "en": "Walk among more than 3,000 prehistoric standing stones" },
+      { "en": "Take a guided tour of the Menec and Kermario alignments" },
+      { "en": "Visit the Maison des Megalithes museum and visitor center" },
+      { "en": "Explore the nearby Tumulus de Saint-Michel burial mound" }
+    ],
+    "practical_info": {
+      "hours": "October to March: free access to alignments; April to September: guided tours only (to protect the site)",
+      "admission": "Free in winter; Guided tours (summer): EUR 8 (adult); Maison des Megalithes: free",
+      "getting_there": "Train to Auray (20 km) then bus; By car from Vannes (35 min) or Quimper (1 hour 15 min)",
+      "best_time": "October to March for free access and atmospheric winter light; early morning for fewer visitors"
+    },
+    "tags": ["brittany", "landmark", "prehistoric", "megalith", "mystery", "history"]
+  },
+  {
+    "slug": "annecy-old-town",
+    "name": { "en": "Annecy Old Town" },
+    "city": "annecy",
+    "region": "alps",
+    "type": "village",
+    "image": "/images/destinations/annecy-old-town.webp",
+    "description": {
+      "en": "Annecy, often called the Venice of the Alps, is a stunning lakeside town in the Haute-Savoie department where crystal-clear canals wind through a beautifully preserved medieval old town backed by snow-capped mountains. The Thiou River, which flows through the center of the old town, is said to be one of the cleanest urban waterways in Europe, fed by the extraordinarily pure waters of Lac d'Annecy. The lake itself is the third largest in France and is renowned as one of the cleanest lakes in the world, with visibility reaching depths of several meters. The old town is a postcard-perfect ensemble of pastel-colored buildings, arched bridges, flower-filled balconies, and quaint boutiques. The Palais de l'Isle, a 12th-century former prison sitting on a small island in the Thiou, is the town's most photographed landmark. The Chateau d'Annecy, perched above the old town, houses a museum of regional art and Alpine natural history. Markets along the canals on Tuesdays, Fridays, and Sundays sell local cheeses, charcuterie, and Savoyard specialties."
+    },
+    "highlights": [
+      { "en": "Photograph the iconic Palais de l'Isle on its canal island" },
+      { "en": "Swim or paddleboard in the crystal-clear Lac d'Annecy" },
+      { "en": "Browse the vibrant Tuesday and Sunday canal-side markets" },
+      { "en": "Cycle the 40-kilometer lakeside path with Alpine views" }
+    ],
+    "practical_info": {
+      "hours": "Old town: open 24/7; Chateau museum: 10:30 AM - 12:00 PM, 2:00 PM - 5:00 PM (closed Tuesdays)",
+      "admission": "Old town: free; Chateau d'Annecy museum: EUR 8 (adult); Palais de l'Isle: EUR 4",
+      "getting_there": "TGV from Paris to Annecy (3 hours 40 min); Regional trains from Lyon (2 hours) or Geneva (1 hour 30 min)",
+      "best_time": "June to September for swimming and outdoor activities; December for the Christmas market"
+    },
+    "tags": ["alps", "village", "lake", "scenic", "medieval", "outdoor"]
+  },
+  {
+    "slug": "cite-du-vin-bordeaux",
+    "name": { "en": "La Cite du Vin" },
+    "city": "bordeaux",
+    "region": "bordeaux",
+    "type": "museum",
+    "image": "/images/destinations/cite-du-vin-bordeaux.webp",
+    "description": {
+      "en": "La Cite du Vin is a striking contemporary museum and cultural center dedicated to wine, located on the banks of the Garonne River in Bordeaux. Opened in 2016, the building's fluid, rounded architecture was designed by Anouk Legendre and Nicolas Desmazieres of XTU Architects, inspired by the swirling motion of wine in a glass. Inside, the permanent exhibition spans 3,000 square meters across 19 interactive themed areas that take visitors on a journey through the history, culture, science, and civilization of wine from around the world, not just Bordeaux. Multi-sensory experiences allow visitors to smell different grape varieties, see how terroir shapes wine character, and understand the winemaking process through immersive displays. The visit culminates on the 8th-floor Belvedere, a panoramic tasting room where the admission ticket includes a glass of wine from a rotating international selection, enjoyed with 360-degree views over Bordeaux and the Garonne River. The building also houses a wine bar, a gourmet restaurant, a wine cellar shop, and spaces for temporary exhibitions and events."
+    },
+    "highlights": [
+      { "en": "Explore 19 interactive themed zones about wine culture worldwide" },
+      { "en": "Enjoy a tasting on the 8th-floor Belvedere with panoramic river views" },
+      { "en": "Experience multi-sensory displays on terroir, aromas, and winemaking" },
+      { "en": "Admire the striking contemporary architecture inspired by wine in a glass" }
+    ],
+    "practical_info": {
+      "hours": "10:00 AM - 6:00 PM (until 7:00 PM April-October); Closed Mondays in January and February",
+      "admission": "EUR 22 (adult, includes tasting); EUR 18 (reduced); Free for under 6",
+      "getting_there": "Tram Line B: La Cite du Vin stop; River shuttle from central Bordeaux (seasonal); 15 min walk from Chartrons district",
+      "best_time": "Weekday mornings for a quieter visit; pair with a visit to the nearby Chartrons wine merchant district"
+    },
+    "tags": ["bordeaux", "museum", "wine", "modern", "interactive", "culture"]
+  },
+  {
+    "slug": "lavender-fields-valensole",
+    "name": { "en": "Lavender Fields of Valensole" },
+    "city": "valensole",
+    "region": "provence",
+    "type": "nature",
+    "image": "/images/destinations/lavender-fields-valensole.webp",
+    "description": {
+      "en": "The Valensole Plateau in Provence is home to some of the most spectacular lavender fields in France, with vast expanses of violet-blue stretching to the horizon during the summer bloom. This high plateau, sitting at approximately 500 meters elevation in the Alpes-de-Haute-Provence department, has been cultivated with lavender since the 19th century and now covers an area of approximately 800 square kilometers. The lavender bloom typically runs from mid-June to mid-August, with peak color usually occurring in early to mid-July. The Valensole Plateau is part of a larger lavender-growing region that also includes Sault, the Luberon, and the Drome Provencale. Driving or cycling through the endless rows of fragrant purple flowers against the backdrop of the Provencal landscape is an unforgettable sensory experience. Many local farms and distilleries welcome visitors to learn about lavender cultivation and essential oil production. The plateau is also famous for its almond trees, which bloom in early March, and for honey production, with lavender honey being a prized local specialty."
+    },
+    "highlights": [
+      { "en": "Drive or cycle through endless rows of violet-blue lavender" },
+      { "en": "Visit a lavender distillery to see essential oil production" },
+      { "en": "Photograph the iconic lavender rows at golden hour" },
+      { "en": "Buy authentic lavender products directly from local farms" }
+    ],
+    "practical_info": {
+      "hours": "Fields: open 24/7 (please respect private property and stay on paths); Distilleries: 9:00 AM - 12:00 PM, 2:00 PM - 6:00 PM",
+      "admission": "Free to view fields; Distillery visits: free to EUR 8; Guided tours: EUR 20-40",
+      "getting_there": "By car from Aix-en-Provence (1 hour 15 min) or Marseille (1 hour 30 min); Very limited public transport",
+      "best_time": "Late June to mid-July for peak bloom; early morning for the best light and fragrance"
+    },
+    "tags": ["provence", "nature", "lavender", "photography", "scenic", "flowers"]
+  },
+  {
+    "slug": "disneyland-paris",
+    "name": { "en": "Disneyland Paris" },
+    "city": "chessy",
+    "region": "ile-de-france",
+    "type": "landmark",
+    "image": "/images/destinations/disneyland-paris.webp",
+    "description": {
+      "en": "Disneyland Paris is Europe's most visited theme park, located 32 kilometers east of central Paris in Marne-la-Vallee. Opened in 1992, the resort comprises two theme parks: Disneyland Park, featuring the iconic Sleeping Beauty Castle and classic Disney attractions organized into five themed lands, and Walt Disney Studios Park, focused on movie-making and Hollywood-inspired entertainment. Disneyland Park offers beloved rides including Big Thunder Mountain, Pirates of the Caribbean, Space Mountain: Mission 2, and the Hyperspace Mountain Star Wars experience. Walt Disney Studios Park features attractions like the Ratatouille ride, Crush's Coaster, and the spectacular Avengers Campus area. The resort also includes Disney Village, an entertainment and dining district, and seven themed hotels. Throughout the year, the parks host seasonal events including the Halloween Festival, the enchanting Christmas season with the illuminated castle, and special Star Wars and Marvel themed celebrations. The daily Disney Illuminations nighttime spectacular, with projections, fireworks, and fountains over the castle, is a magical conclusion to any visit."
+    },
+    "highlights": [
+      { "en": "Experience classic rides like Big Thunder Mountain and Pirates of the Caribbean" },
+      { "en": "Explore Avengers Campus at Walt Disney Studios Park" },
+      { "en": "Watch the Disney Illuminations nighttime spectacular" },
+      { "en": "Visit during the Halloween or Christmas seasonal events" }
+    ],
+    "practical_info": {
+      "hours": "Disneyland Park: 9:30 AM - 11:00 PM; Walt Disney Studios: 9:30 AM - 9:00 PM (hours vary by season)",
+      "admission": "From EUR 56 (1-day, 1-park adult); 2-park tickets from EUR 81; Children under 3 free",
+      "getting_there": "RER A from central Paris to Marne-la-Vallee/Chessy (35-40 min); TGV station on-site; Shuttle buses from airports",
+      "best_time": "Weekdays outside school holidays for shortest queues; September-October for Halloween; December for Christmas"
+    },
+    "tags": ["ile-de-france", "landmark", "family", "theme-park", "entertainment"]
+  }
+]

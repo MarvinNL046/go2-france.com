@@ -1,0 +1,169 @@
+{
+  "id": 7,
+  "slug": "crepes",
+  "name": {
+    "en": "Crepes",
+    "fr": "Crepes"
+  },
+  "category": "main-dish",
+  "region": "brittany",
+  "description": {
+    "en": "Thin French pancakes served sweet or savory, originating from Brittany",
+    "fr": "Fines galettes de ble tendre ou de sarrasin, sucrees ou salees, originaires de Bretagne"
+  },
+  "ingredients": [
+    "flour",
+    "eggs",
+    "milk",
+    "butter",
+    "sugar",
+    "salt"
+  ],
+  "allergens": [
+    "gluten",
+    "dairy",
+    "eggs"
+  ],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/crepes.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "30 minutes (plus 1 hour resting)",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": {
+      "en": "French Crepes | Sweet & Savory Breton Pancake Guide"
+    },
+    "metaDescription": {
+      "en": "Discover French crepes, the thin pancakes from Brittany served sweet with sugar and lemon or savory as galettes with ham and cheese — a cornerstone of French street food."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "brittany",
+    "pancake",
+    "street-food",
+    "sweet",
+    "savory",
+    "versatile"
+  ],
+  "enhanced_description": "Crepes are one of France's most universally loved foods — paper-thin pancakes that can be filled with virtually anything and serve equally well as a quick street snack, a casual lunch, or an elegant dessert. Originating in Brittany (Bretagne) in northwestern France, crepes come in two fundamental forms: crepes de froment (wheat flour crepes, typically served sweet) and galettes de sarrasin (buckwheat crepes, always served savory). The buckwheat galette is the older of the two, dating back to the 12th century when Crusaders brought buckwheat to Brittany from Asia. The grain thrived in Brittany's poor, acidic soil where wheat could not grow, and became the peasant staple of the region. A proper Breton creperie will always offer both — the savory galette for your main course and a sweet crepe for dessert. The most iconic savory galette is the Galette Complète, filled with ham, egg, and Gruyere cheese. The most classic sweet crepe is the simple crepe au sucre (butter and sugar) or crepe au citron (lemon and sugar). In Brittany, crepes are always paired with cidre (cider), served in traditional ceramic bowls called bolees. The technique of making crepes — spreading a thin layer of batter across a hot flat griddle (billig) with a wooden spreader (rozell) — is an art form that Breton crepiers spend years perfecting. Creperies are found throughout France, but the greatest concentration and quality is in Brittany, particularly in towns like Quimper, Saint-Malo, and Dinan. In Paris, the Montparnasse neighborhood — historically the arrival point for Breton immigrants — has the densest concentration of creperies in the capital.",
+  "detailed_ingredients": [
+    {
+      "name": "Wheat Flour (Farine de Froment) or Buckwheat Flour (Farine de Sarrasin)",
+      "purpose": "Wheat flour for sweet crepes (light, delicate, slightly sweet); buckwheat flour for savory galettes (nutty, earthy, naturally gluten-free)",
+      "substitutes": [
+        "Spelt flour for a nuttier wheat crepe",
+        "Gluten-free flour blend for sweet crepes"
+      ]
+    },
+    {
+      "name": "Free-Range Eggs",
+      "purpose": "Bind the batter and provide structure, richness, and golden color",
+      "substitutes": [
+        "Flax eggs for vegan crepes (less traditional)",
+        "Extra egg yolks for richer crepes"
+      ]
+    },
+    {
+      "name": "Whole Milk",
+      "purpose": "Creates the liquid batter and contributes to browning and tenderness",
+      "substitutes": [
+        "Buttermilk for tangier crepes",
+        "Beer (traditional in some galette recipes)",
+        "Plant milk for dairy-free version"
+      ]
+    },
+    {
+      "name": "Breton Butter (Beurre Demi-Sel)",
+      "purpose": "Brittany's famous salted butter adds richness and the distinctive salty-sweet note",
+      "substitutes": [
+        "Unsalted butter plus a pinch of salt",
+        "Clarified butter for cooking"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Thin batter spread on a hot flat griddle",
+    "steps_overview": "The batter is mixed (flour, eggs, milk, melted butter, salt, and sugar for sweet crepes) and rested for at least one hour — this allows the starch granules to fully hydrate and the gluten to relax, producing a more tender crepe. A large flat griddle (billig) or non-stick pan is heated and lightly buttered. A ladleful of batter is poured and immediately spread into a thin, even circle using a wooden spreader or by tilting the pan. The crepe cooks for 1-2 minutes per side until golden and lacy at the edges. Fillings are added and the crepe is folded into quarters or rolled.",
+    "cooking_tips": [
+      "Rest the batter for at least 1 hour (overnight is even better) for tender crepes",
+      "The pan must be hot enough that a drop of water sizzles immediately",
+      "Use very little butter on the pan — too much makes greasy crepes",
+      "Pour the batter and immediately tilt and swirl to spread it thin",
+      "The first crepe is always a test (and the cook's snack) — adjust heat as needed"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Crepes originated in Brittany in the 12th century, initially as buckwheat galettes when Crusaders brought buckwheat from the East. Buckwheat thrived in Brittany's poor soil and became the staple food of the Breton peasantry. Wheat crepes came later as wheat flour became more affordable. La Chandeleur (Candlemas) on February 2nd is the traditional crepe-eating holiday in France.",
+    "cultural_importance": "Crepes are deeply embedded in both Breton identity and French national food culture. La Chandeleur (February 2) is celebrated across France by making and eating crepes — tradition holds that if you can flip a crepe in the pan while holding a gold coin in your other hand, you will have prosperity for the year. Creperies are to Brittany what pizzerias are to Naples.",
+    "traditional_occasions": [
+      "La Chandeleur (February 2 — national crepe day)",
+      "Everyday lunch and dinner at creperies",
+      "Street food at markets and festivals",
+      "Late-night snack (crepe stands near bars and nightlife areas)"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Galette Complete",
+      "description": "The classic savory buckwheat galette filled with ham, a fried egg, and Gruyere or Emmental cheese"
+    },
+    {
+      "name": "Crepe Suzette",
+      "description": "The legendary dessert crepe flambeed tableside in orange butter sauce and Grand Marnier"
+    },
+    {
+      "name": "Crepe au Nutella et Banane",
+      "description": "The modern favorite — sweet wheat crepe with Nutella and sliced banana, ubiquitous at street stands"
+    },
+    {
+      "name": "Galette Saucisse",
+      "description": "A Breton street food classic: a grilled sausage wrapped in a buckwheat galette, eaten by hand"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Breton cider (cidre) served in ceramic bowls (bolees)",
+      "Lait ribot (buttermilk)",
+      "Green salad with a savory galette",
+      "A ball of ice cream or whipped cream with sweet crepes"
+    ],
+    "presentation": "Savory galettes are folded into a square with the filling visible in the center. Sweet crepes are folded into quarters or rolled. Street crepes are served in a paper cone or folded in half.",
+    "eating_etiquette": "In a sit-down creperie, eat with a knife and fork. Street crepes are eaten by hand. In Brittany, always pair savory galettes with cider, not wine."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "150-400 kcal depending on filling",
+    "health_benefits": [
+      "Buckwheat galettes are naturally gluten-free and high in fiber",
+      "Good source of protein from eggs",
+      "Buckwheat is rich in rutin (supports cardiovascular health)"
+    ],
+    "dietary_notes": [
+      "Buckwheat galettes are naturally gluten-free",
+      "Sweet crepes contain gluten from wheat flour",
+      "Calorie count varies enormously based on filling choices"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Breizh Cafe (Paris & Cancale) — the gold standard of modern creperies",
+      "Creperie Josselin (Paris, Montparnasse) — legendary Parisian creperie",
+      "La Krampouzerie (Quimper, Brittany) — authentic Breton creperie"
+    ],
+    "street_food_areas": [
+      "Rue du Montparnasse (Paris) — lined with creperies",
+      "Street stands throughout Paris (Champ de Mars, Latin Quarter, Marais)",
+      "Markets and festivals throughout France"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 3-6 (crepe stand with basic fillings)",
+      "restaurant": "EUR 8-14 (galette or crepe at a creperie)",
+      "upscale": "EUR 15-25 (gourmet creperies with premium ingredients)"
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": 3,
+  "slug": "pastis",
+  "name": {
+    "en": "Pastis",
+    "fr": "Pastis"
+  },
+  "category": "spirit",
+  "region": "provence",
+  "description": {
+    "en": "Anise-flavored aperitif from Provence, traditionally diluted with cold water, turning from amber to milky white"
+  },
+  "ingredients": [
+    "Star anise",
+    "Licorice root",
+    "Neutral spirit",
+    "Sugar",
+    "Herbs and botanicals (fennel, cardamom, pepper)"
+  ],
+  "image": "/images/drinks/pastis.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "5 minutes (serving)",
+  "difficulty": "easy",
+  "price_range": "budget",
+  "seo": {
+    "metaTitle": "Pastis | France's Beloved Anise Aperitif from Provence",
+    "metaDescription": "Discover Pastis — the iconic anise-flavored aperitif of southern France. Learn about Ricard, Pastis 51, and the ritual of diluting with cold water."
+  },
+  "tags": [
+    "french-drinks",
+    "france",
+    "spirit",
+    "aperitif",
+    "anise",
+    "provence",
+    "marseille",
+    "pastis",
+    "ricard"
+  ],
+  "enhanced_description": "Pastis is the soul of Provence, an anise-flavored spirit that embodies the sun-drenched lifestyle of southern France. Created in the 1930s as a legal replacement for the banned absinthe, Pastis quickly became the national aperitif of France, particularly in the south. Paul Ricard, a young entrepreneur from Marseille, launched his eponymous Pastis in 1932, followed shortly by Pastis 51 from Pernod. Together, Ricard and Pernod (now merged as Pernod Ricard) dominate the market, though dozens of artisan producers create distinctive regional versions. Pastis is made by macerating star anise, licorice root, and a blend of aromatic herbs and spices in neutral spirit, then sweetening slightly with sugar. The resulting amber-golden liquid has a distinctive aniseed flavor with herbal complexity. The magic of Pastis lies in its serving ritual: pour approximately 2 centiliters of Pastis into a tall glass, then add five to seven parts cold water. As the water hits the spirit, essential oils from the anise dissolve out of suspension, transforming the clear amber liquid into a cloudy, milky-white emulsion — a phenomenon called the louche effect or 'troubling.' This opalescent transformation is mesmerizing and theatrical, an essential part of the drinking experience. In Marseille and across Provence, Pastis is more than a drink — it is a social institution. The late afternoon ritual of sipping Pastis on a cafe terrace while playing petanque (boules) in the dappled shade of plane trees is the quintessential image of southern French life. A 'pastaga,' as it is affectionately called in Marseille slang, accompanies conversations, card games, and the gentle art of doing nothing. The drink is invariably accompanied by small dishes — olives, tapenade, anchoiade, or chips — making it the original aperitif experience.",
+  "detailed_ingredients": [
+    {
+      "name": "Star Anise (Badiane)",
+      "purpose": "The primary flavoring agent, providing the characteristic aniseed taste and the louche effect when water is added",
+      "substitutes": ["Green anise in some traditional recipes"]
+    },
+    {
+      "name": "Licorice Root (Reglisse)",
+      "purpose": "Adds sweetness, depth, and a distinctive earthy-sweet flavor that distinguishes Pastis from other anise spirits",
+      "substitutes": ["No direct substitute"]
+    },
+    {
+      "name": "Neutral Spirit",
+      "purpose": "The base alcohol, typically distilled from grain or beet, providing a clean canvas for the botanicals",
+      "substitutes": ["Grape spirit in some artisanal versions"]
+    },
+    {
+      "name": "Herbal Botanicals",
+      "purpose": "A blend of fennel, cardamom, pepper, sage, and other herbs that vary by producer, adding complexity and individuality",
+      "substitutes": ["Each brand has its proprietary blend"]
+    }
+  ],
+  "cultural_significance": {
+    "origin_story": "When absinthe was banned in France in 1915 due to fears about thujone toxicity, a gap opened in the aperitif market. Initially, lower-proof anise drinks called 'anis' were permitted. In 1932, the French government legalized higher-proof anise spirits with licorice, and Paul Ricard, then just 23 years old, seized the opportunity, creating the first true Pastis in Marseille. His bold marketing and the drink's appeal to working-class and Mediterranean culture made it an instant hit.",
+    "cultural_importance": "Pastis is inseparable from the culture of southern France. It is the drink of petanque players, fishermen, market vendors, and cafe regulars. Marcel Pagnol's novels and films immortalized Pastis culture in Provence. The drink outsells whisky in France and is the country's best-selling spirit, with over 130 million liters consumed annually.",
+    "traditional_occasions": [
+      "Aperitif hour (l'heure de l'apero)",
+      "Petanque (boules) games",
+      "Bastille Day celebrations",
+      "Summer gatherings in Provence",
+      "Cafe terrace socializing"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Ricard",
+      "description": "The original and best-selling Pastis brand, created by Paul Ricard in 1932, with pronounced anise and licorice notes"
+    },
+    {
+      "name": "Pastis 51",
+      "description": "The Pernod brand's Pastis, launched in 1951, slightly lighter and more herbal than Ricard"
+    },
+    {
+      "name": "Henri Bardouin",
+      "description": "Premium artisanal Pastis from Forcalquier in Haute-Provence, made with over 65 herbs and spices"
+    },
+    {
+      "name": "Mauresque",
+      "description": "Pastis mixed with orgeat (almond) syrup, creating a sweet, milky cocktail popular in the south"
+    },
+    {
+      "name": "Tomate",
+      "description": "Pastis mixed with grenadine syrup, turning the drink a vibrant red color"
+    },
+    {
+      "name": "Perroquet",
+      "description": "Pastis mixed with green mint syrup, creating a bright green refreshing variation"
+    }
+  ],
+  "where_to_find": {
+    "best_restaurants": [
+      "La Boite a Sardine (Marseille) — quintessential Marseillais seafood bistro",
+      "Chez Etienne (Marseille) — legendary pizzeria in Le Panier with generous Pastis pours",
+      "Les Arcenaulx (Marseille) — elegant brasserie in the Vieux-Port area"
+    ],
+    "street_food_areas": [
+      "Vieux-Port de Marseille — the waterfront cafes and bars",
+      "Cours Mirabeau in Aix-en-Provence — cafe terraces under plane trees",
+      "Any village square in Provence during petanque hour"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 2.50-4 (glass of Pastis at a neighborhood bar)",
+      "restaurant": "EUR 4-7 (Pastis at a restaurant or upscale cafe)",
+      "upscale": "EUR 7-12 (premium artisanal Pastis like Henri Bardouin)"
+    }
+  }
+}

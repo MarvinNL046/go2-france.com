@@ -1,0 +1,62 @@
+{
+  "slug": "alsace-lorraine",
+  "name": { "en": "Alsace-Lorraine" },
+  "image": "/images/regions/alsace-lorraine.webp",
+  "description": { "en": "France's eastern borderland with Germany is a region of fairy-tale half-timbered villages, world-class white wines, Christmas markets, and a unique Franco-Germanic culture found nowhere else in the country. The Alsace Wine Route winds through vineyard-draped hills and picture-perfect villages like Colmar, Riquewihr, and Eguisheim, while Strasbourg's Gothic cathedral and Petite France quarter rank among France's most enchanting urban landscapes." },
+  "overview": "Alsace and Lorraine, though now part of the larger Grand Est administrative region, retain distinct identities shaped by centuries of alternating French and German rule. Alsace, between the Rhine River and the Vosges Mountains, is France's most distinctive province — its half-timbered houses, stork nests, flammekueche (tarte flambee), and Riesling wines reflect a culture that is neither purely French nor purely German but a unique synthesis of both. The Route des Vins d'Alsace, stretching 170 km from Marlenheim to Thann, passes through over 70 wine-producing villages and is considered one of the most beautiful wine routes in the world. Colmar, with its canals and perfectly preserved medieval center (Petite Venise), is often called the most beautiful town in France. Lorraine, further west, contributed the quiche (Quiche Lorraine), the mirabelle plum, and the Art Nouveau heritage of Nancy with its spectacular Place Stanislas. The region's Christmas markets — particularly those in Strasbourg, Colmar, and Kaysersberg — are among the most atmospheric in Europe.",
+  "highlights": [
+    "Strasbourg — cathedral, Petite France, European Parliament",
+    "Alsace Wine Route — 170 km of vineyards and fairy-tale villages",
+    "Colmar — Petite Venise, Unterlinden Museum, half-timbered old town",
+    "Christmas markets — Strasbourg (oldest in France), Colmar, Kaysersberg",
+    "Nancy — Place Stanislas (one of Europe's finest squares), Art Nouveau",
+    "Riquewihr & Eguisheim — picture-perfect wine villages",
+    "Vosges Mountains — hiking, skiing, and Route des Cretes panoramic road",
+    "Haut-Koenigsbourg Castle — restored medieval fortress with Rhine Valley views"
+  ],
+  "cities": ["strasbourg"],
+  "bestTimeToVisit": "May to September for warm weather, wine tasting, and hiking. Late November to December for Christmas markets — the region's most magical season.",
+  "topExperiences": [
+    { "title": "Alsace Wine Route Drive", "description": "Drive or cycle the 170 km Route des Vins d'Alsace from Marlenheim to Thann, stopping in villages like Obernai, Riquewihr, Kaysersberg, and Eguisheim. Taste Riesling, Gewurztraminer, Pinot Gris, and Cremant d'Alsace directly from producers. Many wineries offer free tastings." },
+    { "title": "Strasbourg Christmas Market", "description": "The Christkindelsmärik, held since 1570, is France's oldest and most famous Christmas market. Over 300 chalets spread across multiple squares sell handcrafted ornaments, bredele cookies, mulled wine, and foie gras. The cathedral is dramatically illuminated." },
+    { "title": "Haut-Koenigsbourg Castle Visit", "description": "Perched at 757 meters on a spur of the Vosges Mountains, this meticulously restored medieval fortress offers panoramic views of the Alsace plain, the Black Forest in Germany, and on clear days, the Swiss Alps." }
+  ],
+  "gettingThere": {
+    "byAir": "Strasbourg Airport (SXB) and Basel-Mulhouse-Freiburg (BSL) are the main airports. BSL is a unique tri-national airport shared by France, Germany, and Switzerland.",
+    "byTrain": "TGV from Paris to Strasbourg in 1h50, to Colmar in 2h30, to Nancy in 1h30. Regional TER trains connect all major towns along the Wine Route and Rhine Valley. ICE trains connect to Frankfurt and Stuttgart.",
+    "byBus": "FlixBus connects to Paris, Lyon, Frankfurt, and other European cities."
+  },
+  "gettingAround": "The Alsace Wine Route is best explored by car, though cycling is increasingly popular (flat terrain between villages). TER trains connect Strasbourg, Colmar, Mulhouse, and intermediate towns frequently. Strasbourg has excellent tram and bike infrastructure. Lorraine is connected by TER trains between Nancy, Metz, and Strasbourg.",
+  "accommodation": {
+    "budget": "Gites ruraux from EUR 40-70/night. Hostels in Strasbourg from EUR 22-30/night.",
+    "midRange": "Charming chambres d'hotes in wine villages EUR 70-130/night. Hotels in Strasbourg and Colmar EUR 80-160/night.",
+    "luxury": "Wine estate hotels EUR 150-400/night. Chateau d'Isenbourg in Rouffach from EUR 200/night."
+  },
+  "food": {
+    "description": "Alsatian cuisine reflects the region's Franco-Germanic heritage with hearty, comforting dishes and world-class wines.",
+    "specialties": [
+      "Flammekueche (tarte flambee) — thin flatbread with creme fraiche, onions, and lardons",
+      "Choucroute garnie — sauerkraut with assorted sausages and smoked pork",
+      "Baeckeoffe — slow-cooked casserole of three meats marinated in Riesling",
+      "Kougelhopf — traditional Alsatian brioche cake, sweet or savory",
+      "Alsace wines — Riesling, Gewurztraminer, Pinot Gris, Cremant d'Alsace",
+      "Quiche Lorraine — the original open custard tart with bacon",
+      "Bredele — traditional Alsatian Christmas cookies in dozens of varieties",
+      "Munster cheese — pungent washed-rind cheese from the Vosges valleys"
+    ]
+  },
+  "tips": [
+    "Christmas market season (late November to December 24) is magical but extremely crowded — book accommodation months in advance, especially in Strasbourg and Colmar.",
+    "Many Alsace wineries offer free tastings, but it is customary to purchase at least a bottle if you taste multiple wines.",
+    "The Route des Vins villages are small — visiting 3-4 in a day is ideal. Riquewihr, Kaysersberg, and Eguisheim are the most photogenic.",
+    "Nancy's Place Stanislas is best seen illuminated at night — the light show in summer is spectacular.",
+    "Alsatian dialect (Elsassisch) is still spoken by older residents, particularly in rural villages. Menus often have both French and Alsatian names."
+  ],
+  "safetyNotes": "Extremely safe region. Winter driving in the Vosges Mountains may require snow chains or winter tires. Christmas markets are crowded — keep valuables secure.",
+  "tags": ["wine-route", "christmas-markets", "half-timbered-villages", "gastronomy", "franco-german", "cycling", "culture"],
+  "seo": {
+    "metaTitle": "Alsace-Lorraine Travel Guide 2026 — Wine Route, Christmas Markets & Fairy-Tale Villages",
+    "metaDescription": "Complete guide to Alsace-Lorraine. Explore the Alsace Wine Route, Strasbourg and Colmar Christmas markets, fairy-tale villages, and Franco-German cuisine. Tips on wine tasting, cycling, and when to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

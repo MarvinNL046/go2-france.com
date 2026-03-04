@@ -1,0 +1,88 @@
+{
+  "slug": "paris",
+  "name": {
+    "en": "Paris"
+  },
+  "image": "/images/cities/paris.webp",
+  "region": "Ile-de-France",
+  "highlights": [
+    "Eiffel Tower & Seine River",
+    "Louvre Museum",
+    "Montmartre & Sacre-Coeur",
+    "World-Class Gastronomy"
+  ],
+  "description": {
+    "en": "The City of Light is the undisputed cultural capital of Europe — a breathtaking tapestry of Haussmann boulevards, world-class museums, sidewalk cafes, and architectural grandeur that has inspired artists, writers, and lovers for centuries. From the iron lattice of the Eiffel Tower to the masterpieces of the Louvre, Paris rewards every kind of traveler with beauty, history, and an art de vivre found nowhere else on earth."
+  },
+  "overview": "Paris is the capital and most populous city of France, home to over 2.1 million people within the city limits and 12 million in the greater metropolitan area. Founded as a Roman settlement called Lutetia in the 3rd century BC, Paris grew to become the political, economic, and cultural heart of France and one of the most influential cities in Western civilization. The city is divided into 20 arrondissements (districts) spiraling outward from the Ile de la Cite, the island in the Seine where Notre-Dame Cathedral stands. The Haussmann renovation of the 1850s-1870s gave Paris its iconic wide boulevards, uniform limestone facades, and zinc rooftops that define the skyline today. World-class museums — the Louvre, Musee d'Orsay, Centre Pompidou, Musee de l'Orangerie — contain some of humanity's greatest artistic achievements. The city's cafe culture, haute cuisine restaurants, patisseries, and wine bars make it one of the world's supreme gastronomic destinations. From the bohemian lanes of Montmartre to the chic boutiques of Le Marais, Paris offers endless discoveries for every kind of traveler.",
+  "neighborhoods": [
+    {
+      "name": "Le Marais (3rd & 4th arrondissements)",
+      "description": "One of Paris's most fashionable and historic quarters, Le Marais is a maze of medieval streets lined with aristocratic mansions (hotels particuliers), trendy boutiques, art galleries, Jewish bakeries on Rue des Rosiers, and some of the city's best falafel. The Place des Vosges, the oldest planned square in Paris, is an absolute masterpiece of symmetry and elegance.",
+      "highlights": [
+        "Place des Vosges",
+        "Musee Carnavalet (free)",
+        "Rue des Rosiers falafel",
+        "Centre Pompidou"
+      ]
+    },
+    {
+      "name": "Montmartre (18th arrondissement)",
+      "description": "Perched on the highest hill in Paris, Montmartre retains the bohemian village atmosphere that attracted Renoir, Toulouse-Lautrec, and Picasso in the late 19th century. The white dome of the Sacre-Coeur Basilica dominates the skyline, while the steep cobblestone streets, vineyard, and Place du Tertre with its portrait artists evoke the artistic golden age. The Moulin Rouge cabaret stands at the foot of the hill.",
+      "highlights": [
+        "Sacre-Coeur Basilica",
+        "Place du Tertre",
+        "Moulin Rouge",
+        "Panoramic city views"
+      ]
+    },
+    {
+      "name": "Saint-Germain-des-Pres (6th arrondissement)",
+      "description": "The intellectual heart of Paris where Sartre and de Beauvoir held court at Cafe de Flore and Les Deux Magots. Today this Left Bank quarter is an elegant blend of literary cafes, independent bookshops, antique dealers, art galleries, and the beautiful Jardin du Luxembourg. The Musee d'Orsay, housed in a spectacular Belle Epoque train station, displays the world's finest Impressionist collection.",
+      "highlights": [
+        "Cafe de Flore & Les Deux Magots",
+        "Jardin du Luxembourg",
+        "Musee d'Orsay",
+        "Shakespeare and Company bookshop"
+      ]
+    },
+    {
+      "name": "Latin Quarter (5th arrondissement)",
+      "description": "Named for the Latin once spoken by students at the Sorbonne, the Latin Quarter is Paris's oldest intellectual district. Narrow medieval streets wind past the Pantheon, ancient Roman baths at the Cluny Museum, and countless bookshops, budget eateries, and student cafes. The area around Rue Mouffetard is one of the city's liveliest market streets.",
+      "highlights": [
+        "Pantheon",
+        "Musee de Cluny (Medieval Museum)",
+        "Rue Mouffetard market",
+        "Sorbonne University"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Paris is served by two major airports: Charles de Gaulle (CDG), located 25 km northeast of the city center, handles most international flights with direct connections to virtually every major city worldwide. RER B train connects CDG to central Paris in 35 minutes for EUR 11.45. Orly Airport (ORY), 13 km south, serves domestic and European flights. The Orlyval automated train connects to RER B, or take the OrlyBus to Denfert-Rochereau. Taxis from CDG cost a flat EUR 55 to Right Bank and EUR 62 to Left Bank.",
+    "byTrain": "Paris is the hub of France's excellent TGV high-speed rail network. The city has six major train stations: Gare du Nord (Eurostar to London in 2h15, Thalys to Brussels in 1h22, Amsterdam in 3h20), Gare de Lyon (TGV to Lyon 2h, Marseille 3h15, Nice 5h30), Gare Montparnasse (TGV to Bordeaux 2h, Brittany), Gare de l'Est (TGV to Strasbourg 1h50, trains to Germany and Switzerland), Gare Saint-Lazare (Normandy, Giverny), and Gare d'Austerlitz (central/southwest France).",
+    "byBus": "FlixBus, BlaBlaCar Bus, and Eurolines operate from Bercy Seine bus station with budget connections to major French and European cities. Paris to Lyon from EUR 10, Paris to Brussels from EUR 15."
+  },
+  "gettingAround": "The Paris Metro is one of the world's most efficient public transit systems, with 16 lines and 300+ stations covering virtually every corner of the city. A single t+ ticket costs EUR 2.15 (EUR 1.73 in a carnet of 10). The Navigo Easy card or Navigo Decouverte weekly pass (EUR 30.75, Monday-Sunday) offer unlimited travel on Metro, RER within Paris, buses, and trams. The RER commuter trains connect to Versailles (Line C), CDG airport (Line B), and Disneyland (Line A). Velib' bikeshare has 20,000 bikes at 1,400 stations throughout the city — EUR 5 for a day pass. Walking is one of the best ways to explore Paris, as the city is remarkably compact.",
+  "bestTimeToVisit": {
+    "best": "April to June, September to October",
+    "description": "Spring and early autumn offer the most pleasant weather, manageable tourist crowds, and the full beauty of Paris's parks and gardens in bloom or turning golden. Summer is warm and lively but extremely crowded. Winter is atmospheric with holiday markets and fewer tourists, though cold and grey.",
+    "seasons": {
+      "spring": "April-June: 10-22°C (50-72°F). Cherry blossoms, outdoor terraces open, ideal for walking. Paris at its most beautiful.",
+      "summer": "July-August: 18-28°C (64-82°F). Long days, outdoor festivals, Paris Plages (artificial beaches along the Seine). Very crowded; many Parisians leave the city in August and some shops close.",
+      "autumn": "September-November: 8-20°C (46-68°F). Golden foliage in parks, fewer tourists, cultural season begins with exhibitions and performances. Ideal for museums and dining.",
+      "winter": "December-February: 2-8°C (36-46°F). Christmas markets, holiday lights on the Champs-Elysees, fewer crowds. Cold and often grey but atmospheric. January sales (soldes) offer excellent shopping."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 60-100/day",
+    "midRange": "EUR 150-300/day",
+    "luxury": "EUR 400-2000+/day",
+    "details": "Paris is expensive but offers good value at every level. Hostel dorms run EUR 30-50/night. Budget hotels in outer arrondissements EUR 80-120/night. Mid-range hotels in central Paris EUR 150-300/night. Palace hotels (Ritz, Le Bristol, Four Seasons) EUR 800-5,000+/night. A baguette sandwich costs EUR 5-7. Sit-down bistro lunch (plat du jour) EUR 15-20. Dinner at a mid-range restaurant EUR 30-50/person. Many museums have free first Sundays or are always free (Carnavalet, Petit Palais). The Paris Museum Pass (EUR 62/2 days, EUR 77/4 days) covers 60+ museums and monuments."
+  },
+  "tags": ["culture", "gastronomy", "art", "romance", "history", "architecture", "museums", "shopping"],
+  "seo": {
+    "metaTitle": "Paris Travel Guide 2026 — Best Things to Do, See & Eat in Paris",
+    "metaDescription": "Complete guide to visiting Paris, France. Discover the Eiffel Tower, Louvre Museum, Montmartre, the best restaurants and neighborhoods, plus practical tips for getting around, where to stay, and when to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

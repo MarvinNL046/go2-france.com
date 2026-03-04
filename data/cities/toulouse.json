@@ -1,0 +1,88 @@
+{
+  "slug": "toulouse",
+  "name": {
+    "en": "Toulouse"
+  },
+  "image": "/images/cities/toulouse.webp",
+  "region": "Occitanie",
+  "highlights": [
+    "La Ville Rose (The Pink City)",
+    "Cite de l'Espace (Space City)",
+    "Basilique Saint-Sernin",
+    "Cassoulet & Southwest Cuisine"
+  ],
+  "description": {
+    "en": "Known as La Ville Rose for the distinctive pink terracotta of its Renaissance buildings, Toulouse is the dynamic capital of southwest France and the center of Europe's aerospace industry. Home to Airbus headquarters and the interactive Cite de l'Espace museum, the city also boasts one of France's greatest Romanesque churches, a thriving university culture, the Canal du Midi, and a robust culinary tradition anchored by cassoulet, duck confit, and violet-flavored confections."
+  },
+  "overview": "Toulouse is France's fourth-largest city with a population of 500,000 (1.4 million in the metropolitan area) and the capital of the Occitanie region. The city's distinctive pink hue comes from the terracotta bricks used in construction since Roman times — when the afternoon sun hits the facades, the entire city glows rose-pink. Toulouse has been at the heart of European aviation since the early 20th century: Antoine de Saint-Exupery flew mail planes from here, the Concorde was assembled here, and today Airbus delivers commercial aircraft from its massive facilities on the western edge of the city. The Cite de l'Espace is one of Europe's best space-themed museums. The Basilique Saint-Sernin, the largest Romanesque church in Europe, is a UNESCO-listed stop on the pilgrimage route to Santiago de Compostela. The Canal du Midi, another UNESCO site, passes through the city on its 240 km journey from Toulouse to the Mediterranean. With over 100,000 students, Toulouse has a youthful energy, vibrant nightlife, and an excellent restaurant scene anchored by southwest French specialties.",
+  "neighborhoods": [
+    {
+      "name": "Place du Capitole & City Center",
+      "description": "The monumental Place du Capitole, with its grand 18th-century Capitole building (city hall and opera house), is the beating heart of Toulouse. The surrounding streets feature the city's finest Renaissance mansions (hotels particuliers), the covered Marche Victor Hugo food market, and the pedestrian shopping streets of Rue Saint-Rome and Rue des Changes.",
+      "highlights": [
+        "Place du Capitole",
+        "Marche Victor Hugo",
+        "Hotel d'Assezat (Bemberg Foundation)",
+        "Renaissance mansions"
+      ]
+    },
+    {
+      "name": "Saint-Sernin & University Quarter",
+      "description": "Centered on the magnificent Basilique Saint-Sernin, the largest remaining Romanesque church in Europe, this quarter is home to Toulouse's universities and has a lively student atmosphere. The Jacobins Convent, with its extraordinary palm-tree vault and the relics of Thomas Aquinas, is an architectural masterpiece.",
+      "highlights": [
+        "Basilique Saint-Sernin",
+        "Couvent des Jacobins",
+        "Musee Saint-Raymond (antiquities)",
+        "Student bars and restaurants"
+      ]
+    },
+    {
+      "name": "Carmes & Saint-Etienne",
+      "description": "South of the Place du Capitole, the Carmes quarter leads to the Cathedrale Saint-Etienne with its famously asymmetric facade — the result of centuries of interrupted construction. The nearby Jardin Royal and Grand Rond park form a green belt. The Marche des Carmes is an excellent neighborhood food market.",
+      "highlights": [
+        "Cathedrale Saint-Etienne",
+        "Jardin Royal",
+        "Marche des Carmes",
+        "Musee des Augustins"
+      ]
+    },
+    {
+      "name": "Saint-Cyprien (Left Bank)",
+      "description": "Across the Garonne via the Pont Neuf (the oldest bridge in Toulouse, completed in 1632), Saint-Cyprien has evolved into a creative neighborhood with Les Abattoirs contemporary art museum, riverside bars, and local restaurants. The views of the pink city across the river at sunset are spectacular.",
+      "highlights": [
+        "Les Abattoirs (modern art museum)",
+        "Pont Neuf sunset views",
+        "Riverside bars and restaurants",
+        "Prairie des Filtres park"
+      ]
+    }
+  ],
+  "gettingThere": {
+    "byAir": "Toulouse-Blagnac Airport (TLS) is 8 km northwest of the city center with domestic and European flights. The Airport shuttle bus connects to Compans-Caffarelli metro station in 20 minutes for EUR 9. Taxis cost approximately EUR 25-30.",
+    "byTrain": "Gare de Toulouse-Matabiau is served by TGV from Paris Montparnasse in 4h15 (a new high-speed line is under construction). Direct trains to Bordeaux (2h10), Marseille (4h), Lyon (4h30), and Barcelona (4h30 via Perpignan).",
+    "byBus": "FlixBus and BlaBlaCar Bus connect Toulouse to Paris, Bordeaux, Barcelona, and other cities at budget prices."
+  },
+  "gettingAround": "Toulouse has 2 metro lines and a growing tram network. Tiseo operates the system with a single ticket costing EUR 1.70 valid for 1 hour. The city center is compact and walkable. VeloToulouse bikeshare has 2,400 bikes at 260 stations. The Canal du Midi towpath is excellent for cycling into the countryside.",
+  "bestTimeToVisit": {
+    "best": "April to June, September to October",
+    "description": "Toulouse has a mild climate moderated by both Atlantic and Mediterranean influences. Spring and autumn are ideal with warm days and comfortable temperatures. Summer can be very hot. The violet season (February-March) is unique to Toulouse.",
+    "seasons": {
+      "spring": "April-June: 12-24°C (54-75°F). Pleasant weather, outdoor terraces, violet festival in February-March.",
+      "summer": "July-August: 18-32°C (64-90°F). Hot and dry. Outdoor festivals along the Garonne. Some restaurants close in August.",
+      "autumn": "September-October: 14-22°C (57-72°F). Warm and sunny. Wine harvest season nearby. Ideal for cycling the Canal du Midi.",
+      "winter": "November-March: 4-12°C (39-54°F). Mild winters. Christmas market on Place du Capitole. Cassoulet is perfect winter comfort food."
+    }
+  },
+  "budget": {
+    "backpacker": "EUR 40-70/day",
+    "midRange": "EUR 100-200/day",
+    "luxury": "EUR 250-700+/day",
+    "details": "Toulouse is very affordable by French standards. Hostel dorms from EUR 18-28/night. Budget hotels EUR 50-80/night. A cassoulet at a traditional restaurant costs EUR 16-22. Lunch menu at Marche Victor Hugo upstairs restaurants EUR 12-18. Cite de l'Espace entry EUR 25."
+  },
+  "tags": ["aerospace", "architecture", "gastronomy", "culture", "canal-du-midi", "romanesque", "student-city"],
+  "seo": {
+    "metaTitle": "Toulouse Travel Guide 2026 — La Ville Rose, Space & Southwest Cuisine",
+    "metaDescription": "Complete guide to visiting Toulouse, France's Pink City. Explore the Basilique Saint-Sernin, Cite de l'Espace, Canal du Midi, and discover cassoulet and southwest cuisine. Tips on transport, budget, and the best time to visit."
+  },
+  "updatedAt": "2026-03-01"
+}

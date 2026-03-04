@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "slug": "bordeaux-wine",
+    "name": { "en": "Bordeaux Wine", "fr": "Vin de Bordeaux" },
+    "category": "wine",
+    "region": "nouvelle-aquitaine",
+    "image": "/images/drinks/bordeaux-wine.webp",
+    "description": { "en": "World-renowned red wine from the Bordeaux region, known for its complex blends of Cabernet Sauvignon, Merlot, and Cabernet Franc" },
+    "price_range": "mid-range"
+  },
+  {
+    "slug": "champagne",
+    "name": { "en": "Champagne", "fr": "Champagne" },
+    "category": "wine",
+    "region": "champagne",
+    "image": "/images/drinks/champagne.webp",
+    "description": { "en": "The world's most famous sparkling wine, produced exclusively in the Champagne region using the traditional methode champenoise" },
+    "price_range": "premium"
+  },
+  {
+    "slug": "pastis",
+    "name": { "en": "Pastis", "fr": "Pastis" },
+    "category": "spirit",
+    "region": "provence",
+    "image": "/images/drinks/pastis.webp",
+    "description": { "en": "Anise-flavored aperitif from Provence, traditionally diluted with cold water, turning from amber to milky white" },
+    "price_range": "budget"
+  },
+  {
+    "slug": "cidre",
+    "name": { "en": "Cidre (French Cider)", "fr": "Cidre" },
+    "category": "cider",
+    "region": "normandy",
+    "image": "/images/drinks/cidre.webp",
+    "description": { "en": "Traditional sparkling cider from Normandy and Brittany, made from heritage apple varieties and served in ceramic bowls" },
+    "price_range": "budget"
+  },
+  {
+    "slug": "cognac",
+    "name": { "en": "Cognac", "fr": "Cognac" },
+    "category": "spirit",
+    "region": "nouvelle-aquitaine",
+    "image": "/images/drinks/cognac.webp",
+    "description": { "en": "Prestigious double-distilled grape brandy from the Cognac region, aged in Limousin oak barrels and classified by age" },
+    "price_range": "premium"
+  },
+  {
+    "slug": "kir",
+    "name": { "en": "Kir / Kir Royale", "fr": "Kir / Kir Royal" },
+    "category": "cocktail",
+    "region": "burgundy",
+    "image": "/images/drinks/kir.webp",
+    "description": { "en": "Classic French aperitif combining creme de cassis with white Burgundy wine or Champagne" },
+    "price_range": "mid-range"
+  },
+  {
+    "slug": "calvados",
+    "name": { "en": "Calvados", "fr": "Calvados" },
+    "category": "spirit",
+    "region": "normandy",
+    "image": "/images/drinks/calvados.webp",
+    "description": { "en": "Premium apple brandy from Normandy, distilled from cider and aged in oak barrels" },
+    "price_range": "mid-range"
+  },
+  {
+    "slug": "french-coffee",
+    "name": { "en": "French Coffee", "fr": "Cafe Francais" },
+    "category": "hot-drink",
+    "region": "national",
+    "image": "/images/drinks/french-coffee.webp",
+    "description": { "en": "The cornerstone of French cafe culture, from the morning espresso at the zinc bar to the leisurely cafe creme on a terrace" },
+    "price_range": "budget"
+  }
+]

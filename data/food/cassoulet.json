@@ -1,0 +1,165 @@
+{
+  "id": 9,
+  "slug": "cassoulet",
+  "name": {
+    "en": "Cassoulet",
+    "fr": "Cassoulet"
+  },
+  "category": "main-dish",
+  "region": "southwest",
+  "description": {
+    "en": "Slow-cooked casserole of white beans, duck confit, Toulouse sausage, and pork",
+    "fr": "Ragout de haricots blancs au confit de canard, saucisse de Toulouse et porc, longuement mijote"
+  },
+  "ingredients": [
+    "white beans (Tarbais or lingot)",
+    "duck confit",
+    "Toulouse sausage",
+    "pork belly",
+    "garlic",
+    "tomatoes",
+    "onion",
+    "bouquet garni",
+    "breadcrumbs",
+    "duck fat"
+  ],
+  "allergens": [
+    "gluten"
+  ],
+  "dietary": [],
+  "image": "/images/food/cassoulet.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "6-8 hours (plus overnight bean soaking)",
+  "difficulty": "hard",
+  "price_range": "moderate",
+  "seo": {
+    "metaTitle": {
+      "en": "Cassoulet | Classic French Bean and Meat Casserole"
+    },
+    "metaDescription": {
+      "en": "Discover cassoulet, the legendary slow-cooked casserole of white beans, duck confit, and Toulouse sausage from southwest France — the ultimate French comfort food."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "southwest",
+    "toulouse",
+    "beans",
+    "duck",
+    "sausage",
+    "comfort-food",
+    "winter"
+  ],
+  "enhanced_description": "Cassoulet is the undisputed king of French comfort food — a monumental slow-cooked casserole of white beans, duck confit, pork, and sausage that has been warming the souls of southwestern France for centuries. Named after the cassole, the cone-shaped earthenware pot in which it is traditionally cooked, cassoulet is the subject of fierce regional rivalry between three Languedoc towns: Castelnaudary (which claims to be the birthplace and insists on pork and sausage only), Toulouse (which adds its famous garlic sausage and duck confit), and Carcassonne (which includes lamb or partridge). The preparation of an authentic cassoulet is an undertaking that spans two days: beans are soaked overnight, meats are prepared and braised separately, and everything is assembled in the cassole and baked slowly for hours. The legendary crust that forms on top — a golden, bubbling mantle of breadcrumbs enriched with duck fat — is traditionally broken and stirred back into the cassoulet seven times during cooking, each time regenerating a new crust. The result is a dish of extraordinary depth: creamy beans infused with the rendered fat of duck confit and pork, chunks of meltingly tender meat, and the earthy, garlicky sausage that binds everything together. Cassoulet is emphatically a winter dish, best enjoyed on a cold evening with a robust red wine from the nearby appellations of Minervois, Corbieres, or Cahors. Attempting cassoulet in summer is considered slightly eccentric, even in the south.",
+  "detailed_ingredients": [
+    {
+      "name": "White Beans (Haricots Tarbais or Lingots)",
+      "purpose": "The foundation of cassoulet — these large, creamy white beans absorb the meaty cooking liquids while holding their shape",
+      "substitutes": [
+        "Great Northern beans",
+        "Cannellini beans",
+        "Navy beans (smaller, but acceptable)"
+      ]
+    },
+    {
+      "name": "Duck Confit (Confit de Canard)",
+      "purpose": "Provides rich, succulent meat and the essential duck fat that flavors the entire dish",
+      "substitutes": [
+        "Goose confit (traditional in some versions)",
+        "Slow-roasted duck legs (less traditional but acceptable)"
+      ]
+    },
+    {
+      "name": "Toulouse Sausage (Saucisse de Toulouse)",
+      "purpose": "A coarsely ground, garlic-seasoned fresh pork sausage that adds texture and garlicky flavor",
+      "substitutes": [
+        "Any coarsely ground fresh pork sausage",
+        "Italian luganega sausage"
+      ]
+    },
+    {
+      "name": "Pork Belly or Pork Rind",
+      "purpose": "Adds richness and body — the collagen from the rind melts into the beans, creating a silky texture",
+      "substitutes": [
+        "Pork shoulder",
+        "Pork hocks for extra gelatin"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Long, slow oven braising in an earthenware pot",
+    "steps_overview": "Beans are soaked overnight and par-cooked with aromatics (onion, garlic, bouquet garni, pork rind) until just tender. Duck confit legs are browned skin-side down until crisp. Toulouse sausage is browned. The cassole is layered: beans on the bottom, meats arranged in the middle, more beans on top, and the cooking liquid poured over. A layer of breadcrumbs mixed with duck fat is scattered on top. The cassoulet bakes at 150°C (300°F) for 2-3 hours. Traditionally, the crust is broken and pushed down seven times, each time reforming. The finished cassoulet should have a thick, golden crust and creamy, flavor-saturated beans beneath.",
+    "cooking_tips": [
+      "Use the best beans you can find — Tarbais beans are worth the expense",
+      "Never boil the beans vigorously or they will split — keep them at a gentle simmer",
+      "The duck fat is essential to the flavor — do not substitute with oil",
+      "The crust must be broken and reformed multiple times for proper texture development",
+      "Make it a day ahead if possible — the flavors deepen overnight"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "The origins of cassoulet are hotly debated among three rival towns. Castelnaudary claims it was invented during the Hundred Years' War (14th century) when besieged citizens pooled their remaining food — beans, pork, sausage — into a communal pot that gave them the strength to drive off the English. Historians suggest the dish more likely evolved from the Arabic fava bean and mutton stews introduced during the Moorish presence in southern France.",
+    "cultural_importance": "Cassoulet is the culinary identity of the Languedoc region and the subject of one of France's most passionate food rivalries. The Grande Conferie du Cassoulet de Castelnaudary, established in 1970, promotes and protects the dish. Debates about which town makes the 'true' cassoulet are conducted with near-religious intensity.",
+    "traditional_occasions": [
+      "Cold winter evenings",
+      "Sunday family lunch",
+      "Fete du Cassoulet (annual festival in Castelnaudary)",
+      "Harvest celebrations in Languedoc"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Cassoulet de Castelnaudary",
+      "description": "The 'original' version with pork, sausage, and pork rind — no duck or lamb"
+    },
+    {
+      "name": "Cassoulet Toulousain",
+      "description": "The Toulouse version adding duck confit and Toulouse sausage to the base recipe"
+    },
+    {
+      "name": "Cassoulet de Carcassonne",
+      "description": "The Carcassonne version that adds lamb (and sometimes partridge in hunting season)"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "A robust red wine (Cahors, Minervois, Corbieres, or Madiran)",
+      "Green salad with a sharp vinaigrette to cut the richness",
+      "Crusty country bread"
+    ],
+    "presentation": "Served directly from the cassole at the table, scooped with a large spoon through the golden crust into the creamy beans and meats below. Each serving should include a piece of duck confit, a section of sausage, and generous beans.",
+    "eating_etiquette": "Cassoulet is hearty, communal food. Serve generous portions and expect everyone at the table to slow down — this is not a dish to be rushed. Second helpings are expected."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "700-900 kcal per serving",
+    "health_benefits": [
+      "High in protein from beans and multiple meats",
+      "Rich in fiber from white beans",
+      "Good source of iron and B vitamins"
+    ],
+    "dietary_notes": [
+      "Very calorie-dense — designed as hearty winter sustenance",
+      "High in fat, particularly from duck fat and pork",
+      "Naturally gluten-free (without the breadcrumb crust)"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Le Colombier (Toulouse) — celebrated for its traditional Toulouse cassoulet",
+      "Hotel de France et Restaurant Le Grand Ecuyer (Castelnaudary) — birthplace of cassoulet",
+      "Chez l'Ami Jean (Paris) — Basque-southwest restaurant with legendary cassoulet"
+    ],
+    "street_food_areas": [
+      "Not a street food dish — found in restaurants throughout southwestern France",
+      "Covered markets in Toulouse, Carcassonne, and Castelnaudary sell it prepared",
+      "Canned cassoulet is available in every French supermarket (acceptable for emergencies)"
+    ],
+    "price_ranges": {
+      "street_food": "N/A",
+      "restaurant": "EUR 18-28 (bistro main course)",
+      "upscale": "EUR 30-45 (artisan preparation with premium ingredients)"
+    }
+  }
+}

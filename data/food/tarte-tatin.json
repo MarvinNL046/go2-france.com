@@ -1,0 +1,167 @@
+{
+  "id": 11,
+  "slug": "tarte-tatin",
+  "name": {
+    "en": "Tarte Tatin",
+    "fr": "Tarte Tatin"
+  },
+  "category": "dessert",
+  "region": "loire-valley",
+  "description": {
+    "en": "Upside-down caramelized apple tart, a famous French dessert invented by accident",
+    "fr": "Tarte aux pommes renversee et caramelisee, celebre dessert francais invente par accident"
+  },
+  "ingredients": [
+    "apples (Reinette or Golden)",
+    "butter",
+    "sugar",
+    "puff pastry or pate brisee",
+    "vanilla",
+    "lemon juice"
+  ],
+  "allergens": [
+    "gluten",
+    "dairy"
+  ],
+  "dietary": [
+    "vegetarian"
+  ],
+  "image": "/images/food/tarte-tatin.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "1 hour",
+  "difficulty": "medium",
+  "price_range": "moderate",
+  "seo": {
+    "metaTitle": {
+      "en": "Tarte Tatin | French Upside-Down Apple Tart Guide"
+    },
+    "metaDescription": {
+      "en": "Discover Tarte Tatin, the legendary French upside-down caramelized apple tart born from a happy accident in the Loire Valley — one of France's most beloved desserts."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "dessert",
+    "loire-valley",
+    "apple",
+    "caramel",
+    "pastry",
+    "tart",
+    "classic"
+  ],
+  "enhanced_description": "Tarte Tatin is one of France's most beloved and storied desserts — an upside-down apple tart in which thick wedges of apple are cooked to deep caramelized perfection in butter and sugar before being covered with pastry and baked, then dramatically inverted onto a serving plate. The result is a glistening mosaic of amber-colored apple wedges in a dark caramel sauce atop a crisp, buttery pastry base. The legend of its creation is one of the great stories of French gastronomy: in the 1880s at the Hotel Tatin in Lamotte-Beuvron, a small town in the Sologne region of the Loire Valley, one of the Tatin sisters (accounts differ on whether it was Stephanie or Caroline) accidentally started cooking an apple tart with just the butter, sugar, and apples — forgetting the pastry. In a panic, she threw the pastry over the top of the caramelizing apples and shoved the pan into the oven. When she flipped it out onto a plate, the golden, caramelized result was so spectacular that it became the hotel's signature dish. Whether the story is strictly true or enhanced by generations of retelling, the Tarte Tatin became famous when the Parisian restaurant Maxim's adopted it in the early 20th century, reportedly after the owner sent a spy to Lamotte-Beuvron to steal the recipe. The key to a perfect Tarte Tatin lies in the caramel: the butter and sugar must cook to a deep amber before the apples are added, and the apples must be packed tightly because they shrink dramatically during cooking. The pastry should be thin, crisp, and buttery — a vehicle for the caramel and apples rather than the star.",
+  "detailed_ingredients": [
+    {
+      "name": "Firm Baking Apples (Reinette, Golden Delicious, or Granny Smith)",
+      "purpose": "Must hold their shape during the long caramelization process without turning to mush",
+      "substitutes": [
+        "Cox's Orange Pippin",
+        "Braeburn",
+        "Pink Lady"
+      ]
+    },
+    {
+      "name": "Unsalted Butter",
+      "purpose": "Creates the caramel base and adds richness to the sauce",
+      "substitutes": [
+        "Salted butter (reduce added salt) for a salted-caramel Tatin"
+      ]
+    },
+    {
+      "name": "Granulated Sugar",
+      "purpose": "Caramelizes with the butter to create the glossy amber sauce",
+      "substitutes": [
+        "Brown sugar for a deeper, more molasses-like caramel",
+        "Muscovado sugar for extra toffee notes"
+      ]
+    },
+    {
+      "name": "Puff Pastry or Pate Brisee",
+      "purpose": "The crisp, buttery lid that becomes the base when the tart is inverted",
+      "substitutes": [
+        "All-butter puff pastry (store-bought is perfectly acceptable)",
+        "Rough puff pastry"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Stovetop caramelization followed by oven baking, then inverting",
+    "steps_overview": "Butter and sugar are melted together in an oven-safe skillet or tatin mold and cooked to a deep amber caramel. Thick apple wedges (peeled, cored, and halved or quartered) are arranged tightly in the caramel in a circular pattern, packed closely together. The apples cook on the stovetop for 15-20 minutes until softened and the caramel is deeply golden. A circle of pastry is laid over the top, tucked around the edges, and the pan goes into a 190°C (375°F) oven for 25-30 minutes until the pastry is golden and puffed. The tart rests for 5 minutes, then a plate is placed on top and the whole thing is confidently inverted in one swift motion.",
+    "cooking_tips": [
+      "Pack the apples extremely tightly — they shrink to half their volume during cooking",
+      "Do not stir the caramel once the apples are placed — just let them cook undisturbed",
+      "The caramel should be a deep amber, not pale — this is where the flavor develops",
+      "Let the tart cool for exactly 5 minutes before inverting — too long and the caramel sets",
+      "Invert with confidence and speed — hesitation leads to disaster"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Tarte Tatin was born at the Hotel Tatin in Lamotte-Beuvron in the Sologne region of the Loire Valley in the 1880s. The Tatin sisters ran the hotel and restaurant, and one of them accidentally created the upside-down tart through a fortuitous cooking error. The tart became locally famous, then achieved national and international acclaim when Maxim's restaurant in Paris added it to their menu in the early 20th century.",
+    "cultural_importance": "Tarte Tatin has become one of France's most iconic desserts and a symbol of the happy accidents that can occur in the kitchen. The Hotel Tatin still exists in Lamotte-Beuvron and serves its original recipe. The concept of the 'tatin' has been extended to savory versions with tomatoes, onions, and other vegetables.",
+    "traditional_occasions": [
+      "Sunday lunch dessert",
+      "Autumn and winter dining when apples are in season",
+      "Bistro and brasserie classic",
+      "Dinner party showpiece"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Tarte Tatin Classique",
+      "description": "The original apple version with butter, sugar, and puff pastry"
+    },
+    {
+      "name": "Tarte Tatin aux Poires",
+      "description": "Made with pears instead of apples — particularly popular in autumn"
+    },
+    {
+      "name": "Tarte Tatin aux Tomates",
+      "description": "A savory variation with slow-roasted tomatoes, thyme, and goat cheese"
+    },
+    {
+      "name": "Tarte Tatin aux Endives",
+      "description": "A northern French savory version with caramelized Belgian endives and goat cheese"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Creme fraiche (the classic pairing)",
+      "Vanilla ice cream",
+      "Whipped cream (chantilly)",
+      "A glass of Sauternes or Quarts de Chaume (sweet Loire wine)"
+    ],
+    "presentation": "Inverted onto a round serving plate, the glistening caramelized apples facing up in their golden-brown mosaic. A generous spoonful of creme fraiche is placed alongside each slice.",
+    "eating_etiquette": "Served in wedges with a dessert fork and spoon. The creme fraiche or ice cream should be on the side, not on top, to preserve the visual impact of the caramelized surface."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "350-450 kcal per slice",
+    "health_benefits": [
+      "Apples provide fiber and vitamin C",
+      "Contains pectin from cooked apples",
+      "Moderate portion size as dessert"
+    ],
+    "dietary_notes": [
+      "High in sugar from caramel and natural fruit sugars",
+      "Contains gluten and dairy",
+      "Vegetarian"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Hotel Tatin (Lamotte-Beuvron) — the birthplace, still serving the original",
+      "Le Comptoir (Paris) — Yves Camdeborde's bistro with excellent tarte tatin",
+      "Maxim's (Paris) — the restaurant that made it internationally famous"
+    ],
+    "street_food_areas": [
+      "Boulangeries and patisseries throughout France sell individual portions",
+      "Market bakeries in apple-growing regions (Normandy, Loire)",
+      "Bistros and brasseries across France"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 4-6 (individual portion from a patisserie)",
+      "restaurant": "EUR 8-14 (bistro dessert)",
+      "upscale": "EUR 14-22 (fine dining version, often with premium accompaniments)"
+    }
+  }
+}

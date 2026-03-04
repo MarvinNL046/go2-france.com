@@ -1,0 +1,169 @@
+{
+  "id": 14,
+  "slug": "nicoise-salad",
+  "name": {
+    "en": "Nicoise Salad",
+    "fr": "Salade Nicoise"
+  },
+  "category": "main-dish",
+  "region": "provence",
+  "description": {
+    "en": "Classic composed salad from Nice with tuna, anchovies, hard-boiled eggs, olives, and vegetables",
+    "fr": "Salade composee nicoise au thon, anchois, oeufs durs, olives et legumes"
+  },
+  "ingredients": [
+    "tuna (fresh or canned)",
+    "anchovies",
+    "hard-boiled eggs",
+    "Nicoise olives",
+    "tomatoes",
+    "green beans",
+    "bell pepper",
+    "artichoke hearts",
+    "olive oil",
+    "basil"
+  ],
+  "allergens": [
+    "fish",
+    "eggs"
+  ],
+  "dietary": [
+    "gluten-free"
+  ],
+  "image": "/images/food/nicoise-salad.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "30 minutes",
+  "difficulty": "easy",
+  "price_range": "moderate",
+  "seo": {
+    "metaTitle": {
+      "en": "Nicoise Salad | Classic Salade Nicoise from the Riviera"
+    },
+    "metaDescription": {
+      "en": "Discover Salade Nicoise, the iconic composed salad from Nice with tuna, eggs, olives, and Mediterranean vegetables — a beloved summer dish of the French Riviera."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "provence",
+    "nice",
+    "salad",
+    "tuna",
+    "summer",
+    "mediterranean",
+    "healthy"
+  ],
+  "enhanced_description": "Salade Nicoise is the quintessential Mediterranean summer dish — a glorious composed salad from Nice that arranges the best produce of the Riviera on a single plate in a celebration of color, texture, and sun-ripened flavor. Like many iconic dishes, the 'authentic' Salade Nicoise is the subject of fierce debate, particularly in Nice itself, where purists insist that the original version contains no cooked vegetables whatsoever — only raw tomatoes, raw bell peppers, raw fava beans (in season), radishes, spring onions, anchovies (never tuna, in the strictest traditional version), hard-boiled eggs, Nicoise olives, basil, and an olive oil dressing. The addition of cooked potatoes, green beans, and tuna — now considered standard internationally — is a more recent bistro adaptation that many Nicois consider heretical. Jacques Medecin, the long-serving (and later disgraced) mayor of Nice, published the 'definitive' recipe in his 1972 cookbook 'La Cuisine du Comte de Nice,' insisting vehemently that there should be no cooked vegetables and no vinegar in the dressing — only the finest olive oil. Despite the purists, the version most travelers encounter — on a bed of lettuce, with blanched green beans, boiled potatoes, canned or seared tuna, hard-boiled eggs, anchovies, tomatoes, and Nicoise olives, dressed in a simple vinaigrette — is itself a magnificent creation and one of the world's great lunch dishes. Eaten on a terrace overlooking the Baie des Anges with a glass of chilled Provencal rose, a Salade Nicoise is summer on a plate.",
+  "detailed_ingredients": [
+    {
+      "name": "Tuna (Thon)",
+      "purpose": "The protein centerpiece — oil-packed canned tuna is traditional in the modern version; fresh seared tuna is the restaurant upgrade",
+      "substitutes": [
+        "Fresh seared ahi tuna (restaurant style)",
+        "White anchovies only (the strict traditional Nice version)",
+        "Grilled sardines for a more local interpretation"
+      ]
+    },
+    {
+      "name": "Nicoise Olives",
+      "purpose": "Small, dark, briny olives that are essential to the salad's Provencal identity — no substitutes",
+      "substitutes": [
+        "Cailletier olives (the same variety by another name)",
+        "Taggiasca olives (from nearby Liguria)"
+      ]
+    },
+    {
+      "name": "Anchovies (Anchois)",
+      "purpose": "Provide the salty, umami backbone of the salad — essential in the traditional version",
+      "substitutes": [
+        "Salt-packed anchovies (rinsed and filleted) are superior to oil-packed",
+        "Omit for those who dislike them (though purists would object)"
+      ]
+    },
+    {
+      "name": "Extra-Virgin Olive Oil",
+      "purpose": "The only dressing in the traditional version — the quality of the oil is paramount",
+      "substitutes": [
+        "No substitute — olive oil is the authentic dressing",
+        "Simple vinaigrette with red wine vinegar for the modern version"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Assembly of composed salad",
+    "steps_overview": "This is a composed salad, not a tossed salad — the ingredients are arranged artfully on a plate rather than mixed together. Hard-boiled eggs are cooked to a just-set yolk (not chalky). Green beans (if using) are blanched until crisp-tender and refreshed in ice water. Potatoes (if using) are boiled until just tender and dressed while warm. Tomatoes are cut into wedges, peppers sliced. All ingredients are arranged on a plate — traditionally without lettuce in Nice — and dressed simply with the finest olive oil, perhaps a touch of vinegar, and salt. The salad is served at room temperature, never cold from the refrigerator.",
+    "cooking_tips": [
+      "Use the best quality ingredients — this salad has nowhere to hide",
+      "Arrange the ingredients artfully on the plate, do not toss them together",
+      "Dress with olive oil at the table, not in the kitchen",
+      "Serve at room temperature for the fullest flavor",
+      "Hard-boil eggs to just-set yolks (10 minutes in boiling water, then ice bath)"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Salade Nicoise has been a staple of Nicois cuisine since at least the 19th century, evolving from the abundant produce of the Riviera — tomatoes, peppers, olives, anchovies, and olive oil. The dish reflects Nice's unique culinary identity, which blends Provencal and Italian (specifically Ligurian) traditions. Auguste Escoffier, born in nearby Villeneuve-Loubet, helped popularize it beyond the region.",
+    "cultural_importance": "Salade Nicoise is fiercely guarded by the people of Nice as part of their culinary heritage. Debates about 'authentic' ingredients can be surprisingly heated. The dish represents the philosophy of Nicois cooking: the finest raw ingredients, treated simply, with olive oil as the unifying element.",
+    "traditional_occasions": [
+      "Summer lunch on the Riviera",
+      "Cafe and restaurant terrace dining",
+      "Picnic and outdoor meals",
+      "Light dinner in warm weather"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Salade Nicoise Traditionnelle",
+      "description": "The strict Nice version: raw vegetables only, no cooked items, no lettuce, anchovies but no tuna, olive oil dressing only"
+    },
+    {
+      "name": "Salade Nicoise Moderne",
+      "description": "The internationally popular version with cooked green beans, potatoes, and canned or seared tuna"
+    },
+    {
+      "name": "Pan Bagnat",
+      "description": "A Nicoise salad stuffed into a round bread roll and pressed — the sandwich version, eaten as street food in Nice"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Crusty bread or fougasse (Provencal flatbread)",
+      "A glass of chilled Provencal rose (Cotes de Provence or Bandol)",
+      "Pan bagnat as a sandwich alternative"
+    ],
+    "presentation": "Artfully composed on a large plate with ingredients arranged in distinct groups — not tossed together. Egg halves, anchovy fillets, and olives are placed on top as the finishing touches. Olive oil is drizzled over at the last moment.",
+    "eating_etiquette": "Eat at your own pace with a fork, combining different elements in each bite. In a true composed salad, you create your own combinations rather than having them predetermined by tossing."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "400-550 kcal per serving",
+    "health_benefits": [
+      "Rich in omega-3 fatty acids from tuna and anchovies",
+      "High in vitamins from raw vegetables",
+      "Heart-healthy olive oil base",
+      "Excellent source of protein"
+    ],
+    "dietary_notes": [
+      "Naturally gluten-free",
+      "High in protein from eggs, tuna, and anchovies",
+      "Rich in healthy monounsaturated fats from olive oil"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "La Merenda (Nice) — tiny, legendary restaurant serving the traditional version",
+      "Chez Rene Socca (Nice) — classic Nicoise specialties",
+      "Restaurant Jan (Nice) — modern take on Nicoise cuisine"
+    ],
+    "street_food_areas": [
+      "Cours Saleya market area (Nice) — many cafes and restaurants",
+      "Pan Bagnat vendors throughout Nice (the sandwich version)",
+      "Beach restaurants (paillotes) along the Cote d'Azur"
+    ],
+    "price_ranges": {
+      "street_food": "EUR 5-8 (pan bagnat sandwich version)",
+      "restaurant": "EUR 14-22 (cafe or bistro main course)",
+      "upscale": "EUR 25-40 (with seared fresh tuna at fine dining restaurants)"
+    }
+  }
+}

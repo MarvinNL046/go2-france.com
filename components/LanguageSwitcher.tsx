@@ -2,12 +2,19 @@ import { useRouter } from 'next/router';
 import { useState, useRef, useEffect } from 'react';
 
 const languages = [
-  { code: 'en', name: 'English', flag: '🇬🇧' },
+  { code: 'en', name: 'English', flag: '\u{1F1EC}\u{1F1E7}' },
+  { code: 'fr', name: 'Fran\u00e7ais', flag: '\u{1F1EB}\u{1F1F7}' },
+  { code: 'nl', name: 'Nederlands', flag: '\u{1F1F3}\u{1F1F1}' },
+  { code: 'de', name: 'Deutsch', flag: '\u{1F1E9}\u{1F1EA}' },
+  { code: 'es', name: 'Espa\u00f1ol', flag: '\u{1F1EA}\u{1F1F8}' },
+  { code: 'it', name: 'Italiano', flag: '\u{1F1EE}\u{1F1F9}' },
+  { code: 'zh', name: '\u4E2D\u6587', flag: '\u{1F1E8}\u{1F1F3}' },
+  { code: 'ja', name: '\u65E5\u672C\u8A9E', flag: '\u{1F1EF}\u{1F1F5}' },
 ];
 
 export default function LanguageSwitcher() {
   const router = useRouter();
-  const { locale, pathname, asPath } = router;
+  const { locale, pathname, asPath, query } = router;
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
 
@@ -19,6 +26,7 @@ export default function LanguageSwitcher() {
         setIsOpen(false);
       }
     };
+
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
@@ -39,10 +47,16 @@ export default function LanguageSwitcher() {
       >
         <span className="text-lg">{currentLanguage.flag}</span>
         <span className="hidden sm:inline">{currentLanguage.name}</span>
-        <svg className={`w-4 h-4 transition-transform ${isOpen ? 'rotate-180' : ''}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <svg
+          className={`w-4 h-4 transition-transform ${isOpen ? 'rotate-180' : ''}`}
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
         </svg>
       </button>
+
       {isOpen && (
         <div className="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-xl border border-gray-200 z-50">
           <div className="py-2">

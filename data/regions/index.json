@@ -1,1 +1,105 @@
-[]
+[
+  {
+    "slug": "ile-de-france",
+    "name": {
+      "en": "Ile-de-France"
+    },
+    "description": {
+      "en": "The region surrounding Paris is the political, economic, and cultural heart of France — home to the capital city, the Palace of Versailles, Fontainebleau, Giverny's Monet gardens, and Disneyland Paris. While Paris dominates, the surrounding countryside of royal forests, charming villages, and historic chateaux offers endless day trip possibilities."
+    },
+    "image": "/images/regions/ile-de-france.webp",
+    "highlights": [
+      { "en": "Paris — the City of Light" },
+      { "en": "Palace of Versailles" },
+      { "en": "Monet's Gardens at Giverny" },
+      { "en": "Fontainebleau Palace & Forest" }
+    ],
+    "cities": [
+      "paris"
+    ],
+    "bestTimeToVisit": "April to June, September to October"
+  },
+  {
+    "slug": "provence-cote-dazur",
+    "name": {
+      "en": "Provence-Cote d'Azur"
+    },
+    "description": {
+      "en": "From the lavender fields of the Luberon to the glamorous beaches of the French Riviera, Provence-Cote d'Azur is France's sun-drenched southern heartland. Roman ruins in Arles and Nimes, the papal grandeur of Avignon, the raw energy of Marseille, the sophistication of Nice and Cannes, and the wild beauty of the Calanques and Camargue create one of the most diverse and rewarding regions in all of Europe."
+    },
+    "image": "/images/regions/provence-cote-dazur.webp",
+    "highlights": [
+      { "en": "Lavender fields of the Luberon" },
+      { "en": "French Riviera beaches" },
+      { "en": "Calanques National Park" },
+      { "en": "Roman ruins of Arles & Nimes" }
+    ],
+    "cities": [
+      "marseille",
+      "nice",
+      "avignon"
+    ],
+    "bestTimeToVisit": "April to June, September to October"
+  },
+  {
+    "slug": "nouvelle-aquitaine",
+    "name": {
+      "en": "Nouvelle-Aquitaine"
+    },
+    "description": {
+      "en": "France's largest region stretches from the world-famous vineyards of Bordeaux to the surf beaches of Biarritz, the prehistoric caves of the Dordogne, and the volcanic peaks of the Limousin. Nouvelle-Aquitaine is a paradise for food and wine lovers — Bordeaux wines, Perigord truffles, Arcachon oysters, Basque cuisine, and Cognac brandy all originate here."
+    },
+    "image": "/images/regions/nouvelle-aquitaine.webp",
+    "highlights": [
+      { "en": "Bordeaux wine country" },
+      { "en": "Dordogne prehistoric caves & chateaux" },
+      { "en": "Biarritz & Basque Coast" },
+      { "en": "Dune of Pilat" }
+    ],
+    "cities": [
+      "bordeaux"
+    ],
+    "bestTimeToVisit": "May to October"
+  },
+  {
+    "slug": "occitanie",
+    "name": {
+      "en": "Occitanie"
+    },
+    "description": {
+      "en": "Stretching from the Pyrenees mountains to the Mediterranean coast, Occitanie is a land of Cathar castles, the Canal du Midi, the fortified city of Carcassonne, vibrant Toulouse, and the sun-baked vineyards of the Languedoc. This vast southern region offers spectacular landscapes, rich history, affordable wines, and a slower, more authentic pace of life than the more touristed regions to the east."
+    },
+    "image": "/images/regions/occitanie.webp",
+    "highlights": [
+      { "en": "Carcassonne medieval citadel" },
+      { "en": "Canal du Midi" },
+      { "en": "Toulouse — La Ville Rose" },
+      { "en": "Pyrenees mountains" }
+    ],
+    "cities": [
+      "toulouse",
+      "montpellier"
+    ],
+    "bestTimeToVisit": "April to June, September to October"
+  },
+  {
+    "slug": "alsace-lorraine",
+    "name": {
+      "en": "Alsace-Lorraine"
+    },
+    "description": {
+      "en": "France's eastern borderland with Germany is a region of fairy-tale half-timbered villages, world-class white wines, Christmas markets, and a unique Franco-Germanic culture found nowhere else in the country. The Alsace Wine Route winds through vineyard-draped hills and picture-perfect villages like Colmar, Riquewihr, and Eguisheim, while Strasbourg's Gothic cathedral and Petite France quarter rank among France's most enchanting urban landscapes."
+    },
+    "image": "/images/regions/alsace-lorraine.webp",
+    "highlights": [
+      { "en": "Strasbourg cathedral & Petite France" },
+      { "en": "Alsace Wine Route" },
+      { "en": "Colmar & half-timbered villages" },
+      { "en": "Christmas markets" }
+    ],
+    "cities": [
+      "strasbourg"
+    ],
+    "bestTimeToVisit": "May to September, Late November to December for Christmas markets"
+  }
+]

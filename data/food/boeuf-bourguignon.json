@@ -1,0 +1,171 @@
+{
+  "id": 5,
+  "slug": "boeuf-bourguignon",
+  "name": {
+    "en": "Boeuf Bourguignon",
+    "fr": "Boeuf Bourguignon"
+  },
+  "category": "main-dish",
+  "region": "burgundy",
+  "description": {
+    "en": "Burgundy beef stew braised in red wine with carrots, pearl onions, and mushrooms",
+    "fr": "Ragout de boeuf braise au vin rouge de Bourgogne avec carottes, petits oignons et champignons"
+  },
+  "ingredients": [
+    "beef chuck",
+    "red Burgundy wine",
+    "carrots",
+    "pearl onions",
+    "mushrooms",
+    "lardons",
+    "garlic",
+    "tomato paste",
+    "thyme",
+    "bay leaf",
+    "butter",
+    "flour"
+  ],
+  "allergens": [
+    "gluten",
+    "dairy",
+    "sulfites"
+  ],
+  "dietary": [],
+  "image": "/images/food/boeuf-bourguignon.webp",
+  "lastUpdated": "2026-03-04",
+  "preparation_time": "4 hours",
+  "difficulty": "medium",
+  "price_range": "moderate",
+  "seo": {
+    "metaTitle": {
+      "en": "Boeuf Bourguignon | Classic Burgundy Beef Stew"
+    },
+    "metaDescription": {
+      "en": "Discover Boeuf Bourguignon, the celebrated Burgundy beef stew braised for hours in red wine — one of France's greatest contributions to world cuisine."
+    }
+  },
+  "tags": [
+    "french-food",
+    "france",
+    "main-dish",
+    "burgundy",
+    "beef",
+    "wine",
+    "comfort-food",
+    "braised",
+    "winter"
+  ],
+  "enhanced_description": "Boeuf Bourguignon is the supreme expression of Burgundian cuisine — a magnificent slow braise in which tough cuts of beef are transformed through hours of gentle simmering in red wine into meltingly tender morsels bathed in a rich, deeply flavored sauce the color of garnets. Like its poultry cousin Coq au Vin, this dish represents the French genius for alchemy: turning humble, inexpensive ingredients into something profoundly satisfying through patience, good wine, and proper technique. The key to a great Boeuf Bourguignon lies in the quality of the wine (always a Burgundy Pinot Noir or at minimum a good dry red), the proper browning of the beef (which develops the Maillard reaction flavors that form the backbone of the sauce), and the long, unhurried braising time that allows collagen in the beef to convert to gelatin, creating a sauce of extraordinary body and richness. Julia Child's version, published in 'Mastering the Art of French Cooking' in 1961, became one of the most celebrated recipes in American culinary history and introduced millions of home cooks to French braising techniques. The garnish of separately prepared lardons, glazed pearl onions, and sauteed mushrooms — added near the end of cooking to preserve their distinct textures — elevates the stew from rustic to refined. Served with buttery mashed potatoes or egg noodles on a cold winter evening, with a glass of the same Burgundy used in the cooking, Boeuf Bourguignon is one of life's great comfort meals.",
+  "detailed_ingredients": [
+    {
+      "name": "Beef Chuck or Cheek (Paleron or Joue de Boeuf)",
+      "purpose": "Tough, collagen-rich cuts that become meltingly tender after long braising, with the collagen converting to gelatin for sauce body",
+      "substitutes": [
+        "Short ribs (bone-in for extra flavor)",
+        "Brisket",
+        "Shin (osso buco cuts)"
+      ]
+    },
+    {
+      "name": "Burgundy Red Wine (Pinot Noir)",
+      "purpose": "The braising liquid and soul of the dish — provides acidity, tannins, and the characteristic deep, fruity flavor",
+      "substitutes": [
+        "Any good Pinot Noir",
+        "Cotes du Rhone",
+        "Beaujolais (for a lighter version)"
+      ]
+    },
+    {
+      "name": "Lardons",
+      "purpose": "Rendered pork fat for browning and a smoky, salty flavor base in the sauce",
+      "substitutes": [
+        "Thick-cut bacon",
+        "Pancetta",
+        "Salt pork"
+      ]
+    },
+    {
+      "name": "Tomato Paste",
+      "purpose": "Adds umami depth and helps develop the dark color of the sauce when caramelized",
+      "substitutes": [
+        "Sun-dried tomato paste",
+        "A few tablespoons of tomato puree"
+      ]
+    }
+  ],
+  "cooking_method": {
+    "technique": "Braising in red wine in a low oven",
+    "steps_overview": "The beef is cut into large cubes, dried thoroughly, and browned in batches in rendered lardon fat. Aromatic vegetables (carrots, onion, garlic) are softened in the same pot. Tomato paste is added and caramelized. The wine is added, brought to a simmer, and the pot is transferred to a low oven (150°C/300°F) for 2.5-3 hours until the beef is fork-tender. Meanwhile, pearl onions are glazed in butter and sugar, and mushrooms are sauteed until golden. The sauce is strained and reduced if necessary, then everything is combined. A beurre manie can be used to thicken the sauce.",
+    "cooking_tips": [
+      "Cut beef into large 5cm (2-inch) cubes — they shrink during cooking",
+      "Pat beef completely dry before browning, and never crowd the pot",
+      "Marinating overnight in the wine deepens the flavor significantly",
+      "Cook in the oven rather than on the stovetop for more even, gentle heat",
+      "Make it a day ahead — the flavor improves overnight as it cools and reheats"
+    ]
+  },
+  "cultural_significance": {
+    "origin_story": "Boeuf Bourguignon originated as a peasant dish in the Burgundy region, where red wine was abundant and inexpensive and tough cuts of working cattle needed long cooking to become edible. The dish evolved from simple farmer's fare into a refined classic of French bourgeois cuisine over the 19th and 20th centuries. Auguste Escoffier included it in his 'Le Guide Culinaire' (1903), cementing its status in the French culinary canon.",
+    "cultural_importance": "Boeuf Bourguignon represents the soul of French home cooking — the kind of dish that fills a house with warmth on a cold day and brings a family together around the table. It has become one of the most recognized French dishes worldwide, synonymous with the idea of French comfort food.",
+    "traditional_occasions": [
+      "Sunday family lunch",
+      "Cold winter evenings",
+      "Holiday gatherings and celebrations",
+      "Bistro and brasserie staple"
+    ]
+  },
+  "variations": [
+    {
+      "name": "Daube Provencale",
+      "description": "The southern French cousin, braised in a sealed pot (daubiere) with olives, orange peel, and Provencal herbs"
+    },
+    {
+      "name": "Boeuf en Daube",
+      "description": "A variation that uses a single large piece of beef rather than cubes, often served sliced"
+    },
+    {
+      "name": "Boeuf Bourguignon au Beaujolais",
+      "description": "A lighter version using Beaujolais wine instead of Burgundy, popular in the Lyon region"
+    }
+  ],
+  "serving_suggestions": {
+    "traditional_accompaniments": [
+      "Mashed potatoes (puree de pommes de terre)",
+      "Buttered egg noodles",
+      "Steamed potatoes",
+      "Crusty baguette"
+    ],
+    "presentation": "Served in a deep plate or wide bowl with the sauce spooned generously over the beef, garnished with the pearl onions, mushrooms, and lardons. Chopped parsley adds a touch of color.",
+    "eating_etiquette": "A fork-and-knife dish. Use bread to mop up the sauce, which is the best part. Pair with a glass of the same Burgundy wine used in the cooking."
+  },
+  "nutritional_info": {
+    "calories_per_serving": "500-700 kcal per serving",
+    "health_benefits": [
+      "High in protein and iron from beef",
+      "Rich in B vitamins",
+      "Collagen-rich from slow-cooked connective tissue"
+    ],
+    "dietary_notes": [
+      "High in protein and iron",
+      "Contains alcohol (mostly cooked off)",
+      "Rich and calorie-dense — a hearty winter dish"
+    ]
+  },
+  "where_to_find": {
+    "best_restaurants": [
+      "Chez l'Ami Jean (Paris) — generous portions of robust French classics",
+      "Le Comptoir du Pantheon (Paris) — classic bistro fare near the Sorbonne",
+      "Le Bistrot Bourguignon (Beaune) — in the heart of Burgundy wine country"
+    ],
+    "street_food_areas": [
+      "Not a street food dish — found in bistros, brasseries, and home kitchens",
+      "Burgundy wine region restaurants (Beaune, Dijon, Nuits-Saint-Georges)",
+      "Traditional French bistros throughout the country"
+    ],
+    "price_ranges": {
+      "street_food": "N/A",
+      "restaurant": "EUR 18-28 (bistro main course)",
+      "upscale": "EUR 30-45 (fine dining interpretation with premium beef cuts)"
+    }
+  }
+}
