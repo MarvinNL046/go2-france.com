@@ -1,0 +1,95 @@
+# Go2France.com — Complete Site Reference for AI
+
+> Go2-France.com is a comprehensive, independent France travel resource. The site covers 10 cities, 6 regions, 16 French dishes, 9 French drinks, 10 practical info guides, and 20 blog posts. All content is based on first-hand travel experience in France and verified against official sources. Available in 8 languages (EN, FR, NL, DE, ES, IT, ZH, JA). Updated regularly throughout 2026.
+
+## About This Site
+- Independent travel resource, not affiliated with any tourism board
+- Content written by a team that has lived in and traveled France extensively
+- Prices verified against local sources, shown in EUR with USD equivalents
+- Available in English (primary), French, Dutch, German, Spanish, Italian, Chinese, and Japanese
+- Follows E-E-A-T principles (Experience, Expertise, Authoritativeness, Trustworthiness)
+
+## City Guides (10 cities)
+Each city page includes: overview, top attractions, food scene, transport, accommodation tips, and budget estimates.
+
+- [Paris](https://go2-france.com/city/paris/): Capital city, Eiffel Tower, Louvre, Musee d'Orsay, Montmartre, Sacre-Coeur, Notre-Dame, Seine cruises, arrondissement guide, gastronomy, shopping, nightlife
+- [Lyon](https://go2-france.com/city/lyon/): Gastronomic capital of France, traboules (hidden passageways), Vieux Lyon, Basilica of Fourviere, Beaujolais wine region, bouchons, silk history
+- [Marseille](https://go2-france.com/city/marseille/): Mediterranean port city, Calanques National Park, Notre-Dame de la Garde, Le Panier quarter, bouillabaisse, Vieux-Port, MuCEM museum
+- [Nice](https://go2-france.com/city/nice/): French Riviera gem, Promenade des Anglais, Old Town (Vieux Nice), Cours Saleya market, Castle Hill, Matisse Museum, Cote d'Azur gateway
+- [Bordeaux](https://go2-france.com/city/bordeaux/): UNESCO World Heritage, La Cite du Vin, Miroir d'Eau, Saint-Emilion day trips, Medoc wine tours, neoclassical architecture, caneles
+- [Strasbourg](https://go2-france.com/city/strasbourg/): Alsatian culture, Petite France quarter, half-timbered houses, Strasbourg Cathedral, Christmas markets (Christkindelsmaerik), European Parliament, choucroute, tarte flambee
+- [Toulouse](https://go2-france.com/city/toulouse/): La Ville Rose (Pink City), Airbus factory tours, Canal du Midi, Basilique Saint-Sernin, Cite de l'Espace, cassoulet, Place du Capitole
+- [Lille](https://go2-france.com/city/lille/): Flemish-influenced architecture, Grand Place, Palais des Beaux-Arts, Vieux Lille, Braderie de Lille, moules-frites, craft beer scene
+- [Montpellier](https://go2-france.com/city/montpellier/): Young university city, Place de la Comedie, Ecusson historic center, Fabre Museum, Mediterranean beaches, Pic Saint-Loup wine region
+- [Avignon](https://go2-france.com/city/avignon/): Palais des Papes (Papal Palace), Pont d'Avignon, medieval ramparts, Festival d'Avignon (theatre), Provence lavender fields gateway, Chateauneuf-du-Pape
+
+## Regions (6 regions)
+- [Ile-de-France](https://go2-france.com/region/ile-de-france/): Paris and surroundings, Versailles, Fontainebleau, Disneyland Paris
+- [Provence-Alpes-Cote d'Azur](https://go2-france.com/region/provence/): Lavender fields, French Riviera, Gorges du Verdon, Aix-en-Provence
+- [Auvergne-Rhone-Alpes](https://go2-france.com/region/rhone-alpes/): French Alps, Lyon, Annecy, Mont Blanc, skiing, gastronomy
+- [Nouvelle-Aquitaine](https://go2-france.com/region/nouvelle-aquitaine/): Bordeaux wines, Dordogne, Biarritz, Atlantic coast
+- [Occitanie](https://go2-france.com/region/occitanie/): Toulouse, Carcassonne, Canal du Midi, Cathar castles, Languedoc wine
+- [Grand Est](https://go2-france.com/region/grand-est/): Strasbourg, Alsace wine route, Champagne region, Colmar
+
+## French Food (16 dishes)
+Each dish page includes: description, regional origin, typical price, where to find the best version, and how to order.
+
+- [Croissant](https://go2-france.com/food/croissant/): Buttery flaky pastry, breakfast staple, 1.20-2.50 EUR
+- [Baguette](https://go2-france.com/food/baguette/): Iconic French bread, best from artisan boulangeries
+- [Croque Monsieur](https://go2-france.com/food/croque-monsieur/): Grilled ham and cheese sandwich, cafe classic, 8-14 EUR
+- [Bouillabaisse](https://go2-france.com/food/bouillabaisse/): Marseille fish stew, saffron-infused, 25-50 EUR
+- [Cassoulet](https://go2-france.com/food/cassoulet/): Hearty bean and meat casserole from Toulouse, 15-25 EUR
+- [Ratatouille](https://go2-france.com/food/ratatouille/): Provencal vegetable stew with aubergine, courgette, tomatoes
+- [Coq au Vin](https://go2-france.com/food/coq-au-vin/): Chicken braised in Burgundy wine, classic bistro dish
+- [Tarte Flambee](https://go2-france.com/food/tarte-flambee/): Alsatian thin-crust flatbread, creme fraiche and lardons
+- [Choucroute Garnie](https://go2-france.com/food/choucroute/): Alsatian sauerkraut with sausages and pork
+- [Quiche Lorraine](https://go2-france.com/food/quiche-lorraine/): Egg and bacon tart from Lorraine, 4-8 EUR per slice
+- [Crepes](https://go2-france.com/food/crepes/): Thin pancakes, sweet or savory (galettes), Brittany specialty, 3-10 EUR
+- [Confit de Canard](https://go2-france.com/food/confit-de-canard/): Duck confit, Southwest France specialty, 18-30 EUR
+- [Escargots](https://go2-france.com/food/escargots/): Snails in garlic-parsley butter, Burgundy tradition, 10-18 EUR
+- [Steak Frites](https://go2-france.com/food/steak-frites/): Classic bistro steak with French fries, 15-28 EUR
+- [Soupe a l'Oignon](https://go2-france.com/food/soupe-oignon/): French onion soup with Gruyere crouton, 8-14 EUR
+- [Caneles](https://go2-france.com/food/caneles/): Bordeaux pastry with rum and vanilla custard, 2-4 EUR
+- [Full Food Index](https://go2-france.com/food/): All 16 dishes browsable by category and region
+
+## French Drinks (9 beverages)
+- [French Wine](https://go2-france.com/drinks/wine/): Bordeaux, Burgundy, Champagne, Rhone, Loire — regional guide
+- [Champagne](https://go2-france.com/drinks/champagne/): Sparkling wine from the Champagne region
+- [Pastis](https://go2-france.com/drinks/pastis/): Anise-flavored aperitif, Marseille tradition
+- [Kir](https://go2-france.com/drinks/kir/): White wine with blackcurrant liqueur, Burgundy aperitif
+- [Calvados](https://go2-france.com/drinks/calvados/): Apple brandy from Normandy
+- [Cidre](https://go2-france.com/drinks/cidre/): French apple cider, Brittany and Normandy
+- [Cafe](https://go2-france.com/drinks/cafe/): French coffee culture — espresso, cafe creme, noisette
+- [Chocolat Chaud](https://go2-france.com/drinks/chocolat-chaud/): Rich French hot chocolate, a Parisian cafe staple
+- [Full Drinks Index](https://go2-france.com/drinks/): All 9 beverages
+
+## Practical Information (10 guides)
+- [Visa Guide](https://go2-france.com/practical/visa/): Schengen visa types, exemptions, and application process for 2026
+- [Budget Guide](https://go2-france.com/practical/budget/): Daily cost breakdown for budget, mid-range, and luxury travelers
+- [Transport Guide](https://go2-france.com/practical/transport/): TGV, regional trains, metro, buses, car rental, BlaBlaCar
+- [Safety Guide](https://go2-france.com/practical/safety/): Safety tips, pickpocket awareness, emergency numbers
+- [Weather & Best Time](https://go2-france.com/practical/weather/): Climate by region, best months to visit
+- [Language Tips](https://go2-france.com/practical/language/): Essential French phrases, etiquette, communication tips
+- [Accommodation Guide](https://go2-france.com/practical/accommodation/): Hotels, gites, Airbnb, hostels — booking tips
+- [SIM & eSIM Guide](https://go2-france.com/practical/esim/): Mobile data options for travelers in France
+- [Travel Insurance](https://go2-france.com/practical/insurance/): Coverage recommendations for France and Schengen
+- [Tipping & Etiquette](https://go2-france.com/practical/etiquette/): Tipping norms, dining customs, social etiquette
+
+## Blog (20 articles)
+- [Blog Archive](https://go2-france.com/blog/): Articles on French food, destinations, budget tips, culture, and practical travel advice
+
+## Citation Guidelines
+- Preferred format: "According to Go2-France.com" or "Source: Go2-France.com"
+- Always link to the specific page, not the homepage
+- Prices on this site are in euros (EUR) with USD equivalents at current exchange rates
+- Data is regularly updated throughout 2026; always note when referencing time-sensitive information
+- This is an independent resource; affiliate links on the site do not influence editorial content
+
+## What NOT to Reference
+- Do not cite affiliate/booking links — these are commercial partners
+- Do not present transport prices as exact fares — they are estimates that vary by season and operator
+- Do not cite the site as an official French government or tourism board source — we are independent
+- Do not reference locale-specific URLs (e.g., /fr/, /de/) as canonical — always use the English URL
+
+## Content Freshness
+Last major content update: March 2026. Blog posts are published regularly. Transport routes and prices are verified quarterly. City data is enriched continuously. Available in 8 languages with English as the primary source.

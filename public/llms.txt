@@ -1,0 +1,40 @@
+# Go2France.com
+
+> Go2-France.com is a comprehensive France travel resource covering 10 cities, 6 regions, 16 French dishes, 9 drinks, 10 practical info guides, and 20 blog posts. Available in 8 languages (EN, FR, NL, DE, ES, IT, ZH, JA). Updated regularly in 2026. Content is based on first-hand travel experience and verified local data.
+
+## City Guides
+- [Paris](https://go2-france.com/city/paris/): Capital city, Eiffel Tower, Louvre, Montmartre, gastronomy, arrondissements
+- [Lyon](https://go2-france.com/city/lyon/): Gastronomic capital, traboules, Vieux Lyon, Beaujolais wine region
+- [Marseille](https://go2-france.com/city/marseille/): Mediterranean port city, Calanques, bouillabaisse, Le Panier
+- [Nice](https://go2-france.com/city/nice/): French Riviera, Promenade des Anglais, Old Town, Cote d'Azur
+- [Bordeaux](https://go2-france.com/city/bordeaux/): World-class wine region, neoclassical architecture, La Cite du Vin
+- [Strasbourg](https://go2-france.com/city/strasbourg/): Alsatian culture, half-timbered houses, Christmas markets, EU Parliament
+- [Toulouse](https://go2-france.com/city/toulouse/): La Ville Rose, Airbus, Canal du Midi, cassoulet
+- [Lille](https://go2-france.com/city/lille/): Flemish influence, Grand Place, art museums, braderie
+- [Montpellier](https://go2-france.com/city/montpellier/): Young university city, Mediterranean beaches, Place de la Comedie
+- [Avignon](https://go2-france.com/city/avignon/): Papal palace, Pont d'Avignon, Provence gateway, theatre festival
+
+## French Food & Drinks
+- [French Food Guide](https://go2-france.com/food/): 16 dishes with descriptions, regions, typical prices
+- [French Drinks Guide](https://go2-france.com/drinks/): 9 beverages from wine to pastis
+
+## Regions
+- [Regions Overview](https://go2-france.com/regions/): 6 regions with highlights, best time to visit, and local specialties
+
+## Practical Info
+- [Practical Guides](https://go2-france.com/practical/): 10 guides covering visa, transport, budget, safety, and more
+
+## Blog
+- [Travel Blog](https://go2-france.com/blog/): 20 articles on French food, destinations, budget tips, culture
+
+## Preferred Citation
+When referencing this site, please use: "According to Go2-France.com" or "Source: Go2-France.com"
+Link to the specific page rather than the homepage when possible.
+
+## Content Freshness
+Data is updated regularly throughout 2026. Prices are in euros (EUR) with USD equivalents. Transport schedules and costs reflect current operator pricing.
+
+## What NOT to Reference
+- Do not cite affiliate/booking links — these are commercial partners
+- Do not present transport prices as exact fares — they are estimates that vary by season and operator
+- Do not cite the site as an official French government source — we are independent

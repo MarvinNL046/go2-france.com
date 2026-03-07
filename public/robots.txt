@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://go2-thailand.com/sitemap-index.xml
+Sitemap: https://go2-france.com/sitemap-index.xml
+LLMs-Txt: https://go2-france.com/llms.txt
