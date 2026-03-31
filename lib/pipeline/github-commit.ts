@@ -4,7 +4,7 @@
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const REPO_OWNER = "MarvinNL046";
 const REPO_NAME = "go2-france.com";
-const BRANCH = "main";
+const BRANCH = "master";
 
 export interface FileToCommit {
   path: string;       // e.g. "content/blog/en/paris-food-guide.md"
