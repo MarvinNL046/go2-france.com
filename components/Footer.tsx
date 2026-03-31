@@ -1,11 +1,13 @@
 import { useState } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 import { useTranslation } from '../hooks/useTranslation';
 import { siteConfig, getOtherSisterSites } from '../site.config';
 import { useToast } from './Toast';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
+  const { locale } = useRouter();
   const { t } = useTranslation('common');
   const toast = useToast();
   const sisterSites = getOtherSisterSites();
@@ -20,7 +22,7 @@ const Footer = () => {
       const res = await fetch('/api/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, site: 'go2france', locale: locale || 'en' }),
       });
       if (!res.ok) throw new Error();
       setStatus('success');

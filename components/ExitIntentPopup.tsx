@@ -1,6 +1,8 @@
 import { useState, useEffect, useCallback } from 'react';
+import { useRouter } from 'next/router';
 
 const ExitIntentPopup = () => {
+  const { locale } = useRouter();
   const [visible, setVisible] = useState(false);
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
@@ -37,7 +39,7 @@ const ExitIntentPopup = () => {
       const res = await fetch('/api/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, site: 'go2france', locale: locale || 'en' }),
       });
       if (!res.ok) throw new Error();
       setStatus('success');

@@ -11,6 +11,7 @@ import AnimatedCounter from '../components/AnimatedCounter';
 import { AirplaneDecoration, CloudDecoration } from '../components/decorations';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { useTranslation } from '../hooks/useTranslation';
+import EmailCapture from '../components/EmailCapture';
 
 interface City {
   id: number;
@@ -148,6 +149,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
                   {t('hero.featuredDestinations')}
                 </Link>
               </div>
+              <EmailCapture variant="hero" className="mt-8 max-w-md lg:mx-0 mx-auto" />
             </div>
 
             {/* Right -- Image slider */}
