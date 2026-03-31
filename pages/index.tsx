@@ -54,10 +54,9 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
   const { t } = useTranslation('common');
 
   const heroImages = [
-    '/images/homepageHero/eiffel-tower-paris.webp',
-    '/images/homepageHero/provence-lavender.webp',
-    '/images/homepageHero/french-riviera.webp',
-    '/images/homepageHero/mont-saint-michel.webp'
+    '/images/hero/france-hero-1.webp',
+    '/images/hero/france-hero-2.webp',
+    '/images/hero/france-hero-3.webp',
   ];
 
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -90,7 +89,7 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
         <link
           rel="preload"
           as="image"
-          href="/images/homepageHero/eiffel-tower-paris.webp"
+          href="/images/hero/france-hero-1.webp"
           type="image/webp"
         />
         <script
@@ -548,9 +547,9 @@ export default function Home({ cities, featuredCities, popularDishes }: HomeProp
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {[
               { slug: 'ile-de-france', image: '/images/regions/ile-de-france.webp', name: 'Ile-de-France', desc: 'Paris and its surrounding region, the heart of France.', cta: 'Explore Ile-de-France' },
-              { slug: 'provence', image: '/images/regions/provence.webp', name: 'Provence', desc: 'Lavender fields, Mediterranean coast, and timeless villages.', cta: 'Explore Provence' },
-              { slug: 'french-riviera', image: '/images/regions/french-riviera.webp', name: 'French Riviera', desc: 'Glamorous coastline from Nice to Saint-Tropez.', cta: 'Explore the Riviera' },
-              { slug: 'loire-valley', image: '/images/regions/loire-valley.webp', name: 'Loire Valley', desc: 'Fairy-tale chateaux and world-class vineyards.', cta: 'Explore Loire Valley' },
+              { slug: 'provence', image: '/images/regions/provence-cote-dazur.webp', name: 'Provence', desc: 'Lavender fields, Mediterranean coast, and timeless villages.', cta: 'Explore Provence' },
+              { slug: 'french-riviera', image: '/images/regions/occitanie.webp', name: 'French Riviera', desc: 'Glamorous coastline from Nice to Saint-Tropez.', cta: 'Explore the Riviera' },
+              { slug: 'loire-valley', image: '/images/regions/nouvelle-aquitaine.webp', name: 'Loire Valley', desc: 'Fairy-tale chateaux and world-class vineyards.', cta: 'Explore Loire Valley' },
             ].map((region, i) => (
               <Link key={region.slug} href={`/region/${region.slug}/`} className="group">
                 <div className={`relative rounded-2xl overflow-hidden h-80 scroll-fade-up stagger-${i + 1} ${regionsAnim.isVisible ? 'is-visible' : ''}`}>
