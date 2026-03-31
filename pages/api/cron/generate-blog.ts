@@ -35,12 +35,8 @@ export default async function handler(
       console.warn(`[fact-check]   [!] ${claim.type.toUpperCase()}: "${claim.value}"`);
     }
 
-    if (factCheck.unverifiedClaims.length > 0) {
-      post.content = post.content.replace(
-        /^(---\s*\n[\s\S]*?)(---)/,
-        `$1factCheck:\n  status: "needs-review"\n  flaggedClaims: ${factCheck.unverifiedClaims.length}\n  riskLevel: "${factCheck.riskLevel}"\n$2`
-      );
-    }
+    // Fact-check metadata logged above; not injected into frontmatter to keep posts clean for AdSense
+    // factCheck results are still returned in the API response for monitoring
 
     const filesToCommit: Array<{ path: string; content: string; encoding?: "utf-8" | "base64" }> = [];
 

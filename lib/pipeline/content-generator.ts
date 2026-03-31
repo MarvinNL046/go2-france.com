@@ -430,13 +430,29 @@ async function loadSitemapLinks(): Promise<string> {
         return !urlPath.match(/^\/(nl|de|fr|zh|ja|es|it)\//);
       });
 
+    const buildAnchor = (url: string, section: string): string => {
+      const parts = url.split("/").filter(Boolean);
+      const lastPart = parts[parts.length - 1] || section;
+      const name = lastPart.replace(/-/g, " ").replace(/\b\w/g, (c: string) => c.toUpperCase());
+      const sectionLabels: Record<string, string> = {
+        city: "travel guide", islands: "island guide", food: "food guide",
+        blog: "", compare: "comparison", region: "region guide",
+        visa: "", "practical-info": "",
+      };
+      const label = sectionLabels[section];
+      if (label && !name.toLowerCase().includes("guide") && !name.toLowerCase().includes(section)) {
+        return `${name} ${label}`;
+      }
+      return name;
+    };
+
     const groups: Record<string, string[]> = {};
     for (const url of allUrls) {
       const p = url.replace(siteUrl, "");
       if (!p || p === "/") continue;
       const section = p.split("/")[1] || "other";
       if (!groups[section]) groups[section] = [];
-      if (groups[section].length < 12) {
+      if (groups[section].length < 15) {
         groups[section].push(url);
       }
     }
@@ -446,11 +462,7 @@ async function loadSitemapLinks(): Promise<string> {
       if (urls.length === 0) continue;
       result += `${section}:\n`;
       for (const url of urls) {
-        const parts = url.split("/").filter(Boolean);
-        const lastPart = parts[parts.length - 1] || section;
-        const anchor = lastPart
-          .replace(/-/g, " ")
-          .replace(/\b\w/g, (c) => c.toUpperCase());
+        const anchor = buildAnchor(url, section);
         result += `- [${anchor}](${url})\n`;
       }
       result += "\n";
@@ -583,24 +595,33 @@ sources:
 
 7. WIDGET PLACEMENT (3-5 widgets using <!-- WIDGET:type --> syntax).
 
-8. FAQ SECTION (3-5 questions).
+8. FAQ SECTION (5-7 questions matching REAL Google "People Also Ask" queries, with concise answers containing specific facts).
 
 9. CONCLUSION with CTA.
 
 ---
 
-INTERNAL LINKING (5-8 internal links):
+INTERNAL LINKING (10-15 internal links):
+- Every H2 section should have at least 1 internal link
+- Use DESCRIPTIVE, keyword-rich anchor text — e.g. "our Paris travel guide", "Lyon food guide", "best things to do in Nice"
+- DO NOT link the same URL twice with the same anchor text — vary it
+- Domain: go2-france.com
+
 Available internal links:
 ${sitemapLinks}
 ${widgetReference ? `\nWRITER REFERENCE:\n${widgetReference}\n` : ''}
 ---
 
-E-E-A-T SIGNALS: Reference hands-on visits, use precise details (prices in EUR), cite credible sources.
+E-E-A-T SIGNALS (and AdSense approval):
+- Reference hands-on visits, use precise details (prices in EUR), cite credible sources.
+- Every 2-3 sections, include a specific first-person observation (e.g. "When we visited the Marais in November…").
+- DISCLOSURE: Include this once near the top of the article: "We may earn a small commission from bookings made through our links, at no extra cost to you."
 
 ANTI-HALLUCINATION RULES: Never invent prices or specific venue names not in reference data.
 
-TARGET LENGTH: 1800-2500 words.
+TARGET LENGTH: 2500-3500 words.
 TONE: Knowledgeable, warm, practical.
+Avoid generic AI-sounding phrases like "Whether you're a budget backpacker or luxury traveler" or "France has something for everyone". Be specific and opinionated.
 ${contextSection}
 
 RESPOND WITH THE COMPLETE BLOG POST -- frontmatter + Markdown body only. No preamble.`;
