@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import { GetStaticProps } from 'next';
 import SEOHead from '../components/SEOHead';
 import Breadcrumbs from '../components/Breadcrumbs';
@@ -127,6 +128,35 @@ export default function About() {
                       <h3 className="font-semibold font-heading text-gray-900 mb-1">Travel Blog</h3>
                       <p className="text-gray-600">Regular articles covering travel trends, hidden gems, seasonal guides, and in-depth cultural insights about French life and travel.</p>
                     </div>
+                  </div>
+                </div>
+              </div>
+
+              {/* Meet the Founder */}
+              <div className="bg-white rounded-2xl shadow-md p-8 lg:p-12 mb-8">
+                <h2 className="text-2xl font-bold font-heading text-gray-900 mb-6">Meet the Founder</h2>
+                <div className="flex flex-col md:flex-row gap-6 items-start">
+                  <div className="flex-shrink-0">
+                    <Image
+                      src="/images/team/marvin.webp"
+                      alt="Marvin — Founder of Go2France"
+                      width={180}
+                      height={180}
+                      className="rounded-2xl object-cover"
+                    />
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold font-heading text-gray-900 mb-2">Marvin</h3>
+                    <p className="text-sm text-france-blue font-medium mb-3">Founder &amp; Developer</p>
+                    <p className="text-gray-700 mb-3">
+                      Marvin is a Dutch travel technology specialist and the creator of the Go2 Travel Network — a growing
+                      family of independent destination guides. With a passion for exploring France and a background in
+                      web development, he builds data-driven, practical travel guides that help travelers plan better trips.
+                    </p>
+                    <p className="text-gray-700">
+                      The Go2 network now spans multiple destinations across Asia, Europe, and the Americas, with each site
+                      offering in-depth city guides, local food recommendations, transport routes, and honest travel advice.
+                    </p>
                   </div>
                 </div>
               </div>
