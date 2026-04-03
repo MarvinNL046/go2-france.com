@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 
 interface AuthorBioProps {
@@ -27,11 +28,13 @@ export default function AuthorBio({ name, locale = 'en' }: AuthorBioProps) {
   return (
     <div className="mt-12 pt-8 border-t" itemScope itemType="https://schema.org/Person">
       <div className="flex items-start gap-4">
-        <div className="w-16 h-16 bg-gradient-to-br from-france-blue to-france-gold rounded-full flex items-center justify-center flex-shrink-0">
-          <span className="text-2xl font-bold text-white" itemProp="name">
-            {name.charAt(0)}
-          </span>
-        </div>
+        <Image
+          src="/images/team/marvin.webp"
+          alt={name}
+          width={56}
+          height={56}
+          className="flex-shrink-0 w-14 h-14 rounded-full object-cover"
+        />
         <div>
           <h3 className="font-bold text-lg" itemProp="name">{name}</h3>
           <p className="text-sm text-france-blue font-medium mt-0.5">
