@@ -138,7 +138,7 @@ export const siteConfig: SiteConfig = {
     siteUrl: 'https://go2-france.com',
     ogImage: '/images/og-default.jpg',
     twitterHandle: 'go2france',
-    googleAnalyticsId: '',
+    googleAnalyticsId: 'G-PX52DBDRSW',
     indexNowKey: '',
   },
 
