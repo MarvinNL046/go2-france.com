@@ -1,0 +1,11 @@
+{
+  "country": "France",
+  "siteName": "Go2France",
+  "hostname": "go2-france.com",
+  "locales": ["en"],
+  "autocompleteSeeds": {
+    "en": ["France travel", "France backpacker", "France digital nomad", "France visa"]
+  },
+  "newsQuery": "France",
+  "scrapeNewsSources": []
+}

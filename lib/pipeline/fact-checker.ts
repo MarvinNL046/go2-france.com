@@ -1,5 +1,5 @@
 // -------------------------------------------------------------------
-// Fact-checker -- regex-based claim extraction + cross-reference
+// Fact-checker — regex-based claim extraction + cross-reference
 // against scraped source data. No AI calls, pure string matching.
 // -------------------------------------------------------------------
 
@@ -21,35 +21,42 @@ export interface FactCheckResult {
 // -------------------------------------------------------------------
 
 const DATE_PATTERNS = [
+  // "January 3", "March 5 (Thursday)", "December 25, 2026"
   /\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}(?:\s*\((?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\))?(?:,?\s*\d{4})?\b/gi,
+  // "2026-03-05", "2026-12-25"
   /\b20\d{2}-(?:0[1-9]|1[0-2])-(?:0[1-9]|[12]\d|3[01])\b/g,
+  // "5 January 2026"
   /\b\d{1,2}\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+20\d{2}\b/gi,
 ];
 
 const PRICE_PATTERNS = [
-  // EUR prices: "10 EUR", "500 EUR", "1,500 euros"
-  /\b[\d,]+\s*(?:EUR|euros?)\b/gi,
-  // Euro symbol: "50", "120"
-  /€[\d,]+(?:\.\d{2})?\b/g,
-  // USD: "$85 USD", "$50"
+  // "10,000 THB", "500 THB", "1,500 baht"
+  /\b[\d,]+\s*(?:THB|baht)\b/gi,
+  // "$85 USD", "$50", "$30"
   /\$[\d,]+(?:\s*USD)?\b/g,
-  // Ranges: "300-500 EUR", "50-120 EUR"
-  /\b[\d,]+\s*[–\-]\s*[\d,]+\s*(?:EUR|euros?)\b/gi,
-  // Euro ranges: "€30-€50"
-  /€[\d,]+\s*[–\-]\s*€[\d,]+/g,
+  // "฿1,500", "฿300"
+  /฿[\d,]+/g,
+  // "300–500 THB", "100-200 baht" (ranges)
+  /\b[\d,]+\s*[–\-]\s*[\d,]+\s*(?:THB|baht)\b/gi,
+  // "$30–$50" (USD ranges)
+  /\$[\d,]+\s*[–\-]\s*\$[\d,]+/g,
 ];
 
 const STATISTIC_PATTERNS = [
-  /\b[\d,]+\+?\s*(?:Mbps|visitors|people|tourists|travelers|km|kilometers|metres|meters|hectares|chateaux|churches|cathedrals|vineyards|museums|rooms|beds|seats|stalls|shops|restaurants|bars|cafes)\b/gi,
+  // "200+ Mbps", "30,000 visitors", "5 million"
+  /\b[\d,]+\+?\s*(?:Mbps|visitors|people|tourists|travelers|km|kilometers|metres|meters|hectares|temples|islands|species|rooms|beds|seats|stalls|vendors|shops|restaurants|bars|clubs)\b/gi,
+  // "10%", "25 percent"
   /\b\d+(?:\.\d+)?%/g,
   /\b\d+(?:\.\d+)?\s*percent\b/gi,
+  // Large round numbers: "30,000", "1 million", "2.5 million"
   /\b\d+(?:\.\d+)?\s*(?:million|billion)\b/gi,
 ];
 
 const TIME_PATTERNS = [
+  // "10 PM", "8 AM", "10:30 PM"
   /\b\d{1,2}(?::\d{2})?\s*(?:AM|PM|am|pm|a\.m\.|p\.m\.)\b/g,
-  /\b\d{1,2}h\d{2}\b/g, // French 24-hour format: 14h30
-  /\b(?:open|opens|closes|closing|ouvert|ferme)\s+(?:at\s+)?\d{1,2}(?::\d{2})?\s*(?:AM|PM|am|pm)?[^.]*?(?:\d{1,2}(?::\d{2})?\s*(?:AM|PM|am|pm))?\b/gi,
+  // "open 8 AM–5 PM", "opens at 9 AM"
+  /\b(?:open|opens|closes|closing)\s+(?:at\s+)?\d{1,2}(?::\d{2})?\s*(?:AM|PM|am|pm)[^.]*?(?:\d{1,2}(?::\d{2})?\s*(?:AM|PM|am|pm))?\b/gi,
 ];
 
 // -------------------------------------------------------------------
@@ -68,7 +75,7 @@ function normalizeForComparison(text: string): string {
     .replace(/[,\s]+/g, " ")
     .replace(/[–—-]/g, "-")
     .replace(/\$/g, "")
-    .replace(/€/g, "")
+    .replace(/฿/g, "")
     .trim();
 }
 
@@ -92,8 +99,9 @@ function isInScrapeData(claimValue: string, scrapeData: string): boolean {
   const numMatch = claimValue.match(/[\d,]+/);
   if (numMatch) {
     const num = numMatch[0].replace(/,/g, "");
+    // Check if the number appears within ~20 chars of THB/baht/$
     const numPattern = new RegExp(
-      `(?:EUR|euros?|€|\\$).{0,10}${num}|${num}.{0,10}(?:EUR|euros?|€|\\$)`,
+      `(?:THB|baht|\\$|฿).{0,10}${num}|${num}.{0,10}(?:THB|baht|\\$|฿)`,
       "i"
     );
     if (numPattern.test(scrapeData)) return true;
@@ -112,8 +120,9 @@ export function factCheckPost(
 ): FactCheckResult {
   const body = stripFrontmatter(content);
   const allClaims: FactClaim[] = [];
-  const seen = new Set<string>();
+  const seen = new Set<string>(); // deduplicate by value
 
+  // Extract claims by type
   const patternGroups: Array<{ type: FactClaim["type"]; patterns: RegExp[] }> = [
     { type: "date", patterns: DATE_PATTERNS },
     { type: "price", patterns: PRICE_PATTERNS },
@@ -123,6 +132,7 @@ export function factCheckPost(
 
   for (const { type, patterns } of patternGroups) {
     for (const pattern of patterns) {
+      // Reset lastIndex for global regex
       pattern.lastIndex = 0;
       let match: RegExpExecArray | null;
       while ((match = pattern.exec(body)) !== null) {
