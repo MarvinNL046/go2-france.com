@@ -94,6 +94,21 @@ for cron in generate-blog generate-news topic-discovery ga4-monitor gsc-monitor 
   fi
 done
 
+# --- Remove deprecated translate-blog cron (we no longer translate; each
+#     locale has its own native writer). Old sister copies often had
+#     site-specific locale lists ('hi', 'es') that don't match our type.
+[ -f "$TARGET/pages/api/cron/translate-blog.ts" ] && rm -v "$TARGET/pages/api/cron/translate-blog.ts" || true
+
+# --- scraper.ts: only copy if target doesn't already export scrapeTopicContext
+#     (some sister sites have an older scraper.ts that lacks helpers
+#     content-generator depends on). When the helper is missing, replace
+#     with our version. We try to detect by grepping for the export.
+if [ -f "$TARGET/lib/pipeline/scraper.ts" ] && grep -q "export.*scrapeTopicContext" "$TARGET/lib/pipeline/scraper.ts"; then
+  echo "(target scraper has scrapeTopicContext — keeping site-specific version)"
+else
+  cp -v "$SRC/lib/pipeline/scraper.ts" "$TARGET/lib/pipeline/"
+fi
+
 # --- NL-only crons: only copy if target has NL locale configured ---
 if [ -f "$TARGET/pipeline.config.json" ] && grep -q '"nl"' "$TARGET/pipeline.config.json"; then
   cp -v "$SRC/lib/pipeline/content-generator-nl.ts" "$TARGET/lib/pipeline/"
