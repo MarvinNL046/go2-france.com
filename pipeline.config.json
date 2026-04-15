@@ -8,4 +8,7 @@
   },
   "newsQuery": "France",
   "scrapeNewsSources": []
+,
+  "repoOwner": "MarvinNL046",
+  "repoName": "go2-france.com"
 }
