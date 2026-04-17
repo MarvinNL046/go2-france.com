@@ -12,6 +12,8 @@ import LastUpdated from '../../components/blog/LastUpdated';
 import RelatedPosts from '../../components/blog/RelatedPosts';
 import ShareButtons from '../../components/ShareButtons';
 import { getAllPosts, getPostBySlug, getRelatedPosts } from '../../lib/blog';
+import { useGsapBlogHero } from '../../components/animations/useGsapBlogHero';
+import { useGsapScrollReveal } from '../../components/animations/useGsapScrollReveal';
 
 interface BlogPost {
   slug: string; title: string; description: string; date: string; lastUpdated?: string;
@@ -27,6 +29,10 @@ const WIDGET_SCRIPTS: Record<string, string> = {
 };
 
 export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) {
+
+  // GSAP entrance animations — respects prefers-reduced-motion automatically
+  const heroRef = useGsapBlogHero<HTMLElement>();
+  useGsapScrollReveal('[data-blog-content]');
   const { locale } = useRouter();
 
   useEffect(() => {
@@ -69,7 +75,7 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
       </SEOHead>
 
       <article className="bg-surface-cream min-h-screen">
-        <section className="relative h-[400px] lg:h-[500px]">
+        <section className="relative h-[400px] lg:h-[500px]" ref={heroRef}>
           <Image src={post.image} alt={post.title} fill className="object-cover" priority />
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
           <div className="absolute bottom-0 left-0 right-0 text-white">
