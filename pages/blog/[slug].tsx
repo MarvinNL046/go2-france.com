@@ -60,6 +60,13 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
     "publisher": { "@type": "Organization", "name": "Go2France", "url": "https://go2-france.com", "logo": { "@type": "ImageObject", "url": "https://go2-france.com/logo/go2france-logo.webp" } },
     "mainEntityOfPage": { "@type": "WebPage", "@id": `https://go2-france.com/blog/${post.slug}/` }
   };
+  const faqJsonLd = post.faqItems && post.faqItems.length > 0 ? {
+    "@context": "https://schema.org", "@type": "FAQPage",
+    "mainEntity": post.faqItems.map(item => ({
+      "@type": "Question", "name": item.question,
+      "acceptedAnswer": { "@type": "Answer", "text": item.answer }
+    }))
+  } : null;
   const shareUrl = `https://go2-france.com/blog/${post.slug}/`;
   const shareImage = `https://go2-france.com${post.image}`;
 
@@ -72,6 +79,9 @@ export default function BlogPostPage({ post, relatedPosts }: BlogPostPageProps) 
         <meta property="article:author" content={post.author.name} />
         {post.tags.map(tag => (<meta key={tag} property="article:tag" content={tag} />))}
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd) }} />
+        {faqJsonLd && (
+          <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
+        )}
       </SEOHead>
 
       <article className="bg-surface-cream min-h-screen">
