@@ -22,6 +22,7 @@ export interface SiteConfig {
     esim: string;
     getYourGuide: string;
     klook: string;
+    viator: string;
   };
   seo: {
     siteUrl: string;
@@ -132,6 +133,7 @@ export const siteConfig: SiteConfig = {
     esim: 'https://saily.tpo.lv/rf9lidnE',
     getYourGuide: 'https://getyourguide.tpo.lv/6HngJ5FC',
     klook: 'https://klook.tpo.lv/7Dt6WApj',
+    viator: 'https://viator.tpo.lv/TUcQTS5u',
   },
 
   seo: {
