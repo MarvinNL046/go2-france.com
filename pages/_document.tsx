@@ -20,6 +20,16 @@ export default class MyDocument extends Document<MyDocumentProps> {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
 
+        {/* Travelpayouts Drive */}
+        <script
+          data-noptimize="1"
+          data-cfasync="false"
+          data-wpfc-render="false"
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var s=document.createElement("script");s.async=1;s.src="https://emrldco.com/NTIxOTQw.js?t=521940";document.head.appendChild(s);})();`,
+          }}
+        />
+
         {/* Preconnect to external origins for better performance */}
         {isProduction && (
           <>
