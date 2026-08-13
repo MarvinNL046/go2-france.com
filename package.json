@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "data:sitemap": "node lib/sitemap.js",
-    "data:verify": "node lib/verify-data.js"
+    "data:verify": "node lib/verify-data.js",
+    "data:sitemap:verify": "node lib/verify-sitemap.js"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
